@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-IPTV Stream Scraper for thapcamtvbc.mobi
+IPTV Stream Scraper for bunchatv1.net
 Output format: monplayer JSON (groups → channels → sources → stream_links)
 """
 
@@ -18,32 +18,29 @@ from PIL import Image, ImageDraw, ImageFont
 
 # ── Cấu hình ─────────────────────────────────────────────────────────────────
 OUTPUT_FILE   = "streams.json"
-SOURCE_NAME   = "Thập Cẩm TV"          # tên nguồn hiển thị trong monplayer
-PLAYLIST_ID   = "ThapCam"              # id playlist trong monplayer
-PLAYLIST_NAME = "Thập Cẩm TV"
+SOURCE_NAME   = "Bún Chả TV"          # tên nguồn hiển thị trong monplayer
+PLAYLIST_ID   = "Buncha"              # id playlist trong monplayer
+PLAYLIST_NAME = "Bún Chả TV"
 
 # ⚠️  QUAN TRỌNG: Điền URL GitHub Pages của bạn vào đây sau khi deploy!
 # Monplayer dùng URL này để tự động refresh playlist (lấy link m3u8 mới).
 # Nếu để trống, stream sẽ bị lỗi sau khi link hết hạn (~vài tiếng).
 # Ví dụ: "https://YOUR_USERNAME.github.io/Get-IPTV/streams.json"
-# Ví dụ: "https://raw.githubusercontent.com/thaidqt/TC/main/streams.json"
-PLAYLIST_URL  = "https://raw.githubusercontent.com/thaidqt/TC/refs/heads/main/streams.json"
+# Ví dụ: "https://raw.githubusercontent.com/thaidqt/TT/main/streams.json"
+PLAYLIST_URL  = "https://raw.githubusercontent.com/DQT84/BC/main/streams.json"
 
-LOGO_URL      = "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/17091984.jpg"
+LOGO_URL      = "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
 # ─────────────────────────────────────────────────────────────────────────────
 
 SPORT_EMOJI = {
-    "Bóng đá": "⚽",
     "billiard": "🎱", "bida": "🎱", "pba": "🎱", "lpba": "🎱",
-    "Bóng bàn": "🏓", "Table Tennis": "🏓", "Ping Pong": "🏓",
     "basket": "🏀", "nba": "🏀", "bóng rổ": "🏀",
     "tennis": "🎾", "atp": "🎾", "wta": "🎾",
-    "cầu lông": "🏸", "badminton": "🏸", 
+    "cầu lông": "🏸", "badminton": "🏸",
     "bóng chuyền": "🏐", "volleyball": "🏐",
     "võ thuật": "🥊", "mma": "🥊", "boxing": "🥊", "one ": "🥊",
-    "đua xe f1": "🏎️", "Car Racing": "🏎️", "F1": "🏎️", "Formula E ": "🏎️", "MotoGP ": "🏎️",
-    "esports": "🎮",
 }
+
 def _sport_emoji(league: str) -> str:
     low = league.lower()
     for kw, emoji in SPORT_EMOJI.items():
@@ -54,7 +51,7 @@ def _sport_emoji(league: str) -> str:
 # Thứ tự ưu tiên hiển thị nhóm môn thể thao
 SPORT_ORDER = [
     "⚽ Bóng Đá", "🏀 Bóng Rổ", "🎾 Tennis", "🏸 Cầu Lông",
-    "🏐 Bóng Chuyền", "🎱 Billiard", "🥊 Võ Thuật", "🏓 Bóng Bàn", "🏎️ Đua Xe F1", "🎮 Esports"
+    "🏐 Bóng Chuyền", "🎱 Billiard", "🥊 Võ Thuật", "🏓 Bóng Bàn",
 ]
 
 def _sport_category(league: str, title: str = "") -> tuple:
@@ -249,9 +246,9 @@ def generate_thumb(logo_a_url: str, logo_b_url: str, channel_id: str, session,
     return path
 
 
-class ThapCamTVScraper:
+class BunchaTVScraper:
     def __init__(self):
-        self.base_url = "https://thapcamtvbc.mobi/"
+        self.base_url = "https://bunchatv1.net"
         self.user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         # QUAN TRỌNG: chỉ set User-Agent, KHÔNG set Accept-Language/Encoding
         # vì server sẽ trả HTML rút gọn (~22KB) nếu có các header đó
@@ -474,7 +471,7 @@ class ThapCamTVScraper:
                 match_time=match_time, league=league,
             )
             thumb_url = (
-                f"https://raw.githubusercontent.com/thaidqt/TC/main/{thumb_path}?v={int(datetime.now().timestamp())}"
+                f"https://raw.githubusercontent.com/DQT84/BC/main/{thumb_path}?v={int(datetime.now().timestamp())}"
                 if thumb_path else logo_a
             )
 
@@ -597,10 +594,10 @@ class ThapCamTVScraper:
 
 def main():
     print("=" * 60)
-    print("IPTV Stream Scraper - thapcamtvbc.mobi")
+    print("IPTV Stream Scraper - bunchatv1.net")
     print("=" * 60)
 
-    scraper = ThapCamTVScraper()
+    scraper = BunchaTVScraper()
 
     # Bước 1: Thu thập danh sách trận
     matches = scraper.collect_all_matches()
