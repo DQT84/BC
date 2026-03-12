@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-12T11:46:01.619019",
+  "updated_at": "2026-03-12T14:35:35.893543",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-a0fa48f909fb",
-          "name": "⚽ Seoul Knights vs Wonju DB | 17:00",
+          "id": "kaytee-c70944281ad7",
+          "name": "⚽ Boluspor vs Corum Belediyespor | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0fa48f909fb.png?v=1773315954",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c70944281ad7.png?v=1773326123",
             "width": 1600,
             "height": 1200
           },
@@ -41,96 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601309633",
+              "id": "src-601296901",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601309633",
-                  "name": "Seoul Knights vs Wonju DB",
+                  "id": "ct-601296901",
+                  "name": "Boluspor vs Corum Belediyespor",
                   "streams": [
                     {
-                      "id": "st-601309633",
+                      "id": "st-601296901",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-563154e2d4",
+                          "id": "lnk-924abd87a1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b28c6b326d8_110198/index.m3u8?expire=1773913835&sign=8fce33eb30b19c5f30b05593e551df2e",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2b13b70a68_88186/index.m3u8?expire=1773923259&sign=bd348e159da9cefccffe35b1d915248f",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/seoul-knights-vs-wonju-db-1700-12-03-2026/601309633"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "KBL",
-            "team_a": "Seoul Knights",
-            "team_b": "Wonju DB",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d3de444713ef5e02203e95e669d5f894.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9bef33c943c16b7aedec052a581c14d2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0fa48f909fb.png?v=1773315954",
-            "thumb_key": "thumbs/kaytee-a0fa48f909fb.webp"
-          }
-        },
-        {
-          "id": "kaytee-a134c5f05a0c",
-          "name": "⚽ Iğdır FK vs Bodrum FK | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a134c5f05a0c.png?v=1773315955",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296871",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601296871",
-                  "name": "Iğdır FK vs Bodrum FK",
-                  "streams": [
-                    {
-                      "id": "st-601296871",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b403622b76",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2900e70a68_73445/index.m3u8?expire=1773914766&sign=663bee0ac5baac851b9e044aa30cb497",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/idr-fk-vs-bodrum-fk-1730-12-03-2026/601296871"
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-corum-belediyespor-2000-12-03-2026/601296901"
                             },
                             {
                               "key": "User-Agent",
@@ -139,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-1a052f165a",
+                          "id": "lnk-fc031506f1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/5da59dd20d41d49ea13b6798b48836ca/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/9a6c7fedd3a5fae7a35dd7610c3bb38c/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/idr-fk-vs-bodrum-fk-1730-12-03-2026/601296871"
+                              "value": "https://bunchatv1.net/truc-tiep/boluspor-vs-corum-belediyespor-2000-12-03-2026/601296901"
                             },
                             {
                               "key": "User-Agent",
@@ -164,17 +95,17 @@
           ],
           "org_metadata": {
             "league": "Turkish First League",
-            "team_a": "Iğdır FK",
-            "team_b": "Bodrum FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/52ad6d005782baec899d29055cbed020.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a134c5f05a0c.png?v=1773315955",
-            "thumb_key": "thumbs/kaytee-a134c5f05a0c.webp"
+            "team_a": "Boluspor",
+            "team_b": "Corum Belediyespor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e31af2ae24f05ee698546bbbd8e1c02c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0f2a369af39d8b5f8de389cca2a217ad.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c70944281ad7.png?v=1773326123",
+            "thumb_key": "thumbs/kaytee-c70944281ad7.webp"
           }
         },
         {
-          "id": "kaytee-4dc9ccc5d5a9",
-          "name": "⚽ Difai Agsu FK vs Baku Sportinq FK | 18:00",
+          "id": "kaytee-85fa55161485",
+          "name": "⚽ Le Messager Ngozi vs Musongati FC | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -182,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4dc9ccc5d5a9.png?v=1773315957",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-85fa55161485.png?v=1773326125",
             "width": 1600,
             "height": 1200
           },
@@ -196,44 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601296886",
+              "id": "src-601299979",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601296886",
-                  "name": "Difai Agsu FK vs Baku Sportinq FK",
+                  "id": "ct-601299979",
+                  "name": "Le Messager Ngozi vs Musongati FC",
                   "streams": [
                     {
-                      "id": "st-601296886",
+                      "id": "st-601299979",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-95a0ca2b11",
+                          "id": "lnk-d610e235b3",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b292bb70a68_6308/index.m3u8?expire=1773915451&sign=72362203bc1a2e40c51920092b9ac7af",
+                          "url": "https://live.alilicloud.com/live/eb5db287631463ab2cdbfc6a492baba4/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/difai-agsu-fk-vs-baku-sportinq-fk-1800-12-03-2026/601296886"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-0fe126eb0e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/difai-agsu-fk-vs-baku-sportinq-fk-1800-12-03-2026/601296886"
+                              "value": "https://bunchatv1.net/truc-tiep/le-messager-ngozi-vs-musongati-fc-2000-12-03-2026/601299979"
                             },
                             {
                               "key": "User-Agent",
@@ -249,18 +163,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Azerbaijan First Division",
-            "team_a": "Difai Agsu FK",
-            "team_b": "Baku Sportinq FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ee1849ece6caa4416653a0e7d241031b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/afd11580da1ff691b68dcb564d9d10e5.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4dc9ccc5d5a9.png?v=1773315957",
-            "thumb_key": "thumbs/kaytee-4dc9ccc5d5a9.webp"
+            "league": "Burundi Premier League",
+            "team_a": "Le Messager Ngozi",
+            "team_b": "Musongati FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/657b244fb444661eb3ada9d23723d4ca.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/88897253e19572f9733a6cb98ce0439d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-85fa55161485.png?v=1773326125",
+            "thumb_key": "thumbs/kaytee-85fa55161485.webp"
           }
         },
         {
-          "id": "kaytee-e30574c9eeae",
-          "name": "⚽ Kakeru KUMAGAI / Hiroki NISHI vs D. LUNDGAARD /  M. VESTERGAARD | 18:00",
+          "id": "kaytee-1205932eecd3",
+          "name": "⚽ Chanmari FC vs Dempo | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -268,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773315958",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1205932eecd3.png?v=1773326127",
             "width": 1600,
             "height": 1200
           },
@@ -282,27 +196,27 @@
           ],
           "sources": [
             {
-              "id": "src-601310533",
+              "id": "src-601296913",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601310533",
-                  "name": "Kakeru KUMAGAI / Hiroki NISHI vs D. LUNDGAARD /  M. VESTERGAARD",
+                  "id": "ct-601296913",
+                  "name": "Chanmari FC vs Dempo",
                   "streams": [
                     {
-                      "id": "st-601310533",
+                      "id": "st-601296913",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-793a052a07",
+                          "id": "lnk-fe580f6dd9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c24326d8_42127/index.m3u8?expire=1773909668&sign=7aae6ee5d637e9d676aa25b66639e54d",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2aea3326d8_133172/index.m3u8?expire=1773922595&sign=ccccd0083d02baf2d4210fc2b8f8f271",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kakeru-kumagai--hiroki-nishi-vs-d-lundgaard---m-vestergaard-1800-12-03-2026/601310533"
+                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-dempo-2000-12-03-2026/601296913"
                             },
                             {
                               "key": "User-Agent",
@@ -318,225 +232,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Kakeru KUMAGAI / Hiroki NISHI",
-            "team_b": "D. LUNDGAARD /  M. VESTERGAARD",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b44364f930239af333f0c6bab1ca406e.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/de7e50c19ce11ab7f52a0029cac3c51d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773315958",
-            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
-          }
-        },
-        {
-          "id": "kaytee-fdc5c7226c11",
-          "name": "⚽ CORBETT / GAI vs R. HIROKAMI /  S. HOBARA | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773315958",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310536",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310536",
-                  "name": "CORBETT / GAI vs R. HIROKAMI /  S. HOBARA",
-                  "streams": [
-                    {
-                      "id": "st-601310536",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f510d88166",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b279e2326d8_85706/index.m3u8?expire=1773909090&sign=d8d52e7214107fbf80e8de1453ef5c36",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/corbett--gai-vs-r-hirokami---s-hobara-1800-12-03-2026/601310536"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "CORBETT / GAI",
-            "team_b": "R. HIROKAMI /  S. HOBARA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e0bd8c8efd4c20eb8d1d4c5112179b44.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4a7c0bf5eb952d0980cd26007a896043.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773315958",
-            "thumb_key": "thumbs/kaytee-fdc5c7226c11.webp"
-          }
-        },
-        {
-          "id": "kaytee-dd0d27d88c44",
-          "name": "⚽ Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN / TAN W. K. | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773315959",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310542",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310542",
-                  "name": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN / TAN W. K.",
-                  "streams": [
-                    {
-                      "id": "st-601310542",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eee223d4b0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c8670a68_85714/index.m3u8?expire=1773909766&sign=387ff62b4e7ed6e264a804c37b8cad85",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/peeratchai-sukphun--pakkapon-teeraratsakul-vs-n-m-a-a-azriyn--tan-w-k-1800-12-03-2026/601310542"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - YONEX Swiss Open 2026",
-            "team_a": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL",
-            "team_b": "N. M. A. A. AZRIYN / TAN W. K.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bbe344a57234795986538071709b90f8.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5c95a1e9a0f2c39370dfe96d753b9bd3.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773315959",
-            "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
-          }
-        },
-        {
-          "id": "kaytee-b9e8544c9125",
-          "name": "⚽ LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773315960",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310548",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310548",
-                  "name": "LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu",
-                  "streams": [
-                    {
-                      "id": "st-601310548",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c3da346cf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-hsieh-pei-shan--hung-entzu-1800-12-03-2026/601310548"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - YONEX Swiss Open 2026",
-            "team_a": "LIN Xiao Min / WANG Yu Qiao",
-            "team_b": "HSIEH Pei Shan / HUNG En-Tzu",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/238f1680cff0191149d98067809d91f1.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773315960",
-            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
+            "league": "Indian League Division 1",
+            "team_a": "Chanmari FC",
+            "team_b": "Dempo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1205932eecd3.png?v=1773326127",
+            "thumb_key": "thumbs/kaytee-1205932eecd3.webp"
           }
         },
         {
           "id": "kaytee-92129808f107",
-          "name": "⚽ Luong Duc Thien vs Faruk Terzic | 18:10",
+          "name": "⚽ Phuong Nam Pham vs Michael Thorn | 20:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -544,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773315960",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773326129",
             "width": 1600,
             "height": 1200
           },
@@ -563,7 +270,7 @@
               "contents": [
                 {
                   "id": "ct-601310590",
-                  "name": "Luong Duc Thien vs Faruk Terzic",
+                  "name": "Phuong Nam Pham vs Michael Thorn",
                   "streams": [
                     {
                       "id": "st-601310590",
@@ -578,7 +285,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/luong-duc-thien-vs-faruk-terzic-1810-12-03-2026/601310590"
+                              "value": "https://bunchatv1.net/truc-tiep/phuong-nam-pham-vs-michael-thorn-2030-12-03-2026/601310590"
                             },
                             {
                               "key": "User-Agent",
@@ -595,95 +302,17 @@
           ],
           "org_metadata": {
             "league": "European Open Pool Championship 2026",
-            "team_a": "Luong Duc Thien",
-            "team_b": "Faruk Terzic",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/132b3051fdf955d76f8e417f64383d7a.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/60633befc296df3783df986d44277377.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773315960",
+            "team_a": "Phuong Nam Pham",
+            "team_b": "Michael Thorn",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8358a3647eb23c68dc72a2f931d8d80e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773326129",
             "thumb_key": "thumbs/kaytee-92129808f107.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_chuyền",
-      "name": "🔴 Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-b7e8ae3c5b4c",
-          "name": "🏐 Daejeon JKJ W vs Hyundai E&C Hillstate W | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b7e8ae3c5b4c.png?v=1773315954",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309411",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601309411",
-                  "name": "Daejeon JKJ W vs Hyundai E&C Hillstate W",
-                  "streams": [
-                    {
-                      "id": "st-601309411",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c00a92ea3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b287d6326d8_142210/index.m3u8?expire=1773912662&sign=493e6fbfe8b60e68dd026b8bbcbc6299",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/daejeon-jkj-w-vs-hyundai-ec-hillstate-w-1700-12-03-2026/601309411"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "Daejeon JKJ W",
-            "team_b": "Hyundai E&C Hillstate W",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/546f6d6462b6a4bfa742f3fb5de12358.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e2fe06b2d0da508e427eaa255c10d84e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b7e8ae3c5b4c.png?v=1773315954",
-            "thumb_key": "thumbs/kaytee-b7e8ae3c5b4c.webp"
           }
         },
         {
-          "id": "kaytee-f787586b2a41",
-          "name": "🏐 KAL Jumbos vs KB Stars | 17:00",
+          "id": "kaytee-b9e8544c9125",
+          "name": "⚽ Nguyễn Thùy Linh vs Tomoka MIYAZAKI | 20:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -691,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f787586b2a41.png?v=1773315955",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773326129",
             "width": 1600,
             "height": 1200
           },
@@ -705,27 +334,27 @@
           ],
           "sources": [
             {
-              "id": "src-601309429",
+              "id": "src-601310548",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601309429",
-                  "name": "KAL Jumbos vs KB Stars",
+                  "id": "ct-601310548",
+                  "name": "Nguyễn Thùy Linh vs Tomoka MIYAZAKI",
                   "streams": [
                     {
-                      "id": "st-601309429",
+                      "id": "st-601310548",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9c5dd50856",
+                          "id": "lnk-2c3da346cf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b285b1326d8_128756/index.m3u8?expire=1773912113&sign=9269b9f5be8dd9a89b83a2380b504ab9",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kal-jumbos-vs-kb-stars-1700-12-03-2026/601309429"
+                              "value": "https://bunchatv1.net/truc-tiep/nguyen-thuy-linh-vs-tomoka-miyazaki-2030-12-03-2026/601310548"
                             },
                             {
                               "key": "User-Agent",
@@ -741,27 +370,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Volleyball League",
-            "team_a": "KAL Jumbos",
-            "team_b": "KB Stars",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/75bd4d19a05b0b6c71bcbb910ea7400a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f787586b2a41.png?v=1773315955",
-            "thumb_key": "thumbs/kaytee-f787586b2a41.webp"
+            "league": "Sân 4 - YONEX Swiss Open 2026",
+            "team_a": "Nguyễn Thùy Linh",
+            "team_b": "Tomoka MIYAZAKI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/665a2b534a0a474142896ee2e1e73ad7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/772e2eff2e5357d2c68f4cc6467eccef.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773326129",
+            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_billiard",
-      "name": "🔴 Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-fdd025c7c45c",
-          "name": "🎱 Cho Keon-hwi vs Coklu | 17:00",
+          "id": "kaytee-42be87de4fe2",
+          "name": "⚽ Dewa United FC vs Manila Digger FC | 20:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -769,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773315953",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-42be87de4fe2.png?v=1773326131",
             "width": 1600,
             "height": 1200
           },
@@ -783,27 +403,27 @@
           ],
           "sources": [
             {
-              "id": "src-601310674",
+              "id": "src-601296907",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601310674",
-                  "name": "Cho Keon-hwi vs Coklu",
+                  "id": "ct-601296907",
+                  "name": "Dewa United FC vs Manila Digger FC",
                   "streams": [
                     {
-                      "id": "st-601310674",
+                      "id": "st-601296907",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-1000712ce0",
+                          "id": "lnk-97ae9a7a63",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b241c870a68_142246/index.m3u8?expire=1773894728&sign=c5ad8465264588e285edaf3efccee7d0",
+                          "url": "https://live.alilicloud.com/live/188a8a0d1de42a1994f1ac5d6b5744ff/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cho-keonhwi-vs-coklu-1700-12-03-2026/601310674"
+                              "value": "https://bunchatv1.net/truc-tiep/dewa-united-fc-vs-manila-digger-fc-2030-12-03-2026/601296907"
                             },
                             {
                               "key": "User-Agent",
@@ -819,27 +439,18 @@
             }
           ],
           "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Cho Keon-hwi",
-            "team_b": "Coklu",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f77eaac0196b3f3f842416cdacf4ba1.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773315953",
-            "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
+            "league": "AFC Challenge League",
+            "team_a": "Dewa United FC",
+            "team_b": "Manila Digger FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/76db1148a0e8a7c8e98ab05814cab691.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9d79080ca3ed7143abccd7eda30cf692.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-42be87de4fe2.png?v=1773326131",
+            "thumb_key": "thumbs/kaytee-42be87de4fe2.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-aec8b0f55f8f",
-          "name": "🏓 WEN Ruibo vs Truls MOREGARD | 17:30",
+          "id": "kaytee-e7ae1fb79b4f",
+          "name": "⚽ Persis Solo FC vs Bali United | 20:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -847,7 +458,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-aec8b0f55f8f.png?v=1773315957",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e7ae1fb79b4f.png?v=1773326133",
             "width": 1600,
             "height": 1200
           },
@@ -861,105 +472,27 @@
           ],
           "sources": [
             {
-              "id": "src-601310524",
+              "id": "src-601296919",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601310524",
-                  "name": "WEN Ruibo vs Truls MOREGARD",
+                  "id": "ct-601296919",
+                  "name": "Persis Solo FC vs Bali United",
                   "streams": [
                     {
-                      "id": "st-601310524",
+                      "id": "st-601296919",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9de08ed5c8",
+                          "id": "lnk-8c7a223879",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2945470a68_112310/index.m3u8?expire=1773915860&sign=7e083cd2ceb2ffb64cf058001f0dd524",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2aa77326d8_85514/index.m3u8?expire=1773921527&sign=3dc870adceeb555a35590ad6d8db0dda",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/wen-ruibo-vs-truls-moregard-1730-12-03-2026/601310524"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "WEN Ruibo",
-            "team_b": "Truls MOREGARD",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/126918af5658785519324e2b8eb33da2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-aec8b0f55f8f.png?v=1773315957",
-            "thumb_key": "thumbs/kaytee-aec8b0f55f8f.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-b1669c6b46e6",
-          "name": "⚽ Tampines Rovers FC vs Bangkok United FC | 19:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773315960",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296898",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601296898",
-                  "name": "Tampines Rovers FC vs Bangkok United FC",
-                  "streams": [
-                    {
-                      "id": "st-601296898",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5ead84abc0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2a535326d8_28/index.m3u8?expire=1773920181&sign=c24ce95b88d668dd180e0eef8bb26c9b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tampines-rovers-fc-vs-bangkok-united-fc-1915-12-03-2026/601296898"
+                              "value": "https://bunchatv1.net/truc-tiep/persis-solo-fc-vs-bali-united-2030-12-03-2026/601296919"
                             },
                             {
                               "key": "User-Agent",
@@ -968,15 +501,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-f529379742",
+                          "id": "lnk-953c644d1e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/6c4e6b8e1727a34acd341839de01afa7/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/718ec16afd8f987be60d10d6a5e4a156/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tampines-rovers-fc-vs-bangkok-united-fc-1915-12-03-2026/601296898"
+                              "value": "https://bunchatv1.net/truc-tiep/persis-solo-fc-vs-bali-united-2030-12-03-2026/601296919"
                             },
                             {
                               "key": "User-Agent",
@@ -992,20 +525,227 @@
             }
           ],
           "org_metadata": {
-            "league": "AFC Champions League 2",
-            "team_a": "Tampines Rovers FC",
-            "team_b": "Bangkok United FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773315960",
-            "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
+            "league": "Indonesian Liga 1",
+            "team_a": "Persis Solo FC",
+            "team_b": "Bali United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/46e87ccb8a5cacc290719d822b9f8fe1.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/09fe2ecf88f68970da755f8655d5da8a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e7ae1fb79b4f.png?v=1773326133",
+            "thumb_key": "thumbs/kaytee-e7ae1fb79b4f.webp"
+          }
+        },
+        {
+          "id": "kaytee-e30574c9eeae",
+          "name": "⚽ KANG K. X / A TAI vs Leo Rolly CARNANDO / Bagas MAULANA | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773326134",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310533",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310533",
+                  "name": "KANG K. X / A TAI vs Leo Rolly CARNANDO / Bagas MAULANA",
+                  "streams": [
+                    {
+                      "id": "st-601310533",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-539fc81aa9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2ce1070a68_19013/index.m3u8?expire=1773930640&sign=e8bb83d1b6adc0d0e66887aef0beb8a2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kang-k-x--a-tai-vs-leo-rolly-carnando--bagas-maulana-2030-12-03-2026/601310533"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "KANG K. X / A TAI",
+            "team_b": "Leo Rolly CARNANDO / Bagas MAULANA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d5f07dc4805b8e30fe1795695be061fb.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773326134",
+            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
+          }
+        },
+        {
+          "id": "kaytee-fdc5c7226c11",
+          "name": "⚽ Li Shi Feng vs Yudai OKIMOTO | 20:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773326135",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310536",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310536",
+                  "name": "Li Shi Feng vs Yudai OKIMOTO",
+                  "streams": [
+                    {
+                      "id": "st-601310536",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f510d88166",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b279e2326d8_85706/index.m3u8?expire=1773909090&sign=d8d52e7214107fbf80e8de1453ef5c36",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/li-shi-feng-vs-yudai-okimoto-2040-12-03-2026/601310536"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - YONEX Swiss Open 2026",
+            "team_a": "Li Shi Feng",
+            "team_b": "Yudai OKIMOTO",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/2a7eaccfbb46008900317ca65afa4c83.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/032ad96f58c825a4c5f6db6c39295ba8.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773326135",
+            "thumb_key": "thumbs/kaytee-fdc5c7226c11.webp"
+          }
+        },
+        {
+          "id": "kaytee-dd0d27d88c44",
+          "name": "⚽ Jiri Kral/Ondrej KraL vs Eloi ADAM / Leo ROSSI | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773326135",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310542",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310542",
+                  "name": "Jiri Kral/Ondrej KraL vs Eloi ADAM / Leo ROSSI",
+                  "streams": [
+                    {
+                      "id": "st-601310542",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eee223d4b0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c8670a68_85714/index.m3u8?expire=1773909766&sign=387ff62b4e7ed6e264a804c37b8cad85",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jiri-kralondrej-kral-vs-eloi-adam--leo-rossi-2130-12-03-2026/601310542"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - YONEX Swiss Open 2026",
+            "team_a": "Jiri Kral/Ondrej KraL",
+            "team_b": "Eloi ADAM / Leo ROSSI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f9e36c84d4904351fae13499da6e7d61.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ab19817920edc45247bcc3b248cbbf61.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773326135",
+            "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_billiard",
-      "name": "⏳ Sắp Live 🎱 Billiard",
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1020,16 +760,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773315961",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773326121",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -1075,7 +815,7 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/309d2853918611fcfe9da31a28328e58.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773315961",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773326121",
             "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
           }
         }
