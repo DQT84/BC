@@ -1,0 +1,2595 @@
+{
+  "id": "ThapCam",
+  "url": "https://raw.githubusercontent.com/thaidqt/TC/refs/heads/main/streams.json",
+  "name": "Thập Cẩm TV",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/17091984.jpg"
+  },
+  "updated_at": "2026-03-12T01:58:17.516192",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-7d92a4cf45a9",
+          "name": "⚽ Los Angeles Galaxy vs Mount Pleasant FA | 08:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-7d92a4cf45a9.png?v=1773280682",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279251",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279251",
+                  "name": "Los Angeles Galaxy vs Mount Pleasant FA",
+                  "streams": [
+                    {
+                      "id": "st-279251",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4d70ccb727",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69b20e7c2f936_1948/index.m3u8?expire=1773881596&sign=699b4106079bb3e3e1cd545e51919b1b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/los-angeles-galaxy-vs-mount-pleasant-fa-0830-12-03-2026/279251"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b4f6c53dbd",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/910793c839aa58dc5562d7c3e68c539b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/los-angeles-galaxy-vs-mount-pleasant-fa-0830-12-03-2026/279251"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CNCF CHL",
+            "team_a": "Los Angeles Galaxy",
+            "team_b": "Mount Pleasant FA",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/8ef755c4d2e1aed96dc5d291977c1043.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/bd204b38f3037dcd4478b7782e08519c.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-7d92a4cf45a9.png?v=1773280682",
+            "thumb_key": "thumbs/kaytee-7d92a4cf45a9.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-bb34be530e57",
+          "name": "🏀 Orlando Magic vs Cleveland Cavaliers | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-bb34be530e57.png?v=1773280677",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-292514",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-292514",
+                  "name": "Orlando Magic vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-292514",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4903c88c25",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e3f8b96982beead3ca80d1c40d492d75/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/orlando-magic-vs-cleveland-cavaliers-0630-12-03-2026/292514"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Orlando Magic",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/0dc24d08ef0b5584e0b70f967db64b36.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/57c938e35ceb2ee92562a09c4165fb47.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-bb34be530e57.png?v=1773280677",
+            "thumb_key": "thumbs/kaytee-bb34be530e57.webp"
+          }
+        },
+        {
+          "id": "kaytee-01eec6f60942",
+          "name": "🏀 New Orleans Pelicans vs Toronto Raptors | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-01eec6f60942.png?v=1773280678",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281216",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281216",
+                  "name": "New Orleans Pelicans vs Toronto Raptors",
+                  "streams": [
+                    {
+                      "id": "st-281216",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-978d0e1b7c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69b200d62f936_742/index.m3u8?expire=1773878102&sign=c8d565cff7771c489e26c8bf0dee54c1",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/new-orleans-pelicans-vs-toronto-raptors-0700-12-03-2026/281216"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Toronto Raptors",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/c6fb043dc20bf0033d2a8108bedcdc43.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/475f7f547d6bcf6bc07cf9f910b8de85.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-01eec6f60942.png?v=1773280678",
+            "thumb_key": "thumbs/kaytee-01eec6f60942.webp"
+          }
+        },
+        {
+          "id": "kaytee-3801e16ffde7",
+          "name": "🏀 New Orleans Pelicans vs Toronto Raptors | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-3801e16ffde7.png?v=1773280678",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-292520",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-292520",
+                  "name": "New Orleans Pelicans vs Toronto Raptors",
+                  "streams": [
+                    {
+                      "id": "st-292520",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd9fb53f98",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/1b27f6de44a745e1c28c6966a9518cda/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/new-orleans-pelicans-vs-toronto-raptors-0700-12-03-2026/292520"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Toronto Raptors",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/2602b893bb3f8d381a5b0d978fad74e1.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/e299ddecec93dc5c8db83b1761e2fa1f.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-3801e16ffde7.png?v=1773280678",
+            "thumb_key": "thumbs/kaytee-3801e16ffde7.webp"
+          }
+        },
+        {
+          "id": "kaytee-0bfad67150f3",
+          "name": "🏀 Utah Jazz vs New York Knicks | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-0bfad67150f3.png?v=1773280679",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281219",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281219",
+                  "name": "Utah Jazz vs New York Knicks",
+                  "streams": [
+                    {
+                      "id": "st-281219",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f8131c647",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69b20cc02f936_145/index.m3u8?expire=1773881152&sign=22f449e7f54b35c5426e62be45a628ad",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/utah-jazz-vs-new-york-knicks-0800-12-03-2026/281219"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Utah Jazz",
+            "team_b": "New York Knicks",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/29c362ae47e62742ba652ec9c09da93e.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/91e82809e9d212639d4f2589341f76b6.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-0bfad67150f3.png?v=1773280679",
+            "thumb_key": "thumbs/kaytee-0bfad67150f3.webp"
+          }
+        },
+        {
+          "id": "kaytee-70c31adbdef2",
+          "name": "🏀 Utah Jazz vs New York Knicks | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-70c31adbdef2.png?v=1773280680",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-292538",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-292538",
+                  "name": "Utah Jazz vs New York Knicks",
+                  "streams": [
+                    {
+                      "id": "st-292538",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ba639ca6ba",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/71891ad1c1242caf425bc6a069842469/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/utah-jazz-vs-new-york-knicks-0800-12-03-2026/292538"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "New York Knicks",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/8c88df221129169246c5b8a82955fa34.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-70c31adbdef2.png?v=1773280680",
+            "thumb_key": "thumbs/kaytee-70c31adbdef2.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_tennis",
+      "name": "🔴 Live 🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-5354f27b5013",
+          "name": "🎾 Djokovic N. vs Draper J. | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-5354f27b5013.png?v=1773280680",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-296060",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-296060",
+                  "name": "Djokovic N. vs Draper J.",
+                  "streams": [
+                    {
+                      "id": "st-296060",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-555905bb66",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69b20e672f936_760/index.m3u8?expire=1773881575&sign=87187ccae3a4bbbe5156f28a23e4dbe1",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/djokovic-n-vs-draper-j-0800-12-03-2026/296060"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Indian Wells",
+            "team_a": "Djokovic N.",
+            "team_b": "Draper J.",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/d0c7546657888bc9a8747efc677fea2e.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/0c1262943081d6f8a35ae6a0b0e44b6c.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-5354f27b5013.png?v=1773280680",
+            "thumb_key": "thumbs/kaytee-5354f27b5013.webp"
+          }
+        },
+        {
+          "id": "kaytee-2c8bd2c8f69a",
+          "name": "🎾 Karen Khachanov/Andrey Rublev vs Arthur Rinderknech/Valentin Vacherot | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-2c8bd2c8f69a.png?v=1773280680",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-295418",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-295418",
+                  "name": "Karen Khachanov/Andrey Rublev vs Arthur Rinderknech/Valentin Vacherot",
+                  "streams": [
+                    {
+                      "id": "st-295418",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d865c18579",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/53bfdc322a6fd52504977256584f7971/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/karen-khachanovandrey-rublev-vs-arthur-rinderknechvalentin-vacherot-0800-12-03-2026/295418"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Indian Wells, USA Men Doubles",
+            "team_a": "Karen Khachanov/Andrey Rublev",
+            "team_b": "Arthur Rinderknech/Valentin Vacherot",
+            "logo_a": "/img/soccer.svg",
+            "logo_b": "/img/soccer.svg",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-2c8bd2c8f69a.png?v=1773280680",
+            "thumb_key": "thumbs/kaytee-2c8bd2c8f69a.webp"
+          }
+        },
+        {
+          "id": "kaytee-de5334ba8223",
+          "name": "🎾 Novak Djokovic vs Jack Draper | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-de5334ba8223.png?v=1773280681",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-295415",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-295415",
+                  "name": "Novak Djokovic vs Jack Draper",
+                  "streams": [
+                    {
+                      "id": "st-295415",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d304d038b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/e0b2b7ca5875c62495f83309a30df384/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/novak-djokovic-vs-jack-draper-0800-12-03-2026/295415"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Indian Wells, USA Men Singles",
+            "team_a": "Novak Djokovic",
+            "team_b": "Jack Draper",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/a1666c927168025f31b8bdcf7ab611c3.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/7b769be4f1495af22e0f310a77176ba2.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-de5334ba8223.png?v=1773280681",
+            "thumb_key": "thumbs/kaytee-de5334ba8223.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-27c70b42d2bf",
+          "name": "⚽ San Diego FC vs Toluca | 10:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-27c70b42d2bf.png?v=1773280685",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279260",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279260",
+                  "name": "San Diego FC vs Toluca",
+                  "streams": [
+                    {
+                      "id": "st-279260",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/san-diego-fc-vs-toluca-1030-12-03-2026/279260"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CNCF CHL",
+            "team_a": "San Diego FC",
+            "team_b": "Toluca",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/4431a6b60ebf9369297717921a290687.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/725ccd5793be6b4f8dd917170dd17d04.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-27c70b42d2bf.png?v=1773280685",
+            "thumb_key": "thumbs/kaytee-27c70b42d2bf.webp"
+          }
+        },
+        {
+          "id": "kaytee-16ade9b9bcfb",
+          "name": "⚽ LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-16ade9b9bcfb.png?v=1773280685",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297332",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297332",
+                  "name": "LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu",
+                  "streams": [
+                    {
+                      "id": "st-297332",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/lin-xiao-min--wang-yu-qiao-vs-hsieh-pei-shan--hung-entzu-1600-12-03-2026/297332"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - YONEX Swiss Open 2026",
+            "team_a": "LIN Xiao Min / WANG Yu Qiao",
+            "team_b": "HSIEH Pei Shan / HUNG En-Tzu",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/b267db9e6cd058258fa70bd2cc3bcc85.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/72bbd43af0a2cd730a57d11620ca243c.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-16ade9b9bcfb.png?v=1773280685",
+            "thumb_key": "thumbs/kaytee-16ade9b9bcfb.webp"
+          }
+        },
+        {
+          "id": "kaytee-783f97561306",
+          "name": "⚽ Kakeru KUMAGAI /  Hiroki NISHI vs Daniel Lundgaard/Mads Vestergaard | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-783f97561306.png?v=1773280686",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297323",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297323",
+                  "name": "Kakeru KUMAGAI /  Hiroki NISHI vs Daniel Lundgaard/Mads Vestergaard",
+                  "streams": [
+                    {
+                      "id": "st-297323",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/kakeru-kumagai---hiroki-nishi-vs-daniel-lundgaardmads-vestergaard-1600-12-03-2026/297323"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Kakeru KUMAGAI /  Hiroki NISHI",
+            "team_b": "Daniel Lundgaard/Mads Vestergaard",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/25eed97ebcd4a70eb1eba277e8f5eca7.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/de47f698b646ecd845b0a8588f986007.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-783f97561306.png?v=1773280686",
+            "thumb_key": "thumbs/kaytee-783f97561306.webp"
+          }
+        },
+        {
+          "id": "kaytee-ec3d0db2de59",
+          "name": "⚽ CORBETT / GAI vs Rui Hirokami/ Sayaka Hobara | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-ec3d0db2de59.png?v=1773280686",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297326",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297326",
+                  "name": "CORBETT / GAI vs Rui Hirokami/ Sayaka Hobara",
+                  "streams": [
+                    {
+                      "id": "st-297326",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/corbett--gai-vs-rui-hirokami-sayaka-hobara-1600-12-03-2026/297326"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - YONEX Swiss Open 2026",
+            "team_a": "CORBETT / GAI",
+            "team_b": "Rui Hirokami/ Sayaka Hobara",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/5001f07b8eac2ef9b8ff14de48ceb079.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/355ce40a59a552a6c795702c4a8d9b0e.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-ec3d0db2de59.png?v=1773280686",
+            "thumb_key": "thumbs/kaytee-ec3d0db2de59.webp"
+          }
+        },
+        {
+          "id": "kaytee-1df0f45f2133",
+          "name": "⚽ Peeratchai SUKPHUN/ Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN /   TAN Wee Kiong | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-1df0f45f2133.png?v=1773280687",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297329",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297329",
+                  "name": "Peeratchai SUKPHUN/ Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN /   TAN Wee Kiong",
+                  "streams": [
+                    {
+                      "id": "st-297329",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/peeratchai-sukphun-pakkapon-teeraratsakul-vs-n-m-a-a-azriyn----tan-wee-kiong-1600-12-03-2026/297329"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - YONEX Swiss Open 2026",
+            "team_a": "Peeratchai SUKPHUN/ Pakkapon TEERARATSAKUL",
+            "team_b": "N. M. A. A. AZRIYN /   TAN Wee Kiong",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/34696e8bc4375866a19694da2c65226c.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/b9daa24f3adcea5f00f8337f091b1d98.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-1df0f45f2133.png?v=1773280687",
+            "thumb_key": "thumbs/kaytee-1df0f45f2133.webp"
+          }
+        },
+        {
+          "id": "kaytee-ee1412db749c",
+          "name": "⚽ Dương Quốc Hoàng vs Benji Buckley | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-ee1412db749c.png?v=1773280688",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297380",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297380",
+                  "name": "Dương Quốc Hoàng vs Benji Buckley",
+                  "streams": [
+                    {
+                      "id": "st-297380",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/duong-quoc-hoang-vs-benji-buckley-1700-12-03-2026/297380"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Dương Quốc Hoàng",
+            "team_b": "Benji Buckley",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/2e00a14bd37c726c69944f801233850a.webp",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/b03a0b079921f5cea9c4fb2a4cf84b3c.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-ee1412db749c.png?v=1773280688",
+            "thumb_key": "thumbs/kaytee-ee1412db749c.webp"
+          }
+        },
+        {
+          "id": "kaytee-a7308f960d4e",
+          "name": "⚽ Naoyuki Oi vs Anes Sinanagic | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-a7308f960d4e.png?v=1773280688",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297392",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297392",
+                  "name": "Naoyuki Oi vs Anes Sinanagic",
+                  "streams": [
+                    {
+                      "id": "st-297392",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/naoyuki-oi-vs-anes-sinanagic-1700-12-03-2026/297392"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Naoyuki Oi",
+            "team_b": "Anes Sinanagic",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/6d97a8bdd1402bea39742c913665c869.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/9dda05bb416611c160e7d76b8aeb5b58.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-a7308f960d4e.png?v=1773280688",
+            "thumb_key": "thumbs/kaytee-a7308f960d4e.webp"
+          }
+        },
+        {
+          "id": "kaytee-3d4861b354e5",
+          "name": "⚽ Alexander Kazakis vs Francesco Candela | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-3d4861b354e5.png?v=1773280689",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297401",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297401",
+                  "name": "Alexander Kazakis vs Francesco Candela",
+                  "streams": [
+                    {
+                      "id": "st-297401",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/alexander-kazakis-vs-francesco-candela-1700-12-03-2026/297401"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Alexander Kazakis",
+            "team_b": "Francesco Candela",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/6e6e24e47ac93fa5f3402299b5ea334b.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/77ed126cdd5ee79862d02e6b7623d0bd.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-3d4861b354e5.png?v=1773280689",
+            "thumb_key": "thumbs/kaytee-3d4861b354e5.webp"
+          }
+        },
+        {
+          "id": "kaytee-7f49b6c6df49",
+          "name": "⚽ Iğdır FK vs Bodrum FK | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-7f49b6c6df49.png?v=1773280691",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279269",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279269",
+                  "name": "Iğdır FK vs Bodrum FK",
+                  "streams": [
+                    {
+                      "id": "st-279269",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/idr-fk-vs-bodrum-fk-1730-12-03-2026/279269"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Iğdır FK",
+            "team_b": "Bodrum FK",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/29fe4bba24a993fa8057566c5166e68f.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/52ad6d005782baec899d29055cbed020.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-7f49b6c6df49.png?v=1773280691",
+            "thumb_key": "thumbs/kaytee-7f49b6c6df49.webp"
+          }
+        },
+        {
+          "id": "kaytee-43684c471ca1",
+          "name": "⚽ Shahdagh Qusar vs FK MOIK Baku | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-43684c471ca1.png?v=1773280692",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279278",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279278",
+                  "name": "Shahdagh Qusar vs FK MOIK Baku",
+                  "streams": [
+                    {
+                      "id": "st-279278",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/shahdagh-qusar-vs-fk-moik-baku-1800-12-03-2026/279278"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Shahdagh Qusar",
+            "team_b": "FK MOIK Baku",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/7825be2d4af7efb1b1abda2ec02f4ead.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/0cf592b401f347755712729a9001f154.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-43684c471ca1.png?v=1773280692",
+            "thumb_key": "thumbs/kaytee-43684c471ca1.webp"
+          }
+        },
+        {
+          "id": "kaytee-30398bf905e1",
+          "name": "⚽ Mingachevir vs Sabail FC | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-30398bf905e1.png?v=1773280693",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279281",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279281",
+                  "name": "Mingachevir vs Sabail FC",
+                  "streams": [
+                    {
+                      "id": "st-279281",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/mingachevir-vs-sabail-fc-1800-12-03-2026/279281"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Mingachevir",
+            "team_b": "Sabail FC",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/f6cdc0f1e80f650662078b0c273a6a7e.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/e8ff74bbde41ecfd522e50ad4dd8e7b5.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-30398bf905e1.png?v=1773280693",
+            "thumb_key": "thumbs/kaytee-30398bf905e1.webp"
+          }
+        },
+        {
+          "id": "kaytee-4072d7aed1be",
+          "name": "⚽ Difai Agsu FK vs Baku Sportinq FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-4072d7aed1be.png?v=1773280693",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279284",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279284",
+                  "name": "Difai Agsu FK vs Baku Sportinq FK",
+                  "streams": [
+                    {
+                      "id": "st-279284",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/difai-agsu-fk-vs-baku-sportinq-fk-1800-12-03-2026/279284"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Difai Agsu FK",
+            "team_b": "Baku Sportinq FK",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/ee1849ece6caa4416653a0e7d241031b.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/afd11580da1ff691b68dcb564d9d10e5.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-4072d7aed1be.png?v=1773280693",
+            "thumb_key": "thumbs/kaytee-4072d7aed1be.webp"
+          }
+        },
+        {
+          "id": "kaytee-6141c8e81c2d",
+          "name": "⚽ Moritz Neuhausen vs Mennillo Guglielmo | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-6141c8e81c2d.png?v=1773280694",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297374",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297374",
+                  "name": "Moritz Neuhausen vs Mennillo Guglielmo",
+                  "streams": [
+                    {
+                      "id": "st-297374",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/moritz-neuhausen-vs-mennillo-guglielmo-1830-12-03-2026/297374"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Moritz Neuhausen",
+            "team_b": "Mennillo Guglielmo",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/eb8074c3b6e263d9e9e8b4056f605ed1.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/c5107d5bb626d3aa552deede4d28c0c8.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-6141c8e81c2d.png?v=1773280694",
+            "thumb_key": "thumbs/kaytee-6141c8e81c2d.webp"
+          }
+        },
+        {
+          "id": "kaytee-e4179a657c25",
+          "name": "⚽ Joshua Filler vs Admir Mujagić | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-e4179a657c25.png?v=1773280694",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297386",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297386",
+                  "name": "Joshua Filler vs Admir Mujagić",
+                  "streams": [
+                    {
+                      "id": "st-297386",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/joshua-filler-vs-admir-mujagi-1830-12-03-2026/297386"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Joshua Filler",
+            "team_b": "Admir Mujagić",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/be2c892c047f9cc4f2d2378a0921d822.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/3f8524d8d379c727b0d2962c1e9e1f84.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-e4179a657c25.png?v=1773280694",
+            "thumb_key": "thumbs/kaytee-e4179a657c25.webp"
+          }
+        },
+        {
+          "id": "kaytee-9c639a837fbb",
+          "name": "⚽ Luong Duc Thien vs Faruk Terzic | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-9c639a837fbb.png?v=1773280695",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297389",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297389",
+                  "name": "Luong Duc Thien vs Faruk Terzic",
+                  "streams": [
+                    {
+                      "id": "st-297389",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/luong-duc-thien-vs-faruk-terzic-1830-12-03-2026/297389"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Luong Duc Thien",
+            "team_b": "Faruk Terzic",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/404b4b25b8e9a0ace1b353da2b6c4ea6.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/350ca27ab938933fef78ac846497bbc6.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-9c639a837fbb.png?v=1773280695",
+            "thumb_key": "thumbs/kaytee-9c639a837fbb.webp"
+          }
+        },
+        {
+          "id": "kaytee-c1b970117557",
+          "name": "⚽ Mario He vs Hamza Al Awaidi | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-c1b970117557.png?v=1773280695",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297404",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297404",
+                  "name": "Mario He vs Hamza Al Awaidi",
+                  "streams": [
+                    {
+                      "id": "st-297404",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/mario-he-vs-hamza-al-awaidi-1830-12-03-2026/297404"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Mario He",
+            "team_b": "Hamza Al Awaidi",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/b1a2696abba9a03b87370d2b78590e5b.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/111d4d014160120f2a2b59f1312b1de1.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-c1b970117557.png?v=1773280695",
+            "thumb_key": "thumbs/kaytee-c1b970117557.webp"
+          }
+        },
+        {
+          "id": "kaytee-a62d9e1cd2c6",
+          "name": "⚽ Tampines Rovers FC vs Bangkok United FC | 19:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-a62d9e1cd2c6.png?v=1773280696",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279296",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279296",
+                  "name": "Tampines Rovers FC vs Bangkok United FC",
+                  "streams": [
+                    {
+                      "id": "st-279296",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/tampines-rovers-fc-vs-bangkok-united-fc-1915-12-03-2026/279296"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f529379742",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/6c4e6b8e1727a34acd341839de01afa7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/tampines-rovers-fc-vs-bangkok-united-fc-1915-12-03-2026/279296"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League 2",
+            "team_a": "Tampines Rovers FC",
+            "team_b": "Bangkok United FC",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/23dc72567ad2999491dfe56b50f7df62.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/5cd8cd571685287d0cb678034d78b9bd.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-a62d9e1cd2c6.png?v=1773280696",
+            "thumb_key": "thumbs/kaytee-a62d9e1cd2c6.webp"
+          }
+        },
+        {
+          "id": "kaytee-cf75018c48a6",
+          "name": "⚽ Boluspor vs Corum Belediyespor | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-cf75018c48a6.png?v=1773280696",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-279299",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-279299",
+                  "name": "Boluspor vs Corum Belediyespor",
+                  "streams": [
+                    {
+                      "id": "st-279299",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/boluspor-vs-corum-belediyespor-2000-12-03-2026/279299"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Boluspor",
+            "team_b": "Corum Belediyespor",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/e31af2ae24f05ee698546bbbd8e1c02c.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/football/team/logo/0f2a369af39d8b5f8de389cca2a217ad.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-cf75018c48a6.png?v=1773280696",
+            "thumb_key": "thumbs/kaytee-cf75018c48a6.webp"
+          }
+        },
+        {
+          "id": "kaytee-d48c0f479261",
+          "name": "⚽ Phuong Nam Pham vs Michael Thorn | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-d48c0f479261.png?v=1773280697",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297377",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297377",
+                  "name": "Phuong Nam Pham vs Michael Thorn",
+                  "streams": [
+                    {
+                      "id": "st-297377",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/phuong-nam-pham-vs-michael-thorn-2000-12-03-2026/297377"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Phuong Nam Pham",
+            "team_b": "Michael Thorn",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/c2791fdb44f5704654988e70805b1d60.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/99d1a681c5716e5c8201fee9ae3e66e9.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-d48c0f479261.png?v=1773280697",
+            "thumb_key": "thumbs/kaytee-d48c0f479261.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_rổ",
+      "name": "⏳ Sắp Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-a9f4ad3e1a71",
+          "name": "🏀 Denver Nuggets vs Houston Rockets | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-a9f4ad3e1a71.png?v=1773280682",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281222",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281222",
+                  "name": "Denver Nuggets vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "st-281222",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/denver-nuggets-vs-houston-rockets-0900-12-03-2026/281222"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Denver Nuggets",
+            "team_b": "Houston Rockets",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/ef402455d368f87170ef2c7edef085f8.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/f857b6afc80d2220161f5f93ce54d252.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-a9f4ad3e1a71.png?v=1773280682",
+            "thumb_key": "thumbs/kaytee-a9f4ad3e1a71.webp"
+          }
+        },
+        {
+          "id": "kaytee-1c90a5f2fc69",
+          "name": "🏀 Sacramento Kings vs Charlotte Hornets | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-1c90a5f2fc69.png?v=1773280683",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281225",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281225",
+                  "name": "Sacramento Kings vs Charlotte Hornets",
+                  "streams": [
+                    {
+                      "id": "st-281225",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe7fefc63c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.phogatv8.com/live/69b206146b8f4_793/index.m3u8?expire=1773879444&sign=8e4528dc96cc808ca0bf5d7e8f69d550",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/sacramento-kings-vs-charlotte-hornets-0900-12-03-2026/281225"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Sacramento Kings",
+            "team_b": "Charlotte Hornets",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/fd6b78c7dc580cc117ad60be003e6405.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/0adffbc439e1d62ce66c5a13cf52291e.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-1c90a5f2fc69.png?v=1773280683",
+            "thumb_key": "thumbs/kaytee-1c90a5f2fc69.webp"
+          }
+        },
+        {
+          "id": "kaytee-396e12d753cf",
+          "name": "🏀 Los Angeles Clippers vs Minnesota Timberwolves | 09:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-396e12d753cf.png?v=1773280683",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281228",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281228",
+                  "name": "Los Angeles Clippers vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-281228",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/los-angeles-clippers-vs-minnesota-timberwolves-0930-12-03-2026/281228"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBA",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/1919d41037dddc265e4158180d3cf9f0.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/b0df10b7ffc4cd79a9529f4559b0ee71.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-396e12d753cf.png?v=1773280683",
+            "thumb_key": "thumbs/kaytee-396e12d753cf.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_chuyền",
+      "name": "⏳ Sắp Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-9114d1b559cf",
+          "name": "🏐 KAL Jumbos vs KB Stars | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-9114d1b559cf.png?v=1773280689",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281666",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281666",
+                  "name": "KAL Jumbos vs KB Stars",
+                  "streams": [
+                    {
+                      "id": "st-281666",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/kal-jumbos-vs-kb-stars-1700-12-03-2026/281666"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "KAL Jumbos",
+            "team_b": "KB Stars",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/1a5715b618158504895c0df5d22f930a.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/552d31815deac72fd507262235f0958a.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-9114d1b559cf.png?v=1773280689",
+            "thumb_key": "thumbs/kaytee-9114d1b559cf.webp"
+          }
+        },
+        {
+          "id": "kaytee-c4ab5019746e",
+          "name": "🏐 Daejeon JKJ Nữ vs Hyundai E&C Hillstate Nữ | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-c4ab5019746e.png?v=1773280690",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-281669",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-281669",
+                  "name": "Daejeon JKJ Nữ vs Hyundai E&C Hillstate Nữ",
+                  "streams": [
+                    {
+                      "id": "st-281669",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/daejeon-jkj-nu-vs-hyundai-ec-hillstate-nu-1700-12-03-2026/281669"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "Daejeon JKJ Nữ",
+            "team_b": "Hyundai E&C Hillstate Nữ",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/0373e6783d7d138f8dd2a86c5e3ecf4b.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/907cc3a07e36cf4dbf08aaa98f01acdd.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-c4ab5019746e.png?v=1773280690",
+            "thumb_key": "thumbs/kaytee-c4ab5019746e.webp"
+          }
+        },
+        {
+          "id": "kaytee-7d568b223234",
+          "name": "🏐 KAL Jumbos vs KB Stars | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-7d568b223234.png?v=1773280690",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-295244",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-295244",
+                  "name": "KAL Jumbos vs KB Stars",
+                  "streams": [
+                    {
+                      "id": "st-295244",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/kal-jumbos-vs-kb-stars-1700-12-03-2026/295244"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "KAL Jumbos",
+            "team_b": "KB Stars",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/1a5715b618158504895c0df5d22f930a.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/552d31815deac72fd507262235f0958a.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-7d568b223234.png?v=1773280690",
+            "thumb_key": "thumbs/kaytee-7d568b223234.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_bàn",
+      "name": "⏳ Sắp Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-19ce6f1e3f9c",
+          "name": "🏓 Shunsuke TOGAMI vs Tomislav PUCAR | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-19ce6f1e3f9c.png?v=1773280684",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297272",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297272",
+                  "name": "Shunsuke TOGAMI vs Tomislav PUCAR",
+                  "streams": [
+                    {
+                      "id": "st-297272",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/shunsuke-togami-vs-tomislav-pucar-1000-12-03-2026/297272"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Shunsuke TOGAMI",
+            "team_b": "Tomislav PUCAR",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/d6c7a526758444c35f96eac8872f2fe4.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/5709b9cb77f79a8f456dba13eabb56f5.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-19ce6f1e3f9c.png?v=1773280684",
+            "thumb_key": "thumbs/kaytee-19ce6f1e3f9c.webp"
+          }
+        },
+        {
+          "id": "kaytee-cc0d3fd1d31d",
+          "name": "🏓 WEN Ruibo vs Truls MOREGARD | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-cc0d3fd1d31d.png?v=1773280691",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-297275",
+              "name": "Thập Cẩm TV",
+              "contents": [
+                {
+                  "id": "ct-297275",
+                  "name": "WEN Ruibo vs Truls MOREGARD",
+                  "streams": [
+                    {
+                      "id": "st-297275",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73316aa020",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-tvc.taoxanh.biz/live-dev/live-dev/video/adaptive/2026/03/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://thapcamtvbc.mobi//truc-tiep/wen-ruibo-vs-truls-moregard-1730-12-03-2026/297275"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "WEN Ruibo",
+            "team_b": "Truls MOREGARD",
+            "logo_a": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/ca730dcc14b56d03b10a6e69641bc5a2.png",
+            "logo_b": "https://s3.thapcamtvbc.mobi/live-phogatv/cms/58299cbeb155cba8bbdaf5b6e9ee6076.png",
+            "thumb": "https://raw.githubusercontent.com/thaidqt/TC/main/thumbs/kaytee-cc0d3fd1d31d.png?v=1773280691",
+            "thumb_key": "thumbs/kaytee-cc0d3fd1d31d.webp"
+          }
+        }
+      ]
+    }
+  ]
+}
