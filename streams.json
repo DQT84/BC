@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-12T06:37:04.630293",
+  "updated_at": "2026-03-12T08:01:46.682022",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773297422",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773302503",
             "width": 1600,
             "height": 1200
           },
@@ -99,7 +99,7 @@
             "team_b": "MU",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773297422",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773302503",
             "thumb_key": "thumbs/kaytee-5f35fcb8b294.webp"
           }
         }
@@ -114,7 +114,7 @@
       "channels": [
         {
           "id": "kaytee-ff33586d61a2",
-          "name": "🎱 Mã Minh Cẩm vs Kim Im-gwon | 12:00",
+          "name": "🎱 Ngô Đình Nại vs Eddy LEPPENS | 14:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -122,7 +122,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773297421",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773302504",
             "width": 1600,
             "height": 1200
           },
@@ -141,7 +141,7 @@
               "contents": [
                 {
                   "id": "ct-601310668",
-                  "name": "Mã Minh Cẩm vs Kim Im-gwon",
+                  "name": "Ngô Đình Nại vs Eddy LEPPENS",
                   "streams": [
                     {
                       "id": "st-601310668",
@@ -156,7 +156,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ma-minh-cam-vs-kim-imgwon-1200-12-03-2026/601310668"
+                              "value": "https://bunchatv1.net/truc-tiep/ngo-dinh-nai-vs-eddy-leppens-1430-12-03-2026/601310668"
                             },
                             {
                               "key": "User-Agent",
@@ -173,12 +173,81 @@
           ],
           "org_metadata": {
             "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Mã Minh Cẩm",
-            "team_b": "Kim Im-gwon",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17229b3c2b3940c79bd8396c4a002209.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773297421",
+            "team_a": "Ngô Đình Nại",
+            "team_b": "Eddy LEPPENS",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7317123c3ec5c76b8a0be1a954ebf1f4.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773302504",
             "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
+          }
+        },
+        {
+          "id": "kaytee-fdd025c7c45c",
+          "name": "🎱 Kim Nam-soo vs Kim Jae-geun | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773302505",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310674",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310674",
+                  "name": "Kim Nam-soo vs Kim Jae-geun",
+                  "streams": [
+                    {
+                      "id": "st-601310674",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1000712ce0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b241c870a68_142246/index.m3u8?expire=1773894728&sign=c5ad8465264588e285edaf3efccee7d0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kim-namsoo-vs-kim-jaegeun-1430-12-03-2026/601310674"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Kim Nam-soo",
+            "team_b": "Kim Jae-geun",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/cfd5959ac7bda170d700ec867b2d6560.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773302505",
+            "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
           }
         }
       ]
@@ -200,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773297424",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773302506",
             "width": 1600,
             "height": 1200
           },
@@ -255,7 +324,7 @@
             "team_b": "Bangkok United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773297424",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773302506",
             "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
           }
         }
