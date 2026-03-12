@@ -8,400 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-12T03:54:13.701592",
+  "updated_at": "2026-03-12T06:11:27.396144",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-bb7319f81126",
-          "name": "⚽ Guangxi Pingguo Beinong (w) vs Zhejiang Hangzhou Bank(W) | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bb7319f81126.png?v=1773287646",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308688",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601308688",
-                  "name": "Guangxi Pingguo Beinong (w) vs Zhejiang Hangzhou Bank(W)",
-                  "streams": [
-                    {
-                      "id": "st-601308688",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a060e0ad6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/b9eaf6351aaebc617f755899192a9cb1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/guangxi-pingguo-beinong-w-vs-zhejiang-hangzhou-bankw-0900-12-03-2026/601308688"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Women's FA Cup",
-            "team_a": "Guangxi Pingguo Beinong (w)",
-            "team_b": "Zhejiang Hangzhou Bank(W)",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/95dc03e6a2747b5ff61ac379611ec3a1.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/3d207b4769c8bad7233434ca82eae9ef.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bb7319f81126.png?v=1773287646",
-            "thumb_key": "thumbs/kaytee-bb7319f81126.webp"
-          }
-        },
-        {
-          "id": "kaytee-5dcae39469e4",
-          "name": "⚽ San Diego FC vs Toluca | 10:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5dcae39469e4.png?v=1773287650",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296862",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601296862",
-                  "name": "San Diego FC vs Toluca",
-                  "streams": [
-                    {
-                      "id": "st-601296862",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53d3f2dc8c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b22d58326d8_136682/index.m3u8?expire=1773889496&sign=83ddbaa2f52793bba1e95712a1299de4",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/san-diego-fc-vs-toluca-1030-12-03-2026/601296862"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4ac7e839a3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/7cb6d48f22f2f10342b17aefc67f1cf1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/san-diego-fc-vs-toluca-1030-12-03-2026/601296862"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CNCF CHL",
-            "team_a": "San Diego FC",
-            "team_b": "Toluca",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4431a6b60ebf9369297717921a290687.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/725ccd5793be6b4f8dd917170dd17d04.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5dcae39469e4.png?v=1773287650",
-            "thumb_key": "thumbs/kaytee-5dcae39469e4.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-b03c88aed756",
-          "name": "🏀 Denver Nuggets vs Houston Rockets | 09:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b03c88aed756.png?v=1773287647",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298761",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601298761",
-                  "name": "Denver Nuggets vs Houston Rockets",
-                  "streams": [
-                    {
-                      "id": "st-601298761",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cadf1160eb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b221cd70a68_42127/index.m3u8?expire=1773886541&sign=54d4186394ed619a196a461539cea8cb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/denver-nuggets-vs-houston-rockets-0900-12-03-2026/601298761"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Denver Nuggets",
-            "team_b": "Houston Rockets",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d734dd7151e82d5c185ed20968505758.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f2ccea244e52871508761dd546e14a53.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b03c88aed756.png?v=1773287647",
-            "thumb_key": "thumbs/kaytee-b03c88aed756.webp"
-          }
-        },
-        {
-          "id": "kaytee-cbaa8749257c",
-          "name": "🏀 Los Angeles Clippers vs Minnesota Timberwolves | 09:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cbaa8749257c.png?v=1773287648",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601298770",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601298770",
-                  "name": "Los Angeles Clippers vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-601298770",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bb2afb0fb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b22438326d8_4733/index.m3u8?expire=1773887160&sign=13cbf89ad2137042c98bcf6061c265ef",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-clippers-vs-minnesota-timberwolves-0930-12-03-2026/601298770"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NBA",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/166d854bec894fccec7fec32048f4094.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5d206ae1f29b3de6ba81f7a06cc990d2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cbaa8749257c.png?v=1773287648",
-            "thumb_key": "thumbs/kaytee-cbaa8749257c.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_tennis",
-      "name": "🔴 Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-bcc0b52a8e3a",
-          "name": "🎾 Djokovic N. vs Draper J. | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bcc0b52a8e3a.png?v=1773287645",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309480",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601309480",
-                  "name": "Djokovic N. vs Draper J.",
-                  "streams": [
-                    {
-                      "id": "st-601309480",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa07c9d66c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b20da370a68_110198/index.m3u8?expire=1773881379&sign=321139616a3df438a799c9f9c71c8474",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/djokovic-n-vs-draper-j-0800-12-03-2026/601309480"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Indian Wells",
-            "team_a": "Djokovic N.",
-            "team_b": "Draper J.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f8df3dbefbdb3a11eb7c7f80269e79a7.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6be1917b420666d03310bb551ffaf605.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bcc0b52a8e3a.png?v=1773287645",
-            "thumb_key": "thumbs/kaytee-bcc0b52a8e3a.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -416,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773287651",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773295885",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -488,10 +99,166 @@
             "team_b": "MU",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3c0c9b8f8b7ae18893cdd77f27d8bf3d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773287651",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5f35fcb8b294.png?v=1773295885",
             "thumb_key": "thumbs/kaytee-5f35fcb8b294.webp"
           }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ff33586d61a2",
+          "name": "🎱 Mã Minh Cẩm vs Kim Im-gwon | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773295883",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310668",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310668",
+                  "name": "Mã Minh Cẩm vs Kim Im-gwon",
+                  "streams": [
+                    {
+                      "id": "st-601310668",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77067abcb5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b23f85326d8_144313/index.m3u8?expire=1773894149&sign=e6b15c3bd0af691d262959334a8be6c0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ma-minh-cam-vs-kim-imgwon-1200-12-03-2026/601310668"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Mã Minh Cẩm",
+            "team_b": "Kim Im-gwon",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/17229b3c2b3940c79bd8396c4a002209.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773295883",
+            "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
+          }
         },
+        {
+          "id": "kaytee-fdd025c7c45c",
+          "name": "🎱 Zapata vs Nguyễn Huỳnh Phương Linh | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773295884",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310674",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310674",
+                  "name": "Zapata vs Nguyễn Huỳnh Phương Linh",
+                  "streams": [
+                    {
+                      "id": "st-601310674",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1000712ce0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b241c870a68_142246/index.m3u8?expire=1773894728&sign=c5ad8465264588e285edaf3efccee7d0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/zapata-vs-nguyen-huynh-phuong-linh-1200-12-03-2026/601310674"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Zapata",
+            "team_b": "Nguyễn Huỳnh Phương Linh",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/87004a03099380f159802dc21c141c7b.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f783ef492c6c263c37e25e825556c4.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773295884",
+            "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "kaytee-b1669c6b46e6",
           "name": "⚽ Tampines Rovers FC vs Bangkok United FC | 19:15",
@@ -502,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773287653",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773295887",
             "width": 1600,
             "height": 1200
           },
@@ -557,7 +324,7 @@
             "team_b": "Bangkok United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773287653",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773295887",
             "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
           }
         }
