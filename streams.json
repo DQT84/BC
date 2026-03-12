@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-12T10:10:01.987274",
+  "updated_at": "2026-03-12T11:46:01.619019",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,213 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-58c0fcc591e6",
-          "name": "⚽ Shan United vs Mahar United | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-58c0fcc591e6.png?v=1773310189",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601299949",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601299949",
-                  "name": "Shan United vs Mahar United",
-                  "streams": [
-                    {
-                      "id": "st-601299949",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-354cd6c072",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/8f81d5dda3a241f8c956fae9abde1c4b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shan-united-vs-mahar-united-1600-12-03-2026/601299949"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Shan United",
-            "team_b": "Mahar United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3325b113293eb88e285eee071941783f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-58c0fcc591e6.png?v=1773310189",
-            "thumb_key": "thumbs/kaytee-58c0fcc591e6.webp"
-          }
-        },
-        {
-          "id": "kaytee-92129808f107",
-          "name": "⚽ Dương Quốc Hoàng vs Benji Buckley | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773310191",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310590",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310590",
-                  "name": "Dương Quốc Hoàng vs Benji Buckley",
-                  "streams": [
-                    {
-                      "id": "st-601310590",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-93e2f2ce39",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2888570a68_103/index.m3u8?expire=1773912837&sign=fde38ec25f6801c443d247b0f1f3c9b6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/duong-quoc-hoang-vs-benji-buckley-1700-12-03-2026/601310590"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Dương Quốc Hoàng",
-            "team_b": "Benji Buckley",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/832484ddf0e1554d235d93a8eaa1f29e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773310191",
-            "thumb_key": "thumbs/kaytee-92129808f107.webp"
-          }
-        },
-        {
-          "id": "kaytee-f34ce59cde6e",
-          "name": "⚽ Finland Women U17 vs Romania (w) U17 | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f34ce59cde6e.png?v=1773310194",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601296865",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601296865",
-                  "name": "Finland Women U17 vs Romania (w) U17",
-                  "streams": [
-                    {
-                      "id": "st-601296865",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c0f4aa504",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/fb1965471de630b675e0c3bea8b9d831/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/finland-women-u17-vs-romania-w-u17-1700-12-03-2026/601296865"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA European U17 Women's Championship",
-            "team_a": "Finland Women U17",
-            "team_b": "Romania (w) U17",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/bdceae1865dbff467666fd3bc458acf9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/68083b174d70584e8cfe711a38756f8e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f34ce59cde6e.png?v=1773310194",
-            "thumb_key": "thumbs/kaytee-f34ce59cde6e.webp"
-          }
-        },
         {
           "id": "kaytee-a0fa48f909fb",
           "name": "⚽ Seoul Knights vs Wonju DB | 17:00",
@@ -234,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0fa48f909fb.png?v=1773310196",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0fa48f909fb.png?v=1773315954",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +82,525 @@
             "team_b": "Wonju DB",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d3de444713ef5e02203e95e669d5f894.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9bef33c943c16b7aedec052a581c14d2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0fa48f909fb.png?v=1773310196",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0fa48f909fb.png?v=1773315954",
             "thumb_key": "thumbs/kaytee-a0fa48f909fb.webp"
+          }
+        },
+        {
+          "id": "kaytee-a134c5f05a0c",
+          "name": "⚽ Iğdır FK vs Bodrum FK | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a134c5f05a0c.png?v=1773315955",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296871",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601296871",
+                  "name": "Iğdır FK vs Bodrum FK",
+                  "streams": [
+                    {
+                      "id": "st-601296871",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b403622b76",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2900e70a68_73445/index.m3u8?expire=1773914766&sign=663bee0ac5baac851b9e044aa30cb497",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/idr-fk-vs-bodrum-fk-1730-12-03-2026/601296871"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-1a052f165a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/5da59dd20d41d49ea13b6798b48836ca/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/idr-fk-vs-bodrum-fk-1730-12-03-2026/601296871"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Iğdır FK",
+            "team_b": "Bodrum FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/52ad6d005782baec899d29055cbed020.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a134c5f05a0c.png?v=1773315955",
+            "thumb_key": "thumbs/kaytee-a134c5f05a0c.webp"
+          }
+        },
+        {
+          "id": "kaytee-4dc9ccc5d5a9",
+          "name": "⚽ Difai Agsu FK vs Baku Sportinq FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4dc9ccc5d5a9.png?v=1773315957",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601296886",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601296886",
+                  "name": "Difai Agsu FK vs Baku Sportinq FK",
+                  "streams": [
+                    {
+                      "id": "st-601296886",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-95a0ca2b11",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b292bb70a68_6308/index.m3u8?expire=1773915451&sign=72362203bc1a2e40c51920092b9ac7af",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/difai-agsu-fk-vs-baku-sportinq-fk-1800-12-03-2026/601296886"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0fe126eb0e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d0a09e6f1ceb60cb277a2eb127eedaa3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/difai-agsu-fk-vs-baku-sportinq-fk-1800-12-03-2026/601296886"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Difai Agsu FK",
+            "team_b": "Baku Sportinq FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ee1849ece6caa4416653a0e7d241031b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/afd11580da1ff691b68dcb564d9d10e5.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4dc9ccc5d5a9.png?v=1773315957",
+            "thumb_key": "thumbs/kaytee-4dc9ccc5d5a9.webp"
+          }
+        },
+        {
+          "id": "kaytee-e30574c9eeae",
+          "name": "⚽ Kakeru KUMAGAI / Hiroki NISHI vs D. LUNDGAARD /  M. VESTERGAARD | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773315958",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310533",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310533",
+                  "name": "Kakeru KUMAGAI / Hiroki NISHI vs D. LUNDGAARD /  M. VESTERGAARD",
+                  "streams": [
+                    {
+                      "id": "st-601310533",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-793a052a07",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c24326d8_42127/index.m3u8?expire=1773909668&sign=7aae6ee5d637e9d676aa25b66639e54d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kakeru-kumagai--hiroki-nishi-vs-d-lundgaard---m-vestergaard-1800-12-03-2026/601310533"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Kakeru KUMAGAI / Hiroki NISHI",
+            "team_b": "D. LUNDGAARD /  M. VESTERGAARD",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b44364f930239af333f0c6bab1ca406e.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/de7e50c19ce11ab7f52a0029cac3c51d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773315958",
+            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
+          }
+        },
+        {
+          "id": "kaytee-fdc5c7226c11",
+          "name": "⚽ CORBETT / GAI vs R. HIROKAMI /  S. HOBARA | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773315958",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310536",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310536",
+                  "name": "CORBETT / GAI vs R. HIROKAMI /  S. HOBARA",
+                  "streams": [
+                    {
+                      "id": "st-601310536",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f510d88166",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b279e2326d8_85706/index.m3u8?expire=1773909090&sign=d8d52e7214107fbf80e8de1453ef5c36",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/corbett--gai-vs-r-hirokami---s-hobara-1800-12-03-2026/601310536"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - YONEX Swiss Open 2026",
+            "team_a": "CORBETT / GAI",
+            "team_b": "R. HIROKAMI /  S. HOBARA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e0bd8c8efd4c20eb8d1d4c5112179b44.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4a7c0bf5eb952d0980cd26007a896043.webp",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773315958",
+            "thumb_key": "thumbs/kaytee-fdc5c7226c11.webp"
+          }
+        },
+        {
+          "id": "kaytee-dd0d27d88c44",
+          "name": "⚽ Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN / TAN W. K. | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773315959",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310542",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310542",
+                  "name": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN / TAN W. K.",
+                  "streams": [
+                    {
+                      "id": "st-601310542",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eee223d4b0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c8670a68_85714/index.m3u8?expire=1773909766&sign=387ff62b4e7ed6e264a804c37b8cad85",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/peeratchai-sukphun--pakkapon-teeraratsakul-vs-n-m-a-a-azriyn--tan-w-k-1800-12-03-2026/601310542"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - YONEX Swiss Open 2026",
+            "team_a": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL",
+            "team_b": "N. M. A. A. AZRIYN / TAN W. K.",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bbe344a57234795986538071709b90f8.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5c95a1e9a0f2c39370dfe96d753b9bd3.webp",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773315959",
+            "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
+          }
+        },
+        {
+          "id": "kaytee-b9e8544c9125",
+          "name": "⚽ LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773315960",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310548",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310548",
+                  "name": "LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu",
+                  "streams": [
+                    {
+                      "id": "st-601310548",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2c3da346cf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-hsieh-pei-shan--hung-entzu-1800-12-03-2026/601310548"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - YONEX Swiss Open 2026",
+            "team_a": "LIN Xiao Min / WANG Yu Qiao",
+            "team_b": "HSIEH Pei Shan / HUNG En-Tzu",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/238f1680cff0191149d98067809d91f1.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773315960",
+            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
+          }
+        },
+        {
+          "id": "kaytee-92129808f107",
+          "name": "⚽ Luong Duc Thien vs Faruk Terzic | 18:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773315960",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310590",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310590",
+                  "name": "Luong Duc Thien vs Faruk Terzic",
+                  "streams": [
+                    {
+                      "id": "st-601310590",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-93e2f2ce39",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2888570a68_103/index.m3u8?expire=1773912837&sign=fde38ec25f6801c443d247b0f1f3c9b6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/luong-duc-thien-vs-faruk-terzic-1810-12-03-2026/601310590"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Luong Duc Thien",
+            "team_b": "Faruk Terzic",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/132b3051fdf955d76f8e417f64383d7a.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/60633befc296df3783df986d44277377.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-92129808f107.png?v=1773315960",
+            "thumb_key": "thumbs/kaytee-92129808f107.webp"
           }
         }
       ]
@@ -312,7 +622,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b7e8ae3c5b4c.png?v=1773310197",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b7e8ae3c5b4c.png?v=1773315954",
             "width": 1600,
             "height": 1200
           },
@@ -367,7 +677,7 @@
             "team_b": "Hyundai E&C Hillstate W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/546f6d6462b6a4bfa742f3fb5de12358.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e2fe06b2d0da508e427eaa255c10d84e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b7e8ae3c5b4c.png?v=1773310197",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b7e8ae3c5b4c.png?v=1773315954",
             "thumb_key": "thumbs/kaytee-b7e8ae3c5b4c.webp"
           }
         },
@@ -381,7 +691,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f787586b2a41.png?v=1773310197",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f787586b2a41.png?v=1773315955",
             "width": 1600,
             "height": 1200
           },
@@ -436,7 +746,7 @@
             "team_b": "KB Stars",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/75bd4d19a05b0b6c71bcbb910ea7400a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f787586b2a41.png?v=1773310197",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f787586b2a41.png?v=1773315955",
             "thumb_key": "thumbs/kaytee-f787586b2a41.webp"
           }
         }
@@ -450,75 +760,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-ff33586d61a2",
-          "name": "🎱 Martinez vs Mori | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773310192",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310668",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310668",
-                  "name": "Martinez vs Mori",
-                  "streams": [
-                    {
-                      "id": "st-601310668",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77067abcb5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b23f85326d8_144313/index.m3u8?expire=1773894149&sign=e6b15c3bd0af691d262959334a8be6c0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/martinez-vs-mori-1700-12-03-2026/601310668"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Martinez",
-            "team_b": "Mori",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/31ee0c5747dd0eb7437c6c60c881a01f.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4fb32bdadd4195c6562d563fda647b44.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773310192",
-            "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
-          }
-        },
-        {
           "id": "kaytee-fdd025c7c45c",
           "name": "🎱 Cho Keon-hwi vs Coklu | 17:00",
           "type": "single",
@@ -528,7 +769,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773310192",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773315953",
             "width": 1600,
             "height": 1200
           },
@@ -583,8 +824,86 @@
             "team_b": "Coklu",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0f77eaac0196b3f3f842416cdacf4ba1.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773310192",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdd025c7c45c.png?v=1773315953",
             "thumb_key": "thumbs/kaytee-fdd025c7c45c.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-aec8b0f55f8f",
+          "name": "🏓 WEN Ruibo vs Truls MOREGARD | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-aec8b0f55f8f.png?v=1773315957",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310524",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310524",
+                  "name": "WEN Ruibo vs Truls MOREGARD",
+                  "streams": [
+                    {
+                      "id": "st-601310524",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9de08ed5c8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2945470a68_112310/index.m3u8?expire=1773915860&sign=7e083cd2ceb2ffb64cf058001f0dd524",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/wen-ruibo-vs-truls-moregard-1730-12-03-2026/601310524"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "WEN Ruibo",
+            "team_b": "Truls MOREGARD",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/126918af5658785519324e2b8eb33da2.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-aec8b0f55f8f.png?v=1773315957",
+            "thumb_key": "thumbs/kaytee-aec8b0f55f8f.webp"
           }
         }
       ]
@@ -597,8 +916,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-1cb1a2f63ef2",
-          "name": "⚽ SC Poltava U21 vs Karpaty U21 | 17:00",
+          "id": "kaytee-b1669c6b46e6",
+          "name": "⚽ Tampines Rovers FC vs Bangkok United FC | 19:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -606,7 +925,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1cb1a2f63ef2.png?v=1773310196",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773315960",
             "width": 1600,
             "height": 1200
           },
@@ -620,27 +939,44 @@
           ],
           "sources": [
             {
-              "id": "src-601296904",
+              "id": "src-601296898",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601296904",
-                  "name": "SC Poltava U21 vs Karpaty U21",
+                  "id": "ct-601296898",
+                  "name": "Tampines Rovers FC vs Bangkok United FC",
                   "streams": [
                     {
-                      "id": "st-601296904",
+                      "id": "st-601296898",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-0b55464541",
+                          "id": "lnk-5ead84abc0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/38347fc19782e1c6e1d96d7beda17f2b/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b2a535326d8_28/index.m3u8?expire=1773920181&sign=c24ce95b88d668dd180e0eef8bb26c9b",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sc-poltava-u21-vs-karpaty-u21-1700-12-03-2026/601296904"
+                              "value": "https://bunchatv1.net/truc-tiep/tampines-rovers-fc-vs-bangkok-united-fc-1915-12-03-2026/601296898"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f529379742",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/6c4e6b8e1727a34acd341839de01afa7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tampines-rovers-fc-vs-bangkok-united-fc-1915-12-03-2026/601296898"
                             },
                             {
                               "key": "User-Agent",
@@ -656,18 +992,27 @@
             }
           ],
           "org_metadata": {
-            "league": "Ukrainian Youth Team Championship",
-            "team_a": "SC Poltava U21",
-            "team_b": "Karpaty U21",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d702858ad38e8cb57a795e863ee923bf.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/635f940d10ef8f9a356a85dadb428f7c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1cb1a2f63ef2.png?v=1773310196",
-            "thumb_key": "thumbs/kaytee-1cb1a2f63ef2.webp"
+            "league": "AFC Champions League 2",
+            "team_a": "Tampines Rovers FC",
+            "team_b": "Bangkok United FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/23dc72567ad2999491dfe56b50f7df62.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5cd8cd571685287d0cb678034d78b9bd.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b1669c6b46e6.png?v=1773315960",
+            "thumb_key": "thumbs/kaytee-b1669c6b46e6.webp"
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
-          "id": "kaytee-a134c5f05a0c",
-          "name": "⚽ Iğdır FK vs Bodrum FK | 17:30",
+          "id": "kaytee-ff33586d61a2",
+          "name": "🎱 Cenet vs Kim Young-won | 19:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -675,7 +1020,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a134c5f05a0c.png?v=1773310199",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773315961",
             "width": 1600,
             "height": 1200
           },
@@ -689,27 +1034,27 @@
           ],
           "sources": [
             {
-              "id": "src-601296871",
+              "id": "src-601310668",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601296871",
-                  "name": "Iğdır FK vs Bodrum FK",
+                  "id": "ct-601310668",
+                  "name": "Cenet vs Kim Young-won",
                   "streams": [
                     {
-                      "id": "st-601296871",
+                      "id": "st-601310668",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b403622b76",
+                          "id": "lnk-77067abcb5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2900e70a68_73445/index.m3u8?expire=1773914766&sign=663bee0ac5baac851b9e044aa30cb497",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b23f85326d8_144313/index.m3u8?expire=1773894149&sign=e6b15c3bd0af691d262959334a8be6c0",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/idr-fk-vs-bodrum-fk-1730-12-03-2026/601296871"
+                              "value": "https://bunchatv1.net/truc-tiep/cenet-vs-kim-youngwon-1930-12-03-2026/601310668"
                             },
                             {
                               "key": "User-Agent",
@@ -725,289 +1070,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Iğdır FK",
-            "team_b": "Bodrum FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/52ad6d005782baec899d29055cbed020.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a134c5f05a0c.png?v=1773310199",
-            "thumb_key": "thumbs/kaytee-a134c5f05a0c.webp"
-          }
-        },
-        {
-          "id": "kaytee-e30574c9eeae",
-          "name": "⚽ Kakeru KUMAGAI / Hiroki NISHI vs D. LUNDGAARD /  M. VESTERGAARD | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773310200",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310533",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310533",
-                  "name": "Kakeru KUMAGAI / Hiroki NISHI vs D. LUNDGAARD /  M. VESTERGAARD",
-                  "streams": [
-                    {
-                      "id": "st-601310533",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-793a052a07",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c24326d8_42127/index.m3u8?expire=1773909668&sign=7aae6ee5d637e9d676aa25b66639e54d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kakeru-kumagai--hiroki-nishi-vs-d-lundgaard---m-vestergaard-1800-12-03-2026/601310533"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Kakeru KUMAGAI / Hiroki NISHI",
-            "team_b": "D. LUNDGAARD /  M. VESTERGAARD",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/b44364f930239af333f0c6bab1ca406e.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/de7e50c19ce11ab7f52a0029cac3c51d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e30574c9eeae.png?v=1773310200",
-            "thumb_key": "thumbs/kaytee-e30574c9eeae.webp"
-          }
-        },
-        {
-          "id": "kaytee-fdc5c7226c11",
-          "name": "⚽ CORBETT / GAI vs R. HIROKAMI /  S. HOBARA | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773310200",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310536",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310536",
-                  "name": "CORBETT / GAI vs R. HIROKAMI /  S. HOBARA",
-                  "streams": [
-                    {
-                      "id": "st-601310536",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f510d88166",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b279e2326d8_85706/index.m3u8?expire=1773909090&sign=d8d52e7214107fbf80e8de1453ef5c36",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/corbett--gai-vs-r-hirokami---s-hobara-1800-12-03-2026/601310536"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "CORBETT / GAI",
-            "team_b": "R. HIROKAMI /  S. HOBARA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e0bd8c8efd4c20eb8d1d4c5112179b44.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4a7c0bf5eb952d0980cd26007a896043.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc5c7226c11.png?v=1773310200",
-            "thumb_key": "thumbs/kaytee-fdc5c7226c11.webp"
-          }
-        },
-        {
-          "id": "kaytee-dd0d27d88c44",
-          "name": "⚽ Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN / TAN W. K. | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773310201",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310542",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310542",
-                  "name": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL vs N. M. A. A. AZRIYN / TAN W. K.",
-                  "streams": [
-                    {
-                      "id": "st-601310542",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eee223d4b0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b27c8670a68_85714/index.m3u8?expire=1773909766&sign=387ff62b4e7ed6e264a804c37b8cad85",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/peeratchai-sukphun--pakkapon-teeraratsakul-vs-n-m-a-a-azriyn--tan-w-k-1800-12-03-2026/601310542"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - YONEX Swiss Open 2026",
-            "team_a": "Peeratchai SUKPHUN / Pakkapon TEERARATSAKUL",
-            "team_b": "N. M. A. A. AZRIYN / TAN W. K.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bbe344a57234795986538071709b90f8.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/5c95a1e9a0f2c39370dfe96d753b9bd3.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dd0d27d88c44.png?v=1773310201",
-            "thumb_key": "thumbs/kaytee-dd0d27d88c44.webp"
-          }
-        },
-        {
-          "id": "kaytee-b9e8544c9125",
-          "name": "⚽ LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773310201",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310548",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310548",
-                  "name": "LIN Xiao Min / WANG Yu Qiao vs HSIEH Pei Shan / HUNG En-Tzu",
-                  "streams": [
-                    {
-                      "id": "st-601310548",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c3da346cf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b2874f326d8_18754/index.m3u8?expire=1773912527&sign=fc73880ac7f6c827a89f8278e9862677",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lin-xiao-min--wang-yu-qiao-vs-hsieh-pei-shan--hung-entzu-1800-12-03-2026/601310548"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - YONEX Swiss Open 2026",
-            "team_a": "LIN Xiao Min / WANG Yu Qiao",
-            "team_b": "HSIEH Pei Shan / HUNG En-Tzu",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c11c75fd751d708e7a3546a9e6b523d2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/238f1680cff0191149d98067809d91f1.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9e8544c9125.png?v=1773310201",
-            "thumb_key": "thumbs/kaytee-b9e8544c9125.webp"
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Cenet",
+            "team_b": "Kim Young-won",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/309d2853918611fcfe9da31a28328e58.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ff33586d61a2.png?v=1773315961",
+            "thumb_key": "thumbs/kaytee-ff33586d61a2.webp"
           }
         }
       ]
