@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-13T05:06:35.095047",
+  "updated_at": "2026-03-13T07:35:59.888190",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-4d0c02ab1287",
-          "name": "⚽ Mazatlan FC (w) vs Monterrey (w) | 10:10",
+          "id": "kaytee-2e353953c75d",
+          "name": "⚽ Changle Jingangtui Football Club vs Qingdao Fuli | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4d0c02ab1287.png?v=1773378388",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2e353953c75d.png?v=1773387350",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601297150",
+              "id": "src-601297201",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601297150",
-                  "name": "Mazatlan FC (w) vs Monterrey (w)",
+                  "id": "ct-601297201",
+                  "name": "Changle Jingangtui Football Club vs Qingdao Fuli",
                   "streams": [
                     {
-                      "id": "st-601297150",
+                      "id": "st-601297201",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-55136b056d",
+                          "id": "lnk-b7b041dae5",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b37b1670a68_103/index.m3u8?expire=1773974934&sign=5f9673dd50943882774d2149e452ff53",
+                          "url": "https://live.alilicloud.com/live/09aaf6f2a5c5d04cb119cbb495cdbc48/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-w-vs-monterrey-w-1010-13-03-2026/601297150"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-ca8123e048",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/37f5a275843991ef693fa5c60af0bbc5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mazatlan-fc-w-vs-monterrey-w-1010-13-03-2026/601297150"
+                              "value": "https://bunchatv1.net/truc-tiep/changle-jingangtui-football-club-vs-qingdao-fuli-1400-13-03-2026/601297201"
                             },
                             {
                               "key": "User-Agent",
@@ -94,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Mexico Liga MX Femenil",
-            "team_a": "Mazatlan FC (w)",
-            "team_b": "Monterrey (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c32ddb0be3a23ceca9a2ccfb599438eb.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4d0c02ab1287.png?v=1773378388",
-            "thumb_key": "thumbs/kaytee-4d0c02ab1287.webp"
+            "league": "Chinese FA Cup",
+            "team_a": "Changle Jingangtui Football Club",
+            "team_b": "Qingdao Fuli",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/04197c4ace98f54a116b898ad733bc16.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1157661246871c8c285bbfe60388caf7.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2e353953c75d.png?v=1773387350",
+            "thumb_key": "thumbs/kaytee-2e353953c75d.webp"
           }
         },
         {
-          "id": "kaytee-cfeb060a4265",
-          "name": "⚽ Inter Kerala Women vs Kerala United (W) | 10:30",
+          "id": "kaytee-73abf1054b8d",
+          "name": "⚽ Belmont Swansea United SC Reserves vs Weston Workers Reserves | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cfeb060a4265.png?v=1773378390",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-73abf1054b8d.png?v=1773387354",
             "width": 1600,
             "height": 1200
           },
@@ -127,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601311826",
+              "id": "src-601310791",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601311826",
-                  "name": "Inter Kerala Women vs Kerala United (W)",
+                  "id": "ct-601310791",
+                  "name": "Belmont Swansea United SC Reserves vs Weston Workers Reserves",
                   "streams": [
                     {
-                      "id": "st-601311826",
+                      "id": "st-601310791",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-04a252ff77",
+                          "id": "lnk-c765dd1d13",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/1503575697a0cdf8df04300dea443ca3/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/3fa72946f07d22d6732a9a3e50757e9a/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/inter-kerala-women-vs-kerala-united-w-1030-13-03-2026/601311826"
+                              "value": "https://bunchatv1.net/truc-tiep/belmont-swansea-united-sc-reserves-vs-weston-workers-reserves-1400-13-03-2026/601310791"
                             },
                             {
                               "key": "User-Agent",
@@ -163,99 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "IND KLW",
-            "team_a": "Inter Kerala Women",
-            "team_b": "Kerala United (W)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b79d64d9d25ed5e9ff53a6f53d425e61.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/596373bb8db13b6203c121e8487c7f0b.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cfeb060a4265.png?v=1773378390",
-            "thumb_key": "thumbs/kaytee-cfeb060a4265.webp"
-          }
-        },
-        {
-          "id": "kaytee-bb5d6b510e43",
-          "name": "⚽ Gangneung Citizen vs Pocheon FC | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bb5d6b510e43.png?v=1773378393",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297153",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601297153",
-                  "name": "Gangneung Citizen vs Pocheon FC",
-                  "streams": [
-                    {
-                      "id": "st-601297153",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30169eb1b0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b38f4b70a68_124958/index.m3u8?expire=1773980107&sign=e3f23e79c7e9e22c32ec71fd1f69b433",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-21f33bebd6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/80e461bcc65cb05c8e637396bfb98748/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gangneung-citizen-vs-pocheon-fc-1200-13-03-2026/601297153"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korean K League 3",
-            "team_a": "Gangneung Citizen",
-            "team_b": "Pocheon FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/90d8a3ba4e8da08e280ab84514fe4cf0.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bb5d6b510e43.png?v=1773378393",
-            "thumb_key": "thumbs/kaytee-bb5d6b510e43.webp"
+            "league": "Australia Northern New South Wales Reserves League",
+            "team_a": "Belmont Swansea United SC Reserves",
+            "team_b": "Weston Workers Reserves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5d9aaf70e84c3a1444ba99931112aa00.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1947e07ef8ba324898ed55272c49a01a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-73abf1054b8d.png?v=1773387354",
+            "thumb_key": "thumbs/kaytee-73abf1054b8d.webp"
           }
         }
       ]
@@ -268,8 +165,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-515bd181466d",
-          "name": "🏀 Los Angeles Lakers vs Chicago Bulls | 09:00",
+          "id": "kaytee-cdc7918edb7e",
+          "name": "🏀 Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -277,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-515bd181466d.png?v=1773378386",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cdc7918edb7e.png?v=1773387352",
             "width": 1600,
             "height": 1200
           },
@@ -291,27 +188,27 @@
           ],
           "sources": [
             {
-              "id": "src-601298938",
+              "id": "src-601310788",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601298938",
-                  "name": "Los Angeles Lakers vs Chicago Bulls",
+                  "id": "ct-601310788",
+                  "name": "Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves",
                   "streams": [
                     {
-                      "id": "st-601298938",
+                      "id": "st-601310788",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-de6fe076fc",
+                          "id": "lnk-7ed8351da4",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b374cc326d8_42127/index.m3u8?expire=1773973324&sign=59b87c0d6d1b25867620c227b694e41a",
+                          "url": "https://live.alilicloud.com/live/f8f48421894af08162bd6467c304a8cb/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/los-angeles-lakers-vs-chicago-bulls-0900-13-03-2026/601298938"
+                              "value": "https://bunchatv1.net/truc-tiep/broadmeadow-magic-reserves-vs-adamstown-rosebud-reserves-1400-13-03-2026/601310788"
                             },
                             {
                               "key": "User-Agent",
@@ -327,13 +224,13 @@
             }
           ],
           "org_metadata": {
-            "league": "NBA",
-            "team_a": "Los Angeles Lakers",
-            "team_b": "Chicago Bulls",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/feb6335bd6d4cb2e6b6cb6cb43c0e0a1.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/860dc5563d084864497c5abf8e415e5e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-515bd181466d.png?v=1773378386",
-            "thumb_key": "thumbs/kaytee-515bd181466d.webp"
+            "league": "Australia Northern New South Wales Reserves League",
+            "team_a": "Broadmeadow Magic Reserves",
+            "team_b": "Adamstown Rosebud Reserves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/07dfeb96334bb5e8b6af2ae22f35e5cd.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/dc4fd58ce1e7b277ee3def338124e5be.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cdc7918edb7e.png?v=1773387352",
+            "thumb_key": "thumbs/kaytee-cdc7918edb7e.webp"
           }
         }
       ]
@@ -347,7 +244,7 @@
       "channels": [
         {
           "id": "kaytee-1eb27c3bd939",
-          "name": "🎱 Choi Hye-mi vs Lee Woo-kyung | 12:00",
+          "name": "🎱 Cho Keon-hwi vs David MARTINEZ | 14:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -355,7 +252,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773378394",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773387356",
             "width": 1600,
             "height": 1200
           },
@@ -374,7 +271,7 @@
               "contents": [
                 {
                   "id": "ct-601311817",
-                  "name": "Choi Hye-mi vs Lee Woo-kyung",
+                  "name": "Cho Keon-hwi vs David MARTINEZ",
                   "streams": [
                     {
                       "id": "st-601311817",
@@ -389,7 +286,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/choi-hyemi-vs-lee-wookyung-1200-13-03-2026/601311817"
+                              "value": "https://bunchatv1.net/truc-tiep/cho-keonhwi-vs-david-martinez-1430-13-03-2026/601311817"
                             },
                             {
                               "key": "User-Agent",
@@ -406,95 +303,26 @@
           ],
           "org_metadata": {
             "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Choi Hye-mi",
-            "team_b": "Lee Woo-kyung",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4cd91a4c40ac3a60874370a5146aa441.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773378394",
+            "team_a": "Cho Keon-hwi",
+            "team_b": "David MARTINEZ",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9baba417b2dd0a32c529ac378d93cdd6.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773387356",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
-          }
-        },
-        {
-          "id": "kaytee-bf6ac6b44385",
-          "name": "🎱 Lim Jung-suk vs Kim Se-yeon | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773378395",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311820",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311820",
-                  "name": "Lim Jung-suk vs Kim Se-yeon",
-                  "streams": [
-                    {
-                      "id": "st-601311820",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-341eda95e5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&sign=e85e4aedfba066beacb540114682f499",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lim-jungsuk-vs-kim-seyeon-1200-13-03-2026/601311820"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Lim Jung-suk",
-            "team_b": "Kim Se-yeon",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2e0ce46022527c11d7fb40d36748427e.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2dca9e5f0d17ea69cd0a5c4b1b1de55e.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773378395",
-            "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
       ]
     },
     {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-3e70958cdfdc",
-          "name": "🏓 Miwa HARIMOTO vs Anna HURSEY | 11:30",
+          "id": "kaytee-d4c87423daa0",
+          "name": "⚽ Newcastle Jets Women vs Sydney FC Women | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -502,41 +330,41 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3e70958cdfdc.png?v=1773378391",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d4c87423daa0.png?v=1773387358",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "src-601311625",
+              "id": "src-601297234",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601311625",
-                  "name": "Miwa HARIMOTO vs Anna HURSEY",
+                  "id": "ct-601297234",
+                  "name": "Newcastle Jets Women vs Sydney FC Women",
                   "streams": [
                     {
-                      "id": "st-601311625",
+                      "id": "st-601297234",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-6958a6ad56",
+                          "id": "lnk-35a05d5215",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b37bda70a68_142210/index.m3u8?expire=1773975130&sign=f5e3a56c03fd6ee2406aabeb810f8062",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3bb3770a68_28/index.m3u8?expire=1773991351&sign=3ec5cfd83787ac25d10e802ea979b047",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/miwa-harimoto-vs-anna-hursey-1130-13-03-2026/601311625"
+                              "value": "https://bunchatv1.net/truc-tiep/newcastle-jets-women-vs-sydney-fc-women-1500-13-03-2026/601297234"
                             },
                             {
                               "key": "User-Agent",
@@ -552,13 +380,82 @@
             }
           ],
           "org_metadata": {
-            "league": "WTT Champions Chongqing Women",
-            "team_a": "Miwa HARIMOTO",
-            "team_b": "Anna HURSEY",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a27e26c5fcf1ab989aaa28e41830d3b6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3033b07708aaff4c4d57d7139358831.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3e70958cdfdc.png?v=1773378391",
-            "thumb_key": "thumbs/kaytee-3e70958cdfdc.webp"
+            "league": "Australia W-League",
+            "team_a": "Newcastle Jets Women",
+            "team_b": "Sydney FC Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8d5a7e378576b2758496439ce49c7fb6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/64f6d95d32cb430272a5a69e1288b5cc.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d4c87423daa0.png?v=1773387358",
+            "thumb_key": "thumbs/kaytee-d4c87423daa0.webp"
+          }
+        },
+        {
+          "id": "kaytee-5b52e588c3bf",
+          "name": "⚽ Adelaide United Women vs Perth Glory Women | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5b52e588c3bf.png?v=1773387359",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297237",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297237",
+                  "name": "Adelaide United Women vs Perth Glory Women",
+                  "streams": [
+                    {
+                      "id": "st-601297237",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-66821b86d8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3bc0a70a68_88186/index.m3u8?expire=1773991562&sign=faa90407b186d4258cd1b7c21bbd3035",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adelaide-united-women-vs-perth-glory-women-1500-13-03-2026/601297237"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia W-League",
+            "team_a": "Adelaide United Women",
+            "team_b": "Perth Glory Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bb0af557092493a7ef9f5f3f0590e13b.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5b52e588c3bf.png?v=1773387359",
+            "thumb_key": "thumbs/kaytee-5b52e588c3bf.webp"
           }
         }
       ]
