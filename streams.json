@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-13T07:35:59.888190",
+  "updated_at": "2026-03-13T09:58:22.990106",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-2e353953c75d",
-          "name": "⚽ Changle Jingangtui Football Club vs Qingdao Fuli | 14:00",
+          "id": "kaytee-70aba41d36c9",
+          "name": "⚽ Brisbane Roar vs Western Sydney | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2e353953c75d.png?v=1773387350",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-70aba41d36c9.png?v=1773395888",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,44 @@
           ],
           "sources": [
             {
-              "id": "src-601297201",
+              "id": "src-601297231",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601297201",
-                  "name": "Changle Jingangtui Football Club vs Qingdao Fuli",
+                  "id": "ct-601297231",
+                  "name": "Brisbane Roar vs Western Sydney",
                   "streams": [
                     {
-                      "id": "st-601297201",
+                      "id": "st-601297231",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b7b041dae5",
+                          "id": "lnk-b169902534",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/09aaf6f2a5c5d04cb119cbb495cdbc48/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3be6a326d8_72787/index.m3u8?expire=1773992170&sign=4d36f44be9ac0ac096ad1336743862c3",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/changle-jingangtui-football-club-vs-qingdao-fuli-1400-13-03-2026/601297201"
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-vs-western-sydney-1500-13-03-2026/601297231"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5a1132f6ff",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f0ca5e0d541a5354d9802d9053a7e3b7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/brisbane-roar-vs-western-sydney-1500-13-03-2026/601297231"
                             },
                             {
                               "key": "User-Agent",
@@ -77,316 +94,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Chinese FA Cup",
-            "team_a": "Changle Jingangtui Football Club",
-            "team_b": "Qingdao Fuli",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/04197c4ace98f54a116b898ad733bc16.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1157661246871c8c285bbfe60388caf7.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2e353953c75d.png?v=1773387350",
-            "thumb_key": "thumbs/kaytee-2e353953c75d.webp"
-          }
-        },
-        {
-          "id": "kaytee-73abf1054b8d",
-          "name": "⚽ Belmont Swansea United SC Reserves vs Weston Workers Reserves | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-73abf1054b8d.png?v=1773387354",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310791",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310791",
-                  "name": "Belmont Swansea United SC Reserves vs Weston Workers Reserves",
-                  "streams": [
-                    {
-                      "id": "st-601310791",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c765dd1d13",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3fa72946f07d22d6732a9a3e50757e9a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belmont-swansea-united-sc-reserves-vs-weston-workers-reserves-1400-13-03-2026/601310791"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Northern New South Wales Reserves League",
-            "team_a": "Belmont Swansea United SC Reserves",
-            "team_b": "Weston Workers Reserves",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5d9aaf70e84c3a1444ba99931112aa00.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/1947e07ef8ba324898ed55272c49a01a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-73abf1054b8d.png?v=1773387354",
-            "thumb_key": "thumbs/kaytee-73abf1054b8d.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-cdc7918edb7e",
-          "name": "🏀 Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cdc7918edb7e.png?v=1773387352",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310788",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310788",
-                  "name": "Broadmeadow Magic Reserves vs Adamstown Rosebud Reserves",
-                  "streams": [
-                    {
-                      "id": "st-601310788",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7ed8351da4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/f8f48421894af08162bd6467c304a8cb/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/broadmeadow-magic-reserves-vs-adamstown-rosebud-reserves-1400-13-03-2026/601310788"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Northern New South Wales Reserves League",
-            "team_a": "Broadmeadow Magic Reserves",
-            "team_b": "Adamstown Rosebud Reserves",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/07dfeb96334bb5e8b6af2ae22f35e5cd.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/dc4fd58ce1e7b277ee3def338124e5be.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cdc7918edb7e.png?v=1773387352",
-            "thumb_key": "thumbs/kaytee-cdc7918edb7e.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_billiard",
-      "name": "🔴 Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-1eb27c3bd939",
-          "name": "🎱 Cho Keon-hwi vs David MARTINEZ | 14:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773387356",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311817",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311817",
-                  "name": "Cho Keon-hwi vs David MARTINEZ",
-                  "streams": [
-                    {
-                      "id": "st-601311817",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7828be5dc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/cho-keonhwi-vs-david-martinez-1430-13-03-2026/601311817"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Cho Keon-hwi",
-            "team_b": "David MARTINEZ",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9baba417b2dd0a32c529ac378d93cdd6.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773387356",
-            "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-d4c87423daa0",
-          "name": "⚽ Newcastle Jets Women vs Sydney FC Women | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d4c87423daa0.png?v=1773387358",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297234",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601297234",
-                  "name": "Newcastle Jets Women vs Sydney FC Women",
-                  "streams": [
-                    {
-                      "id": "st-601297234",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35a05d5215",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3bb3770a68_28/index.m3u8?expire=1773991351&sign=3ec5cfd83787ac25d10e802ea979b047",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/newcastle-jets-women-vs-sydney-fc-women-1500-13-03-2026/601297234"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia W-League",
-            "team_a": "Newcastle Jets Women",
-            "team_b": "Sydney FC Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/8d5a7e378576b2758496439ce49c7fb6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/64f6d95d32cb430272a5a69e1288b5cc.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d4c87423daa0.png?v=1773387358",
-            "thumb_key": "thumbs/kaytee-d4c87423daa0.webp"
+            "league": "Australia A-League",
+            "team_a": "Brisbane Roar",
+            "team_b": "Western Sydney",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1963b39a28bc14ed984423858194208e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9054259e823c101ccfe523cd527c2e5b.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-70aba41d36c9.png?v=1773395888",
+            "thumb_key": "thumbs/kaytee-70aba41d36c9.webp"
           }
         },
         {
@@ -399,16 +113,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5b52e588c3bf.png?v=1773387359",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5b52e588c3bf.png?v=1773395890",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -440,6 +154,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-16724312be",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/3c56735e1ca173ca051351ccededd893/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adelaide-united-women-vs-perth-glory-women-1500-13-03-2026/601297237"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -454,8 +185,777 @@
             "team_b": "Perth Glory Women",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0a79a11cfb91e468fed7174e9a6b58f3.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/bb0af557092493a7ef9f5f3f0590e13b.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5b52e588c3bf.png?v=1773387359",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5b52e588c3bf.png?v=1773395890",
             "thumb_key": "thumbs/kaytee-5b52e588c3bf.webp"
+          }
+        },
+        {
+          "id": "kaytee-e1cd8b051f81",
+          "name": "⚽ Box Hill (w) vs South Melbourne (w) | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e1cd8b051f81.png?v=1773395894",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297174",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297174",
+                  "name": "Box Hill (w) vs South Melbourne (w)",
+                  "streams": [
+                    {
+                      "id": "st-601297174",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4497bbe537",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6bd1ed79ee8070d35f95433a3090a0c4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/box-hill-w-vs-south-melbourne-w-1530-13-03-2026/601297174"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Box Hill (w)",
+            "team_b": "South Melbourne (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/826b807221d9a7cc3bd6df7797853920.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/009c52e81b1a49fa697e7bd971b67459.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e1cd8b051f81.png?v=1773395894",
+            "thumb_key": "thumbs/kaytee-e1cd8b051f81.webp"
+          }
+        },
+        {
+          "id": "kaytee-62c8fd362cd4",
+          "name": "⚽ Manly United vs Western Sydney Wanderers AM | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-62c8fd362cd4.png?v=1773395896",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297246",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297246",
+                  "name": "Manly United vs Western Sydney Wanderers AM",
+                  "streams": [
+                    {
+                      "id": "st-601297246",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1a3a6b437",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6a06e7987cffa842b7212d6bbb7b16b2/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/manly-united-vs-western-sydney-wanderers-am-1530-13-03-2026/601297246"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Premier League",
+            "team_a": "Manly United",
+            "team_b": "Western Sydney Wanderers AM",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d287684146235d2fddb92f71d78fba02.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-62c8fd362cd4.png?v=1773395896",
+            "thumb_key": "thumbs/kaytee-62c8fd362cd4.webp"
+          }
+        },
+        {
+          "id": "kaytee-5703a7e12f22",
+          "name": "⚽ Oakleigh Cannons vs Heidelberg United | 16:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5703a7e12f22.png?v=1773395897",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297270",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297270",
+                  "name": "Oakleigh Cannons vs Heidelberg United",
+                  "streams": [
+                    {
+                      "id": "st-601297270",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72c72320a5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3c89470a68_136682/index.m3u8?expire=1773994772&sign=663e6217357e3e25d9fa23db595ed4bf",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/oakleigh-cannons-vs-heidelberg-united-1615-13-03-2026/601297270"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e028d6b0d2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/e075cd26e905d09cfa89ed29b81dd152/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/oakleigh-cannons-vs-heidelberg-united-1615-13-03-2026/601297270"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Oakleigh Cannons",
+            "team_b": "Heidelberg United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/873f655c74783dbb85de6cacc8f503c0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5cae62255ca170949672a7ce8999b094.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5703a7e12f22.png?v=1773395897",
+            "thumb_key": "thumbs/kaytee-5703a7e12f22.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-e624f83dbd73",
+          "name": "🏀 Green Gully Cavaliers vs South Melbourne | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e624f83dbd73.png?v=1773395892",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297249",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297249",
+                  "name": "Green Gully Cavaliers vs South Melbourne",
+                  "streams": [
+                    {
+                      "id": "st-601297249",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5913e449b2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3b2d8326d8_85514/index.m3u8?expire=1773989208&sign=c160ae226283bd77ef7cff2c119d0a28",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/green-gully-cavaliers-vs-south-melbourne-1530-13-03-2026/601297249"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e3ff47bf5c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/94c3f582d13d186a831f7639e3b18125/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/green-gully-cavaliers-vs-south-melbourne-1530-13-03-2026/601297249"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Green Gully Cavaliers",
+            "team_b": "South Melbourne",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2deaa16d0a3b5ee928f88705d6d159ea.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e624f83dbd73.png?v=1773395892",
+            "thumb_key": "thumbs/kaytee-e624f83dbd73.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-65cd451d328e",
+          "name": "⚽ Salvador Garcia vs Dương Quốc Hoàng | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773395899",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311751",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311751",
+                  "name": "Salvador Garcia vs Dương Quốc Hoàng",
+                  "streams": [
+                    {
+                      "id": "st-601311751",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72b7e0d420",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/salvador-garcia-vs-duong-quoc-hoang-1700-13-03-2026/601311751"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Open Pool Championship 2026",
+            "team_a": "Salvador Garcia",
+            "team_b": "Dương Quốc Hoàng",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78c2ae42969a3389aa8b308416740a3f.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773395899",
+            "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_rổ",
+      "name": "⏳ Sắp Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-a0f8111e983b",
+          "name": "🏀 LG Sakers vs Seoul Thunders | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0f8111e983b.png?v=1773395901",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310899",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310899",
+                  "name": "LG Sakers vs Seoul Thunders",
+                  "streams": [
+                    {
+                      "id": "st-601310899",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-80f2e87c41",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d841326d8_42127/index.m3u8?expire=1773998785&sign=5160ad21ce4c7605b4f6d4dbf1379a0d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lg-sakers-vs-seoul-thunders-1700-13-03-2026/601310899"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "KBL",
+            "team_a": "LG Sakers",
+            "team_b": "Seoul Thunders",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0f8111e983b.png?v=1773395901",
+            "thumb_key": "thumbs/kaytee-a0f8111e983b.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_chuyền",
+      "name": "⏳ Sắp Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2299912a5daa",
+          "name": "🏐 Hungkuk W vs Expressway Co W | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2299912a5daa.png?v=1773395902",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309414",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309414",
+                  "name": "Hungkuk W vs Expressway Co W",
+                  "streams": [
+                    {
+                      "id": "st-601309414",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d52ed8acec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d786326d8_128756/index.m3u8?expire=1773998598&sign=c209ab82d421490964b737d90c4ef16b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hungkuk-w-vs-expressway-co-w-1700-13-03-2026/601309414"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League Women",
+            "team_a": "Hungkuk W",
+            "team_b": "Expressway Co W",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/378258933a4dd77acb1a9413ef01bc0b.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2299912a5daa.png?v=1773395902",
+            "thumb_key": "thumbs/kaytee-2299912a5daa.webp"
+          }
+        },
+        {
+          "id": "kaytee-6f2e95f81ebb",
+          "name": "🏐 Hyundai Skywalkers vs Samsung Blue Fangs | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773395902",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309432",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309432",
+                  "name": "Hyundai Skywalkers vs Samsung Blue Fangs",
+                  "streams": [
+                    {
+                      "id": "st-601309432",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3da520a8b7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d7b670a68_88642/index.m3u8?expire=1773998646&sign=01d9ac03d888fa9d2a4892a99f01d8dc",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hyundai-skywalkers-vs-samsung-blue-fangs-1700-13-03-2026/601309432"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "Hyundai Skywalkers",
+            "team_b": "Samsung Blue Fangs",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773395902",
+            "thumb_key": "thumbs/kaytee-6f2e95f81ebb.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_billiard",
+      "name": "⏳ Sắp Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-1eb27c3bd939",
+          "name": "🎱 Cha Yu-ram vs Kim Ga-young | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773395900",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311817",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311817",
+                  "name": "Cha Yu-ram vs Kim Ga-young",
+                  "streams": [
+                    {
+                      "id": "st-601311817",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7828be5dc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/cha-yuram-vs-kim-gayoung-1700-13-03-2026/601311817"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Cha Yu-ram",
+            "team_b": "Kim Ga-young",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bed9e8d0170e583d36348177bfdeb28a.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/59d465939819f0c24e54596de8d962ff.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773395900",
+            "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
+          }
+        },
+        {
+          "id": "kaytee-bf6ac6b44385",
+          "name": "🎱 Han Ji-eun vs Han Seul-gi | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773395901",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311820",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311820",
+                  "name": "Han Ji-eun vs Han Seul-gi",
+                  "streams": [
+                    {
+                      "id": "st-601311820",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-341eda95e5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b3966d70a68_142246/index.m3u8?expire=1773981933&sign=e85e4aedfba066beacb540114682f499",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/han-jieun-vs-han-seulgi-1700-13-03-2026/601311820"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Han Ji-eun",
+            "team_b": "Han Seul-gi",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/98e0513e210c4fa117843d9dcb3da287.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773395901",
+            "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
       ]
