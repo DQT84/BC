@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-13T16:09:02.285549",
+  "updated_at": "2026-03-13T17:54:12.839670",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-65cd451d328e",
-          "name": "⚽ Aleksa Pecelj vs Dương Quốc Hoàng | 21:00",
+          "id": "kaytee-86ed830f57cd",
+          "name": "⚽ Dynamo Kyiv vs Obolon Kyiv | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773418133",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-86ed830f57cd.png?v=1773424445",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,44 @@
           ],
           "sources": [
             {
-              "id": "src-601311751",
+              "id": "src-601297552",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601311751",
-                  "name": "Aleksa Pecelj vs Dương Quốc Hoàng",
+                  "id": "ct-601297552",
+                  "name": "Dynamo Kyiv vs Obolon Kyiv",
                   "streams": [
                     {
-                      "id": "st-601311751",
+                      "id": "st-601297552",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-72b7e0d420",
+                          "id": "lnk-69041e7077",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3d9c270a68_103/index.m3u8?expire=1773999170&sign=fd39fc4aa564f6b050b6b93e7e2f2751",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4272470a68_79/index.m3u8?expire=1774018980&sign=cf894d6a4665ee703d1d04b01ce005b8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/aleksa-pecelj-vs-duong-quoc-hoang-2100-13-03-2026/601311751"
+                              "value": "https://bunchatv1.net/truc-tiep/dynamo-kyiv-vs-obolon-kyiv-2300-13-03-2026/601297552"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8e053d9367",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/906eb06e22b5d55ebc2164c5e55ff9fc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dynamo-kyiv-vs-obolon-kyiv-2300-13-03-2026/601297552"
                             },
                             {
                               "key": "User-Agent",
@@ -77,18 +94,18 @@
             }
           ],
           "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Aleksa Pecelj",
-            "team_b": "Dương Quốc Hoàng",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f34ae8e442a01ec998cb7c9c28352357.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/0ab7acc5558bebd02d79fd0a4f3a21af.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773418133",
-            "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
+            "league": "Ukrainian Premier League",
+            "team_a": "Dynamo Kyiv",
+            "team_b": "Obolon Kyiv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/260dd85236710e5fe82be0480ce4764c.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-86ed830f57cd.png?v=1773424445",
+            "thumb_key": "thumbs/kaytee-86ed830f57cd.webp"
           }
         },
         {
-          "id": "kaytee-be9db2a198c6",
-          "name": "⚽ Araz Nakhchivan vs Karvan Evlakh | 21:30",
+          "id": "kaytee-6f621358c281",
+          "name": "⚽ AS Douanes Ouagadougou vs Real du Faso | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-be9db2a198c6.png?v=1773418135",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f621358c281.png?v=1773424447",
             "width": 1600,
             "height": 1200
           },
@@ -110,27 +127,234 @@
           ],
           "sources": [
             {
-              "id": "src-601297498",
+              "id": "src-601300177",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601297498",
-                  "name": "Araz Nakhchivan vs Karvan Evlakh",
+                  "id": "ct-601300177",
+                  "name": "AS Douanes Ouagadougou vs Real du Faso",
                   "streams": [
                     {
-                      "id": "st-601297498",
+                      "id": "st-601300177",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-91f3bedc8c",
+                          "id": "lnk-b212dd223d",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4142170a68_72787/index.m3u8?expire=1774014113&sign=157ef8e543215915eb7263df3f5e0f7d",
+                          "url": "https://live.alilicloud.com/live/68c19f0becc146a4269c070c503c55c3/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/araz-nakhchivan-vs-karvan-evlakh-2130-13-03-2026/601297498"
+                              "value": "https://bunchatv1.net/truc-tiep/as-douanes-ouagadougou-vs-real-du-faso-2300-13-03-2026/601300177"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "AS Douanes Ouagadougou",
+            "team_b": "Real du Faso",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/02e905e8f407b78d24c8ee895d7dce8e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2ff60775e3e8c1acc7049d8ea8fc58dc.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f621358c281.png?v=1773424447",
+            "thumb_key": "thumbs/kaytee-6f621358c281.webp"
+          }
+        },
+        {
+          "id": "kaytee-24a3b4471114",
+          "name": "⚽ Vitesse Delft vs Sonabel Ouagadougou | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-24a3b4471114.png?v=1773424448",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300180",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300180",
+                  "name": "Vitesse Delft vs Sonabel Ouagadougou",
+                  "streams": [
+                    {
+                      "id": "st-601300180",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-706964b983",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/8e1acfd0c80ac16a750001d825f38e17/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vitesse-delft-vs-sonabel-ouagadougou-2300-13-03-2026/601300180"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "Vitesse Delft",
+            "team_b": "Sonabel Ouagadougou",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5ed685cd62da3d7e009fe0ff6eb1b4f5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/35740b838fdd8d889c0ed2a464d1e81e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-24a3b4471114.png?v=1773424448",
+            "thumb_key": "thumbs/kaytee-24a3b4471114.webp"
+          }
+        },
+        {
+          "id": "kaytee-91b21977c3ab",
+          "name": "⚽ US Forces Armees vs Sporting Football des Cascades | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-91b21977c3ab.png?v=1773424450",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300183",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300183",
+                  "name": "US Forces Armees vs Sporting Football des Cascades",
+                  "streams": [
+                    {
+                      "id": "st-601300183",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-472f2ac768",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7c78eb910ecbf7698c4a2f20aac1e16c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/us-forces-armees-vs-sporting-football-des-cascades-2300-13-03-2026/601300183"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Burkina Faso Division 1",
+            "team_a": "US Forces Armees",
+            "team_b": "Sporting Football des Cascades",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4376163ecfd48938337d7a6277ed3d0a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/db8a84992b024e8260c4b350a4d9f95d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-91b21977c3ab.png?v=1773424450",
+            "thumb_key": "thumbs/kaytee-91b21977c3ab.webp"
+          }
+        },
+        {
+          "id": "kaytee-a68da01211fb",
+          "name": "⚽ FK Makhachkala vs Gazovik Orenburg | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a68da01211fb.png?v=1773424451",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297585",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297585",
+                  "name": "FK Makhachkala vs Gazovik Orenburg",
+                  "streams": [
+                    {
+                      "id": "st-601297585",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a4e14370a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b42ed2326d8_88642/index.m3u8?expire=1774020946&sign=8d25e35eacc62a0a07c6be66cda07350",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-makhachkala-vs-gazovik-orenburg-2330-13-03-2026/601297585"
                             },
                             {
                               "key": "User-Agent",
@@ -139,15 +363,84 @@
                           ]
                         },
                         {
-                          "id": "lnk-f2d16ba7bf",
+                          "id": "lnk-fbbef07f22",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/d236c70bf149aa57f3dab4d00c5377d8/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/3703d04906ec01cf6ea5b604bb042b8d/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/araz-nakhchivan-vs-karvan-evlakh-2130-13-03-2026/601297498"
+                              "value": "https://bunchatv1.net/truc-tiep/fk-makhachkala-vs-gazovik-orenburg-2330-13-03-2026/601297585"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Russian Premier League",
+            "team_a": "FK Makhachkala",
+            "team_b": "Gazovik Orenburg",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/26cece8c2572a1d82b90fefc2c71e8ad.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0f5f64c52541a333596d8892b25aa310.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a68da01211fb.png?v=1773424451",
+            "thumb_key": "thumbs/kaytee-a68da01211fb.webp"
+          }
+        },
+        {
+          "id": "kaytee-351878d27f56",
+          "name": "⚽ Standard Sumgayit vs Shamakhi FK | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-351878d27f56.png?v=1773424452",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297591",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297591",
+                  "name": "Standard Sumgayit vs Shamakhi FK",
+                  "streams": [
+                    {
+                      "id": "st-601297591",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e0ce1693bf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/3f25991ce934af9855af3accfd869d84/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/standard-sumgayit-vs-shamakhi-fk-2330-13-03-2026/601297591"
                             },
                             {
                               "key": "User-Agent",
@@ -164,452 +457,12 @@
           ],
           "org_metadata": {
             "league": "Azerbaijan Premier League",
-            "team_a": "Araz Nakhchivan",
-            "team_b": "Karvan Evlakh",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/ddc0609d051d17d0b686abce8ae49a15.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-be9db2a198c6.png?v=1773418135",
-            "thumb_key": "thumbs/kaytee-be9db2a198c6.webp"
-          }
-        },
-        {
-          "id": "kaytee-7ce57479b1dd",
-          "name": "⚽ Bazar Brothers FC vs Lightstars | 21:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7ce57479b1dd.png?v=1773418137",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310923",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310923",
-                  "name": "Bazar Brothers FC vs Lightstars",
-                  "streams": [
-                    {
-                      "id": "st-601310923",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e63691c9a8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/6976c1e006d23e4dcc053b8c43815b67/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bazar-brothers-fc-vs-lightstars-2130-13-03-2026/601310923"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "SYC PR",
-            "team_a": "Bazar Brothers FC",
-            "team_b": "Lightstars",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/74a62b647e358e0531d376af7ab679fd.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/eb3eb02d41b0bfa6cf0a4324101ed451.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7ce57479b1dd.png?v=1773418137",
-            "thumb_key": "thumbs/kaytee-7ce57479b1dd.webp"
-          }
-        },
-        {
-          "id": "kaytee-c9d243744125",
-          "name": "⚽ Lokomotiv Plovdiv vs Septemvri Sofia | 21:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c9d243744125.png?v=1773418138",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297501",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601297501",
-                  "name": "Lokomotiv Plovdiv vs Septemvri Sofia",
-                  "streams": [
-                    {
-                      "id": "st-601297501",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d0b4c1d4e9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b3fadc326d8_88186/index.m3u8?expire=1774007644&sign=93a6ef7037b06af300992289d9bf3e7b",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-plovdiv-vs-septemvri-sofia-2145-13-03-2026/601297501"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8d125fd5bb",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/ac8af8a35733e9d730cfa283f939d823/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lokomotiv-plovdiv-vs-septemvri-sofia-2145-13-03-2026/601297501"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "Lokomotiv Plovdiv",
-            "team_b": "Septemvri Sofia",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/940bb92f83d40985137748d0d3aeb213.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a6f81856a35217b82fb2e20d28c3dcab.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c9d243744125.png?v=1773418138",
-            "thumb_key": "thumbs/kaytee-c9d243744125.webp"
-          }
-        },
-        {
-          "id": "kaytee-1f76de81ad5e",
-          "name": "⚽ Sidama Bunna vs Shire Endaselassie FC | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76de81ad5e.png?v=1773418140",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297546",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601297546",
-                  "name": "Sidama Bunna vs Shire Endaselassie FC",
-                  "streams": [
-                    {
-                      "id": "st-601297546",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-88402b633a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4184d326d8_128756/index.m3u8?expire=1774015181&sign=88523dda7636317d8798fd74bc68375e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sidama-bunna-vs-shire-endaselassie-fc-2200-13-03-2026/601297546"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ethiopia Premier League",
-            "team_a": "Sidama Bunna",
-            "team_b": "Shire Endaselassie FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/45490fc4bc05f4f3e570796a942ab317.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2c55ae7bad9ff0e3342c00632097d026.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76de81ad5e.png?v=1773418140",
-            "thumb_key": "thumbs/kaytee-1f76de81ad5e.webp"
-          }
-        },
-        {
-          "id": "kaytee-28af0ef25ccc",
-          "name": "⚽ Hu Ling F. / Jheng Y. C. vs G. STOEVA /  S. STOEVA | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-28af0ef25ccc.png?v=1773418141",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311640",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311640",
-                  "name": "Hu Ling F. / Jheng Y. C. vs G. STOEVA /  S. STOEVA",
-                  "streams": [
-                    {
-                      "id": "st-601311640",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ce09084a6b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b406de70a68_18754/index.m3u8?expire=1774010718&sign=9d243af3879004e2196dc972188e1214",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hu-ling-f--jheng-y-c-vs-g-stoeva---s-stoeva-2200-13-03-2026/601311640"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - YONEX Swiss Open 2026",
-            "team_a": "Hu Ling F. / Jheng Y. C.",
-            "team_b": "G. STOEVA /  S. STOEVA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ace66c6f601c4414d6a2d55f37afd56b.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/cb4bc02b2ea4d9882347a8ac71462b68.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-28af0ef25ccc.png?v=1773418141",
-            "thumb_key": "thumbs/kaytee-28af0ef25ccc.webp"
-          }
-        },
-        {
-          "id": "kaytee-8935fd5dca35",
-          "name": "⚽ Phuong Nam Pham vs Moritz Neuhausen | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8935fd5dca35.png?v=1773418142",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312339",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601312339",
-                  "name": "Phuong Nam Pham vs Moritz Neuhausen",
-                  "streams": [
-                    {
-                      "id": "st-601312339",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a5cd0b456b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b435ec70a68_85714/index.m3u8?expire=1774022764&sign=297d3462878542170a53c1e0bbb02c61",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/phuong-nam-pham-vs-moritz-neuhausen-2300-13-03-2026/601312339"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Phuong Nam Pham",
-            "team_b": "Moritz Neuhausen",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8935fd5dca35.png?v=1773418142",
-            "thumb_key": "thumbs/kaytee-8935fd5dca35.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_billiard",
-      "name": "🔴 Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-1eb27c3bd939",
-          "name": "🎱 Ngô Đình Nại vs Kim Young-won | 19:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773418132",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311817",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311817",
-                  "name": "Ngô Đình Nại vs Kim Young-won",
-                  "streams": [
-                    {
-                      "id": "st-601311817",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7828be5dc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b39842326d8_144313/index.m3u8?expire=1773982402&sign=20cf00deb96fd8b8c4ee9bee8ce7976d",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ngo-dinh-nai-vs-kim-youngwon-1930-13-03-2026/601311817"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Ngô Đình Nại",
-            "team_b": "Kim Young-won",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773418132",
-            "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
+            "team_a": "Standard Sumgayit",
+            "team_b": "Shamakhi FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/46e02b8dea22b2951976d1262dd0279f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/37d454553ae43e27e90cfa76be033b88.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-351878d27f56.png?v=1773424452",
+            "thumb_key": "thumbs/kaytee-351878d27f56.webp"
           }
         }
       ]
