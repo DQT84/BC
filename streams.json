@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-13T11:46:39.139609",
+  "updated_at": "2026-03-13T11:47:37.659379",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-e773b817943d",
-          "name": "⚽ White City Woodville vs Para Hills Knlghts SC | 16:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e773b817943d.png?v=1773402384",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601297285",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601297285",
-                  "name": "White City Woodville vs Para Hills Knlghts SC",
-                  "streams": [
-                    {
-                      "id": "st-601297285",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6f13943a23",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/50c06076d2b036954a2986e21ca1004f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/white-city-woodville-vs-para-hills-knlghts-sc-1645-13-03-2026/601297285"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia National Premier Leagues",
-            "team_a": "White City Woodville",
-            "team_b": "Para Hills Knlghts SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2c2d46d2dee049dbc7db6a2cc9e7096d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6e25691ba46b706784b12c131912486d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e773b817943d.png?v=1773402384",
-            "thumb_key": "thumbs/kaytee-e773b817943d.webp"
-          }
-        },
         {
           "id": "kaytee-c36606769d2f",
           "name": "⚽ Australia Women vs North Korea (w) | 17:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c36606769d2f.png?v=1773402386",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c36606769d2f.png?v=1773402443",
             "width": 1600,
             "height": 1200
           },
@@ -168,7 +99,7 @@
             "team_b": "North Korea (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c36606769d2f.png?v=1773402386",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c36606769d2f.png?v=1773402443",
             "thumb_key": "thumbs/kaytee-c36606769d2f.webp"
           }
         },
@@ -182,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dfd5f943c234.png?v=1773402387",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dfd5f943c234.png?v=1773402445",
             "width": 1600,
             "height": 1200
           },
@@ -237,7 +168,7 @@
             "team_b": "Adelaide Comets FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/9387d0a789713efc4d22f39c269b89cc.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/861a7e12ebda4bd651b701e069cde5c5.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dfd5f943c234.png?v=1773402387",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dfd5f943c234.png?v=1773402445",
             "thumb_key": "thumbs/kaytee-dfd5f943c234.webp"
           }
         },
@@ -251,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-71aeface853c.png?v=1773402391",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-71aeface853c.png?v=1773402447",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +237,77 @@
             "team_b": "Kryvbas U21",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2668b4fe3f3d5226bfc049906e4d261d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/a240c65934961f7987a445090fab254c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-71aeface853c.png?v=1773402391",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-71aeface853c.png?v=1773402447",
             "thumb_key": "thumbs/kaytee-71aeface853c.webp"
+          }
+        },
+        {
+          "id": "kaytee-61c7950f45ea",
+          "name": "⚽ Epitsentr U21 vs Rukh Vynnyky U21 | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-61c7950f45ea.png?v=1773402450",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297381",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297381",
+                  "name": "Epitsentr U21 vs Rukh Vynnyky U21",
+                  "streams": [
+                    {
+                      "id": "st-601297381",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a80a8be726",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/035a4ebaf63576f5179ca79190a3e1b5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/epitsentr-u21-vs-rukh-vynnyky-u21-1700-13-03-2026/601297381"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Youth Team Championship",
+            "team_a": "Epitsentr U21",
+            "team_b": "Rukh Vynnyky U21",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5a3f4e42e26f7c259e7f7ed0eb8e7701.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8678cd816f38929f7d8bcac07ccb395f.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-61c7950f45ea.png?v=1773402450",
+            "thumb_key": "thumbs/kaytee-61c7950f45ea.webp"
           }
         },
         {
@@ -320,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773402393",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773402451",
             "width": 1600,
             "height": 1200
           },
@@ -375,7 +375,7 @@
             "team_b": "Phuong Nam Pham",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a33e1bcbe8a4ccd83c7fad7c67997613.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2b9284f83fdde8bfbc1009aa1d4fde3a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773402393",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-65cd451d328e.png?v=1773402451",
             "thumb_key": "thumbs/kaytee-65cd451d328e.webp"
           }
         },
@@ -389,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c956cae8fe90.png?v=1773402394",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c956cae8fe90.png?v=1773402453",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +461,7 @@
             "team_b": "CLB Thanh Hoa",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bc5db4dd418cb566a4475649876b55bb.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/c6c3cf855ef4fd3a0385d34606a858ab.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c956cae8fe90.png?v=1773402394",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c956cae8fe90.png?v=1773402453",
             "thumb_key": "thumbs/kaytee-c956cae8fe90.webp"
           }
         },
@@ -475,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9915a16f7f35.png?v=1773402396",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9915a16f7f35.png?v=1773402455",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +547,7 @@
             "team_b": "Hoang Anh Gia Lai",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/df2ae58b9e658494b940b0bd782901b8.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9915a16f7f35.png?v=1773402396",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9915a16f7f35.png?v=1773402455",
             "thumb_key": "thumbs/kaytee-9915a16f7f35.webp"
           }
         }
@@ -570,7 +570,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0f8111e983b.png?v=1773402389",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0f8111e983b.png?v=1773402449",
             "width": 1600,
             "height": 1200
           },
@@ -625,7 +625,7 @@
             "team_b": "Seoul Thunders",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0f8111e983b.png?v=1773402389",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a0f8111e983b.png?v=1773402449",
             "thumb_key": "thumbs/kaytee-a0f8111e983b.webp"
           }
         }
@@ -648,7 +648,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773402392",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773402451",
             "width": 1600,
             "height": 1200
           },
@@ -703,7 +703,7 @@
             "team_b": "Samsung Blue Fangs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773402392",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f2e95f81ebb.png?v=1773402451",
             "thumb_key": "thumbs/kaytee-6f2e95f81ebb.webp"
           }
         }
@@ -726,7 +726,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5eac04fc915.png?v=1773402397",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5eac04fc915.png?v=1773402456",
             "width": 1600,
             "height": 1200
           },
@@ -781,7 +781,7 @@
             "team_b": "Bernadette Szocs",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d4c35b72d08126ffda2590f94bbaaf63.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/33b52e8f22ed0c32379a26548f028282.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5eac04fc915.png?v=1773402397",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5eac04fc915.png?v=1773402456",
             "thumb_key": "thumbs/kaytee-e5eac04fc915.webp"
           }
         }
@@ -804,7 +804,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773402398",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773402457",
             "width": 1600,
             "height": 1200
           },
@@ -859,7 +859,7 @@
             "team_b": "Kim Young-won",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bc05383b76d62cec41784a623e84f806.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773402398",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1eb27c3bd939.png?v=1773402457",
             "thumb_key": "thumbs/kaytee-1eb27c3bd939.webp"
           }
         },
@@ -873,7 +873,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773402399",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773402457",
             "width": 1600,
             "height": 1200
           },
@@ -928,7 +928,7 @@
             "team_b": "Sanchez",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f2ac8e7683ab08c2a3f5028a68089a9.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773402399",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bf6ac6b44385.png?v=1773402457",
             "thumb_key": "thumbs/kaytee-bf6ac6b44385.webp"
           }
         }
