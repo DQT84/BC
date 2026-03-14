@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-14T14:59:59.262819",
+  "updated_at": "2026-03-14T15:53:26.124284",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,351 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-0545739d72d9",
-          "name": "⚽ Zenit St. Petersburg vs Spartak Moscow | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0545739d72d9.png?v=1773500382",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302013",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601302013",
-                  "name": "Zenit St. Petersburg vs Spartak Moscow",
-                  "streams": [
-                    {
-                      "id": "st-601302013",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-901a8883bf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/ac46daddba47b4f7dcfc6af5dc340134/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zenit-st-petersburg-vs-spartak-moscow-2000-14-03-2026/601302013"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Russian Premier League",
-            "team_a": "Zenit St. Petersburg",
-            "team_b": "Spartak Moscow",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/19d5361bfdffa4bfc2f936cbb65fd317.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b989806732eaf15246ab56e07d0b8a2e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0545739d72d9.png?v=1773500382",
-            "thumb_key": "thumbs/kaytee-0545739d72d9.webp"
-          }
-        },
-        {
-          "id": "kaytee-cc9f2a892e99",
-          "name": "⚽ Hansa Rostock vs MSV Duisburg | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cc9f2a892e99.png?v=1773500384",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302022",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601302022",
-                  "name": "Hansa Rostock vs MSV Duisburg",
-                  "streams": [
-                    {
-                      "id": "st-601302022",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1fc486f6f9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/d80fd7339317e9b793309cf917cd6f7f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hansa-rostock-vs-msv-duisburg-2000-14-03-2026/601302022"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German 3.Liga",
-            "team_a": "Hansa Rostock",
-            "team_b": "MSV Duisburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5e374b2a57b436c372bc3de0bfbb8cc9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/587d9e66872a355c96662de0f7376e30.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cc9f2a892e99.png?v=1773500384",
-            "thumb_key": "thumbs/kaytee-cc9f2a892e99.webp"
-          }
-        },
-        {
-          "id": "kaytee-ef3bfb7c6e1d",
-          "name": "⚽ Rot-Weiss Essen vs Erzgebirge Aue | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ef3bfb7c6e1d.png?v=1773500386",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302025",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601302025",
-                  "name": "Rot-Weiss Essen vs Erzgebirge Aue",
-                  "streams": [
-                    {
-                      "id": "st-601302025",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a625477631",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/ce16abbe6a847c2bcef4874d167ed559/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rotweiss-essen-vs-erzgebirge-aue-2000-14-03-2026/601302025"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German 3.Liga",
-            "team_a": "Rot-Weiss Essen",
-            "team_b": "Erzgebirge Aue",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3144cffbb5aac9554821f1d4292d6470.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8a7d0ef9785682b39265812ee19ad20d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ef3bfb7c6e1d.png?v=1773500386",
-            "thumb_key": "thumbs/kaytee-ef3bfb7c6e1d.webp"
-          }
-        },
-        {
-          "id": "kaytee-f202e45d9f56",
-          "name": "⚽ 1. FC Saarbrücken vs SSV Jahn Regensburg | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f202e45d9f56.png?v=1773500388",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601302028",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601302028",
-                  "name": "1. FC Saarbrücken vs SSV Jahn Regensburg",
-                  "streams": [
-                    {
-                      "id": "st-601302028",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e32afb7041",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7256019ed799c681bc6c5525de428d6d/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/1-fc-saarbrcken-vs-ssv-jahn-regensburg-2000-14-03-2026/601302028"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "German 3.Liga",
-            "team_a": "1. FC Saarbrücken",
-            "team_b": "SSV Jahn Regensburg",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4d0c08c569625beed5821775b20806b4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d61c4e6d16164c34a14047c6df3fdcf7.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f202e45d9f56.png?v=1773500388",
-            "thumb_key": "thumbs/kaytee-f202e45d9f56.webp"
-          }
-        },
-        {
-          "id": "kaytee-5ce9ad3c1b74",
-          "name": "⚽ Mika Van Berkelz vs Joshua Filler | 20:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773500391",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313626",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313626",
-                  "name": "Mika Van Berkelz vs Joshua Filler",
-                  "streams": [
-                    {
-                      "id": "st-601313626",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f821b4b14",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b538da70a68_103/index.m3u8?expire=1774089050&sign=17f3311a685ab20e82412ef780c916ad",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mika-van-berkelz-vs-joshua-filler-2020-14-03-2026/601313626"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Mika Van Berkelz",
-            "team_b": "Joshua Filler",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/73fb1483d896dbcb02f380d044393b90.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/678b542f54374d34c84d5ada71346cf4.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5ce9ad3c1b74.png?v=1773500391",
-            "thumb_key": "thumbs/kaytee-5ce9ad3c1b74.webp"
-          }
-        },
         {
           "id": "kaytee-47c662fe9ceb",
           "name": "⚽ Inter Milan vs Atalanta | 21:00",
@@ -372,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-47c662fe9ceb.png?v=1773500395",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-47c662fe9ceb.png?v=1773503591",
             "width": 1600,
             "height": 1200
           },
@@ -444,13 +99,13 @@
             "team_b": "Atalanta",
             "logo_a": "https://cdn.rapid-api.icu/football/team/aa2245702c40f77799a5ad4b119581a8.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-47c662fe9ceb.png?v=1773500395",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-47c662fe9ceb.png?v=1773503591",
             "thumb_key": "thumbs/kaytee-47c662fe9ceb.webp"
           }
         },
         {
-          "id": "kaytee-d722ca4a749a",
-          "name": "⚽ Putri Kusuma WARDANI vs Nozomi OKUHARA | 21:17",
+          "id": "kaytee-3ff7164dd386",
+          "name": "⚽ Apolonia Fier vs Skenderbeu Korca | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -458,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d722ca4a749a.png?v=1773500395",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ff7164dd386.png?v=1773503592",
             "width": 1600,
             "height": 1200
           },
@@ -472,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313560",
+              "id": "src-601302220",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601313560",
-                  "name": "Putri Kusuma WARDANI vs Nozomi OKUHARA",
+                  "id": "ct-601302220",
+                  "name": "Apolonia Fier vs Skenderbeu Korca",
                   "streams": [
                     {
-                      "id": "st-601313560",
+                      "id": "st-601302220",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4ae3a073e8",
+                          "id": "lnk-38a898af7b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b53e57326d8_18754/index.m3u8?expire=1774090455&sign=c78ecf132f62ac7252092196aa9cbf37",
+                          "url": "https://live.alilicloud.com/live/657f155d4c539521ccf0695de5ced21e/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/putri-kusuma-wardani-vs-nozomi-okuhara-2117-14-03-2026/601313560"
+                              "value": "https://bunchatv1.net/truc-tiep/apolonia-fier-vs-skenderbeu-korca-2100-14-03-2026/601302220"
                             },
                             {
                               "key": "User-Agent",
@@ -508,13 +163,220 @@
             }
           ],
           "org_metadata": {
-            "league": "Sân 1 - YONEX Swiss Open 2026",
-            "team_a": "Putri Kusuma WARDANI",
-            "team_b": "Nozomi OKUHARA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/96537705c9f65a05f3bfebe6b21ac46c.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d722ca4a749a.png?v=1773500395",
-            "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
+            "league": "Albanian Division 1",
+            "team_a": "Apolonia Fier",
+            "team_b": "Skenderbeu Korca",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4f81b1d964419548f01ca35bbaeeda75.jpg",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/75ce6c855856163768afe7e2d6252469.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ff7164dd386.png?v=1773503592",
+            "thumb_key": "thumbs/kaytee-3ff7164dd386.webp"
+          }
+        },
+        {
+          "id": "kaytee-fcb9c70fa14f",
+          "name": "⚽ Besa Kavaje vs Pogradeci | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fcb9c70fa14f.png?v=1773503596",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601302223",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601302223",
+                  "name": "Besa Kavaje vs Pogradeci",
+                  "streams": [
+                    {
+                      "id": "st-601302223",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-abb5fcb854",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/11caf41aa1db0568a96d114514a6bcc7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/besa-kavaje-vs-pogradeci-2100-14-03-2026/601302223"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "Besa Kavaje",
+            "team_b": "Pogradeci",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/f8f5161cf94df05793592f5fab95138b.jpg",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8fb134f258b1f7865a6ab2d935a897c9.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fcb9c70fa14f.png?v=1773503596",
+            "thumb_key": "thumbs/kaytee-fcb9c70fa14f.webp"
+          }
+        },
+        {
+          "id": "kaytee-b8188112359e",
+          "name": "⚽ KS Iliria Fushe vs Kastrioti Kruje | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b8188112359e.png?v=1773503599",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601302226",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601302226",
+                  "name": "KS Iliria Fushe vs Kastrioti Kruje",
+                  "streams": [
+                    {
+                      "id": "st-601302226",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-94992e008d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/254c1f9968061f246e0ead3020c2efcf/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ks-iliria-fushe-vs-kastrioti-kruje-2100-14-03-2026/601302226"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "KS Iliria Fushe",
+            "team_b": "Kastrioti Kruje",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0f7986451519be33ceadc905e72f8c14.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3e4ab239a39c04fa7086fc2d09ca121c.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b8188112359e.png?v=1773503599",
+            "thumb_key": "thumbs/kaytee-b8188112359e.webp"
+          }
+        },
+        {
+          "id": "kaytee-4d797ce52dd1",
+          "name": "⚽ Lushnja KS vs KF Luftetari | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4d797ce52dd1.png?v=1773503603",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601302229",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601302229",
+                  "name": "Lushnja KS vs KF Luftetari",
+                  "streams": [
+                    {
+                      "id": "st-601302229",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-412aa89392",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/11df90794fc29a241500ac84c6c60561/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lushnja-ks-vs-kf-luftetari-2100-14-03-2026/601302229"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Albanian Division 1",
+            "team_a": "Lushnja KS",
+            "team_b": "KF Luftetari",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c9f06bc7b46d0247a91c8fc665c13d0e.jpg",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ba2fa31a611d73643d38311061b1083d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4d797ce52dd1.png?v=1773503603",
+            "thumb_key": "thumbs/kaytee-4d797ce52dd1.webp"
           }
         },
         {
@@ -527,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0b814c15ffa1.png?v=1773500397",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0b814c15ffa1.png?v=1773503603",
             "width": 1600,
             "height": 1200
           },
@@ -599,7 +461,7 @@
             "team_b": "FC Bayern Munich",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ef19a84a6745fe57aa786873d2b18e8a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0b814c15ffa1.png?v=1773500397",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0b814c15ffa1.png?v=1773503603",
             "thumb_key": "thumbs/kaytee-0b814c15ffa1.webp"
           }
         },
@@ -613,7 +475,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9a88b65adf1c.png?v=1773500399",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9a88b65adf1c.png?v=1773503603",
             "width": 1600,
             "height": 1200
           },
@@ -685,22 +547,13 @@
             "team_b": "FC Augsburg",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bbfacbdbe67705172c6414d7e9c21b58.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9a88b65adf1c.png?v=1773500399",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9a88b65adf1c.png?v=1773503603",
             "thumb_key": "thumbs/kaytee-9a88b65adf1c.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_billiard",
-      "name": "🔴 Live 🎱 Billiard",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-8416a2612525",
-          "name": "🎱 Kim Young-won vs Kim Jae-geun | 20:00",
+          "id": "kaytee-0e2c2a46618a",
+          "name": "⚽ Eintracht Frankfurt vs 1. FC Heidenheim 1846 | 21:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -708,7 +561,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8416a2612525.png?v=1773500390",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0e2c2a46618a.png?v=1773503604",
             "width": 1600,
             "height": 1200
           },
@@ -722,27 +575,44 @@
           ],
           "sources": [
             {
-              "id": "src-601314247",
+              "id": "src-601303087",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601314247",
-                  "name": "Kim Young-won vs Kim Jae-geun",
+                  "id": "ct-601303087",
+                  "name": "Eintracht Frankfurt vs 1. FC Heidenheim 1846",
                   "streams": [
                     {
-                      "id": "st-601314247",
+                      "id": "st-601303087",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-d6c049b1ee",
+                          "id": "lnk-b77cb2c044",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b52d72326d8_142246/index.m3u8?expire=1774086130&sign=475879e81e48e36a902df71da14dbde3",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b56a8b326d8_72787/index.m3u8?expire=1774101771&sign=961e63dc74eb4f7379cded8ce002d878",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kim-youngwon-vs-kim-jaegeun-2000-14-03-2026/601314247"
+                              "value": "https://bunchatv1.net/truc-tiep/eintracht-frankfurt-vs-1-fc-heidenheim-1846-2130-14-03-2026/601303087"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-983678d476",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a6a2787ed0528edefb0c7e7e9afb8b24/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/eintracht-frankfurt-vs-1-fc-heidenheim-1846-2130-14-03-2026/601303087"
                             },
                             {
                               "key": "User-Agent",
@@ -758,27 +628,18 @@
             }
           ],
           "org_metadata": {
-            "league": "PBA-LPBA World Championship 2026",
-            "team_a": "Kim Young-won",
-            "team_b": "Kim Jae-geun",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2bc5221d5c071b6fe7b3ee7f043f4e2a.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8416a2612525.png?v=1773500390",
-            "thumb_key": "thumbs/kaytee-8416a2612525.webp"
+            "league": "Bundesliga",
+            "team_a": "Eintracht Frankfurt",
+            "team_b": "1. FC Heidenheim 1846",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fe636189a2f3db78d0554c34f0bdaae6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/65ee743f20fa7db286fdeda4d33c6980.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0e2c2a46618a.png?v=1773503604",
+            "thumb_key": "thumbs/kaytee-0e2c2a46618a.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_võ_thuật",
-      "name": "🔴 Live 🥊 Võ Thuật",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-4e6a9c0149c8",
-          "name": "🥊 Mohammad Soufi vs Naoyuki Oi | 20:30",
+          "id": "kaytee-d722ca4a749a",
+          "name": "⚽ Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA | 22:10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -786,7 +647,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773500392",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d722ca4a749a.png?v=1773503606",
             "width": 1600,
             "height": 1200
           },
@@ -800,27 +661,27 @@
           ],
           "sources": [
             {
-              "id": "src-601314268",
+              "id": "src-601313560",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601314268",
-                  "name": "Mohammad Soufi vs Naoyuki Oi",
+                  "id": "ct-601313560",
+                  "name": "Christian Faust KJÆR /  Rasmus KJÆR vs Nozomi OKUHARA",
                   "streams": [
                     {
-                      "id": "st-601314268",
+                      "id": "st-601313560",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-ab3ab1062a",
+                          "id": "lnk-4ae3a073e8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b56686326d8_85706/index.m3u8?expire=1774100742&sign=e8adae28e7ccfe4ce423e2da19ddf364",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b53e57326d8_18754/index.m3u8?expire=1774090455&sign=c78ecf132f62ac7252092196aa9cbf37",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mohammad-soufi-vs-naoyuki-oi-2030-14-03-2026/601314268"
+                              "value": "https://bunchatv1.net/truc-tiep/christian-faust-kjr---rasmus-kjr-vs-nozomi-okuhara-2210-14-03-2026/601313560"
                             },
                             {
                               "key": "User-Agent",
@@ -836,91 +697,13 @@
             }
           ],
           "org_metadata": {
-            "league": "European Open Pool Championship 2026",
-            "team_a": "Mohammad Soufi",
-            "team_b": "Naoyuki Oi",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7f65576247bfa750dabb4cdb0188a661.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e5581f273588748a4cf4fc557fea9181.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4e6a9c0149c8.png?v=1773500392",
-            "thumb_key": "thumbs/kaytee-4e6a9c0149c8.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-e8cd7740f08e",
-          "name": "🏓 Hugo CALDERANO vs Felix LEBRUN | 20:46",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e8cd7740f08e.png?v=1773500393",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313557",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313557",
-                  "name": "Hugo CALDERANO vs Felix LEBRUN",
-                  "streams": [
-                    {
-                      "id": "st-601313557",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8f80538474",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b53e29326d8_142210/index.m3u8?expire=1774090409&sign=190d9f4c4aa07f45d3066caf51861d05",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hugo-calderano-vs-felix-lebrun-2046-14-03-2026/601313557"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing Women",
-            "team_a": "Hugo CALDERANO",
-            "team_b": "Felix LEBRUN",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/03e39ddfc665282859c074c60aaee5e9.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/127e13a1128bf5a04e1afa31906b66ff.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e8cd7740f08e.png?v=1773500393",
-            "thumb_key": "thumbs/kaytee-e8cd7740f08e.webp"
+            "league": "Sân 1 - YONEX Swiss Open 2026",
+            "team_a": "Christian Faust KJÆR /  Rasmus KJÆR",
+            "team_b": "Nozomi OKUHARA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/54b47d68120e6f5964251a155ea39166.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d722ca4a749a.png?v=1773503606",
+            "thumb_key": "thumbs/kaytee-d722ca4a749a.webp"
           }
         }
       ]
