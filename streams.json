@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-14T08:01:49.554731",
+  "updated_at": "2026-03-14T08:03:07.171512",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773475298",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773475373",
             "width": 1600,
             "height": 1200
           },
@@ -99,163 +99,8 @@
             "team_b": "Auckland FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6eae40b446299cfb06316430ae387475.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773475298",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773475373",
             "thumb_key": "thumbs/kaytee-756b916551aa.webp"
-          }
-        },
-        {
-          "id": "kaytee-2d7f1c2e0ce0",
-          "name": "⚽ Kashima Antlers vs Kawasaki Frontale | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773475300",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301152",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601301152",
-                  "name": "Kashima Antlers vs Kawasaki Frontale",
-                  "streams": [
-                    {
-                      "id": "st-601301152",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1710ab158",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4e13e326d8_124958/index.m3u8?expire=1774066622&sign=8e8dfdc64e4b9d77f40d9ccf69c0ca61",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kashima-antlers-vs-kawasaki-frontale-1300-14-03-2026/601301152"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-52e1e3e2bd",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/b65fe717d294c6ca43f828c940a52cea/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kashima-antlers-vs-kawasaki-frontale-1300-14-03-2026/601301152"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Kashima Antlers",
-            "team_b": "Kawasaki Frontale",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/937795c0851c1e794e96a5cb660fcd59.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773475300",
-            "thumb_key": "thumbs/kaytee-2d7f1c2e0ce0.webp"
-          }
-        },
-        {
-          "id": "kaytee-3ef5bfc74e3c",
-          "name": "⚽ Macau Chiba FC vs S.L. Benfica de Macau | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ef5bfc74e3c.png?v=1773475302",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301173",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601301173",
-                  "name": "Macau Chiba FC vs S.L. Benfica de Macau",
-                  "streams": [
-                    {
-                      "id": "st-601301173",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3de09ea825",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a882113155c291b10bba4d98f71db7d0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/macau-chiba-fc-vs-sl-benfica-de-macau-1300-14-03-2026/601301173"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Macao Liga de Elite",
-            "team_a": "Macau Chiba FC",
-            "team_b": "S.L. Benfica de Macau",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b8d33db40895a1d5b798a03911daa8ac.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d95a274e11f327574bf90d00382e7008.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ef5bfc74e3c.png?v=1773475302",
-            "thumb_key": "thumbs/kaytee-3ef5bfc74e3c.webp"
           }
         },
         {
@@ -268,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6633e4e4262a.png?v=1773475304",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6633e4e4262a.png?v=1773475374",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +168,7 @@
             "team_b": "University NSW",
             "logo_a": "https://cdn.rapid-api.icu/football/team/71a3331c3902a051622e75a5086b3d62.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cdee9eb9cab2e697281160e0b138446a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6633e4e4262a.png?v=1773475304",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6633e4e4262a.png?v=1773475374",
             "thumb_key": "thumbs/kaytee-6633e4e4262a.webp"
           }
         },
@@ -337,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773475306",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773475377",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +237,7 @@
             "team_b": "Adelaide",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773475306",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773475377",
             "thumb_key": "thumbs/kaytee-1f76be552d6e.webp"
           }
         },
@@ -406,7 +251,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9af8242f3ef6.png?v=1773475308",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9af8242f3ef6.png?v=1773475378",
             "width": 1600,
             "height": 1200
           },
@@ -478,8 +323,241 @@
             "team_b": "Urawa Red Diamonds",
             "logo_a": "https://cdn.rapid-api.icu/football/team/2a8adb34e764602183a7bee8f51726e4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9af8242f3ef6.png?v=1773475308",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9af8242f3ef6.png?v=1773475378",
             "thumb_key": "thumbs/kaytee-9af8242f3ef6.webp"
+          }
+        },
+        {
+          "id": "kaytee-1b3043c2b1c4",
+          "name": "⚽ Xiamen Chengyi vs Beijing Smart Sky Football Club | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1b3043c2b1c4.png?v=1773475381",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297180",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297180",
+                  "name": "Xiamen Chengyi vs Beijing Smart Sky Football Club",
+                  "streams": [
+                    {
+                      "id": "st-601297180",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b077105de1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/8de110e843f5677dfea24f5642d20bbe/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/xiamen-chengyi-vs-beijing-smart-sky-football-club-1400-14-03-2026/601297180"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese FA Cup",
+            "team_a": "Xiamen Chengyi",
+            "team_b": "Beijing Smart Sky Football Club",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cbdc592f8869a8b84ef211918d2360d3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bd17daa6d8ebf374ef09cf312772fc54.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1b3043c2b1c4.png?v=1773475381",
+            "thumb_key": "thumbs/kaytee-1b3043c2b1c4.webp"
+          }
+        },
+        {
+          "id": "kaytee-1aead01db779",
+          "name": "⚽ Shaanxi Mobei Miners vs Tianjin Kaiser | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1aead01db779.png?v=1773475384",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601297186",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601297186",
+                  "name": "Shaanxi Mobei Miners vs Tianjin Kaiser",
+                  "streams": [
+                    {
+                      "id": "st-601297186",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed4f998725",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/81c5c920444bbf835752283adec4ed9e/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shaanxi-mobei-miners-vs-tianjin-kaiser-1400-14-03-2026/601297186"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese FA Cup",
+            "team_a": "Shaanxi Mobei Miners",
+            "team_b": "Tianjin Kaiser",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e5f289e69fc504e8f99ccabcefc552ad.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/42981c0023505679a9e50e8bfbc8fd77.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1aead01db779.png?v=1773475384",
+            "thumb_key": "thumbs/kaytee-1aead01db779.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-21137665b5c2",
+          "name": "🏀 Altona Magic vs Bentleigh greens | 14:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-21137665b5c2.png?v=1773475387",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301248",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601301248",
+                  "name": "Altona Magic vs Bentleigh greens",
+                  "streams": [
+                    {
+                      "id": "st-601301248",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1fa558afb5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4fd99326d8_95554/index.m3u8?expire=1774073881&sign=9e6dba7299fdecaf273675f7c651add4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/altona-magic-vs-bentleigh-greens-1415-14-03-2026/601301248"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5d24734552",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/8f19ac6aeb6b1db0dfe2da68657f3633/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/altona-magic-vs-bentleigh-greens-1415-14-03-2026/601301248"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Altona Magic",
+            "team_b": "Bentleigh greens",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5fe8e44d486217553612d132ac6346c6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5016a715cb2eee1c7938f3170ad7d0ed.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-21137665b5c2.png?v=1773475387",
+            "thumb_key": "thumbs/kaytee-21137665b5c2.webp"
           }
         }
       ]
@@ -501,7 +579,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773475309",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773475385",
             "width": 1600,
             "height": 1200
           },
@@ -556,7 +634,7 @@
             "team_b": "GS Caltex W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8be9e6f1af0b1aaf2c23b4d8f72d4f09.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773475309",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773475385",
             "thumb_key": "thumbs/kaytee-959a3256dbeb.webp"
           }
         }
@@ -579,7 +657,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773475308",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773475384",
             "width": 1600,
             "height": 1200
           },
@@ -634,7 +712,7 @@
             "team_b": "Kim Im-gwon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773475308",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773475384",
             "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
           }
         }
