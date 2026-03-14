@@ -8,6 +8,801 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-13T23:57:28.904698",
-  "groups": []
+  "updated_at": "2026-03-14T05:04:11.266405",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-13a47d91f34a",
+          "name": "⚽ FC Juarez vs Monterrey | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-13a47d91f34a.png?v=1773464639",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300963",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300963",
+                  "name": "FC Juarez vs Monterrey",
+                  "streams": [
+                    {
+                      "id": "st-601300963",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a83931ce24",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4c91170a68_136682/index.m3u8?expire=1774060433&sign=3ca0fbea45af0d3089f50a8d704ac4f5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-juarez-vs-monterrey-1000-14-03-2026/601300963"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-bccb719f85",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ff9e6cbb00a9bfdb5d612d2839a7b3dc/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fc-juarez-vs-monterrey-1000-14-03-2026/601300963"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico Liga MX",
+            "team_a": "FC Juarez",
+            "team_b": "Monterrey",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2ef06350057f561b5dce57c7fca99a74.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5c3f819a35454f424d85df5757650f8b.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-13a47d91f34a.png?v=1773464639",
+            "thumb_key": "thumbs/kaytee-13a47d91f34a.webp"
+          }
+        },
+        {
+          "id": "kaytee-99f27c1635a4",
+          "name": "⚽ Devonport City vs LAN Thurston | 10:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-99f27c1635a4.png?v=1773464640",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300975",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300975",
+                  "name": "Devonport City vs LAN Thurston",
+                  "streams": [
+                    {
+                      "id": "st-601300975",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-888ea897ea",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/43e9378217ca7bae0f2e65a5b4045925/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/devonport-city-vs-lan-thurston-1030-14-03-2026/601300975"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Tasmania National Premier League",
+            "team_a": "Devonport City",
+            "team_b": "LAN Thurston",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6b6c9fe9473814369d86c2659b35039c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bdafff78b854a08b760a3c3d3045f8fe.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-99f27c1635a4.png?v=1773464640",
+            "thumb_key": "thumbs/kaytee-99f27c1635a4.webp"
+          }
+        },
+        {
+          "id": "kaytee-09938097b34d",
+          "name": "⚽ Kingborough Lions vs South East United FC | 10:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-09938097b34d.png?v=1773464642",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300978",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300978",
+                  "name": "Kingborough Lions vs South East United FC",
+                  "streams": [
+                    {
+                      "id": "st-601300978",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d178fc7f28",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c41b6ddfc7f845c5d7324230b124d7ce/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kingborough-lions-vs-south-east-united-fc-1030-14-03-2026/601300978"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Tasmania National Premier League",
+            "team_a": "Kingborough Lions",
+            "team_b": "South East United FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/42e8b0755549e790199f442c4f074d6b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d05a97ad4d50996a568f5b884b29e317.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-09938097b34d.png?v=1773464642",
+            "thumb_key": "thumbs/kaytee-09938097b34d.webp"
+          }
+        },
+        {
+          "id": "kaytee-e1a785184132",
+          "name": "⚽ Launceston City (w) vs Kingborough Lions (w) | 10:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e1a785184132.png?v=1773464643",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313578",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601313578",
+                  "name": "Launceston City (w) vs Kingborough Lions (w)",
+                  "streams": [
+                    {
+                      "id": "st-601313578",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-59f43473b1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/38166a081907b4569158c690ced6a2d4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/launceston-city-w-vs-kingborough-lions-w-1030-14-03-2026/601313578"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia TSAmania Women's Super League",
+            "team_a": "Launceston City (w)",
+            "team_b": "Kingborough Lions (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b08d61f03810cc9d609379816e78a726.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/50ec1aebce2876b68e3d56167f3a8ed3.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e1a785184132.png?v=1773464643",
+            "thumb_key": "thumbs/kaytee-e1a785184132.webp"
+          }
+        },
+        {
+          "id": "kaytee-9994e0b7693f",
+          "name": "⚽ Central Coast Mariners vs Adelaide United | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9994e0b7693f.png?v=1773464644",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300993",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300993",
+                  "name": "Central Coast Mariners vs Adelaide United",
+                  "streams": [
+                    {
+                      "id": "st-601300993",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18760f12ac",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d73d70a68_85514/index.m3u8?expire=1774064061&sign=26d0cbec323b5d19b4dac8fe3c7fb636",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/central-coast-mariners-vs-adelaide-united-1100-14-03-2026/601300993"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dc5e2266ff",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/430ca581ddb4e5e0b21e6a17572f4ea1/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/central-coast-mariners-vs-adelaide-united-1100-14-03-2026/601300993"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Central Coast Mariners",
+            "team_b": "Adelaide United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4295d4c9acc95550f5a4360f0ba0d93f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9994e0b7693f.png?v=1773464644",
+            "thumb_key": "thumbs/kaytee-9994e0b7693f.webp"
+          }
+        },
+        {
+          "id": "kaytee-c8dae352d900",
+          "name": "⚽ Yokohama F. Marinos vs JEF United Ichihara Chiba | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8dae352d900.png?v=1773464646",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601300999",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601300999",
+                  "name": "Yokohama F. Marinos vs JEF United Ichihara Chiba",
+                  "streams": [
+                    {
+                      "id": "st-601300999",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3b20bc063a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d61e326d8_44731/index.m3u8?expire=1774063774&sign=4779d77983f32e1d68fa6a7cce280609",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yokohama-f-marinos-vs-jef-united-ichihara-chiba-1100-14-03-2026/601300999"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8098643cc8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/517638f1a2675b52cfe63cf99afc94a4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/yokohama-f-marinos-vs-jef-united-ichihara-chiba-1100-14-03-2026/601300999"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Yokohama F. Marinos",
+            "team_b": "JEF United Ichihara Chiba",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8dae352d900.png?v=1773464646",
+            "thumb_key": "thumbs/kaytee-c8dae352d900.webp"
+          }
+        },
+        {
+          "id": "kaytee-fb29088fa953",
+          "name": "⚽ Avondale FC vs Dandenong City SC | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fb29088fa953.png?v=1773464647",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301002",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601301002",
+                  "name": "Avondale FC vs Dandenong City SC",
+                  "streams": [
+                    {
+                      "id": "st-601301002",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ee219c4074",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d24470a68_88642/index.m3u8?expire=1774062788&sign=ea2c59d09324c1dad0377178a1feabf9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/avondale-fc-vs-dandenong-city-sc-1100-14-03-2026/601301002"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c61b4d278b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/02154ab7659cd4e487eba8d77b79bcdf/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/avondale-fc-vs-dandenong-city-sc-1100-14-03-2026/601301002"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Premier Leagues Victoria",
+            "team_a": "Avondale FC",
+            "team_b": "Dandenong City SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ff2e694966de559719f778b5c79ea2ad.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3a4dae29240839fa156aad32c63b0795.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fb29088fa953.png?v=1773464647",
+            "thumb_key": "thumbs/kaytee-fb29088fa953.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2cb9bccca9a2",
+          "name": "🏐 Woori vs Kepco | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2cb9bccca9a2.png?v=1773464651",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309435",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309435",
+                  "name": "Woori vs Kepco",
+                  "streams": [
+                    {
+                      "id": "st-601309435",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf1cfe51ad",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4ea79326d8_110198/index.m3u8?expire=1774068985&sign=0204aa5ca7eebf07a1b36a65ce093773",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/woori-vs-kepco-1200-14-03-2026/601309435"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "Woori",
+            "team_b": "Kepco",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/244ebe83a326615e6863e3555c09e69e.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6a3ed56be508dbc51ed847ff2626c25a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2cb9bccca9a2.png?v=1773464651",
+            "thumb_key": "thumbs/kaytee-2cb9bccca9a2.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-db571cc2493e",
+          "name": "🎱 Han Ji-eun vs Lee Woo-kyung | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773464649",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313860",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601313860",
+                  "name": "Han Ji-eun vs Lee Woo-kyung",
+                  "streams": [
+                    {
+                      "id": "st-601313860",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed391a5176",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4d7e9326d8_144313/index.m3u8?expire=1774064233&sign=62eca2610f0f99254b2a421821372c61",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/han-jieun-vs-lee-wookyung-1100-14-03-2026/601313860"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Han Ji-eun",
+            "team_b": "Lee Woo-kyung",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a80c44adbb48162ca52811e925278b55.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/855f9296bdaa53535735b8672c648016.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773464649",
+            "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-148e9fb8dc32",
+          "name": "🏓 Dang QIU vs WEN Ruibo | 11:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-148e9fb8dc32.png?v=1773464650",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313554",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601313554",
+                  "name": "Dang QIU vs WEN Ruibo",
+                  "streams": [
+                    {
+                      "id": "st-601313554",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-995af46042",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4e3cc70a68_141847/index.m3u8?expire=1774067276&sign=765eef073f7eb510f0a6418b60e62956",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/dang-qiu-vs-wen-ruibo-1130-14-03-2026/601313554"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing Women",
+            "team_a": "Dang QIU",
+            "team_b": "WEN Ruibo",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/0116df515df59cd514f6972dedc7e812.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-148e9fb8dc32.png?v=1773464650",
+            "thumb_key": "thumbs/kaytee-148e9fb8dc32.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
