@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-14T07:25:58.590147",
+  "updated_at": "2026-03-14T08:01:49.554731",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,299 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-63df15e6e6d0",
-          "name": "⚽ China Women vs Chinese Taipei (w) | 12:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-63df15e6e6d0.png?v=1773473145",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301038",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601301038",
-                  "name": "China Women vs Chinese Taipei (w)",
-                  "streams": [
-                    {
-                      "id": "st-601301038",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-817f2f6ea5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4ce87326d8_128756/index.m3u8?expire=1774061831&sign=45921d3399a16b342aae37843c9711e2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/china-women-vs-chinese-taipei-w-1200-14-03-2026/601301038"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e3f663fea6",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/3f6a6af2fca1b1a1533f242ed0cc5954/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/china-women-vs-chinese-taipei-w-1200-14-03-2026/601301038"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "China Women",
-            "team_b": "Chinese Taipei (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d7284374f0dbd15edab5227f4dd34db5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-63df15e6e6d0.png?v=1773473145",
-            "thumb_key": "thumbs/kaytee-63df15e6e6d0.webp"
-          }
-        },
-        {
-          "id": "kaytee-68b0c85cc66b",
-          "name": "⚽ Launceston City vs Ulverstone | 12:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-68b0c85cc66b.png?v=1773473147",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301134",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601301134",
-                  "name": "Launceston City vs Ulverstone",
-                  "streams": [
-                    {
-                      "id": "st-601301134",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8b935d20e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4de82509f1a9dba2f26b5d334785e84f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/launceston-city-vs-ulverstone-1245-14-03-2026/601301134"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Tasmania National Premier League",
-            "team_a": "Launceston City",
-            "team_b": "Ulverstone",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/f5303a9bc7a98344ffa9b7c060817077.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3919845e17298888f7a1427ddc39ec55.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-68b0c85cc66b.png?v=1773473147",
-            "thumb_key": "thumbs/kaytee-68b0c85cc66b.webp"
-          }
-        },
-        {
-          "id": "kaytee-57b0a4f0edfc",
-          "name": "⚽ Riverside Olympic vs Glenorchy Knights FC | 12:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-57b0a4f0edfc.png?v=1773473149",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601301137",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601301137",
-                  "name": "Riverside Olympic vs Glenorchy Knights FC",
-                  "streams": [
-                    {
-                      "id": "st-601301137",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-79a9194233",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/5431c8b70b3a7344377495d99c23225f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/riverside-olympic-vs-glenorchy-knights-fc-1245-14-03-2026/601301137"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Tasmania National Premier League",
-            "team_a": "Riverside Olympic",
-            "team_b": "Glenorchy Knights FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4ea82e0f00672dd97bbde5702923463f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cc4fb9d6d32a8622e01db1f04536ff3c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-57b0a4f0edfc.png?v=1773473149",
-            "thumb_key": "thumbs/kaytee-57b0a4f0edfc.webp"
-          }
-        },
-        {
-          "id": "kaytee-9db3b424e311",
-          "name": "⚽ Eastern Suburbs SC (w) vs Queensland Lions (w) | 12:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9db3b424e311.png?v=1773473150",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310998",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310998",
-                  "name": "Eastern Suburbs SC (w) vs Queensland Lions (w)",
-                  "streams": [
-                    {
-                      "id": "st-601310998",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f61558e98",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/6934c84f6c237e226e14e2faca494bbb/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/eastern-suburbs-sc-w-vs-queensland-lions-w-1245-14-03-2026/601310998"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Queensland State Women's League",
-            "team_a": "Eastern Suburbs SC (w)",
-            "team_b": "Queensland Lions (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4f2d30e21f08ac0d6c79d3b2f5defa0c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/00bb429c0a2d148a1ad0957162a25cb7.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9db3b424e311.png?v=1773473150",
-            "thumb_key": "thumbs/kaytee-9db3b424e311.webp"
-          }
-        },
         {
           "id": "kaytee-756b916551aa",
           "name": "⚽ Newcastle Jets vs Auckland FC | 13:00",
@@ -320,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773473152",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773475298",
             "width": 1600,
             "height": 1200
           },
@@ -392,7 +99,7 @@
             "team_b": "Auckland FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/6eae40b446299cfb06316430ae387475.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773473152",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-756b916551aa.png?v=1773475298",
             "thumb_key": "thumbs/kaytee-756b916551aa.webp"
           }
         },
@@ -406,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773473153",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773475300",
             "width": 1600,
             "height": 1200
           },
@@ -478,13 +185,13 @@
             "team_b": "Kawasaki Frontale",
             "logo_a": "https://cdn.rapid-api.icu/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/937795c0851c1e794e96a5cb660fcd59.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773473153",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2d7f1c2e0ce0.png?v=1773475300",
             "thumb_key": "thumbs/kaytee-2d7f1c2e0ce0.webp"
           }
         },
         {
-          "id": "kaytee-085ca935e0d6",
-          "name": "⚽ Sanfrecce Hiroshima vs Gamba Osaka | 13:00",
+          "id": "kaytee-3ef5bfc74e3c",
+          "name": "⚽ Macau Chiba FC vs S.L. Benfica de Macau | 13:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -492,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-085ca935e0d6.png?v=1773473154",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ef5bfc74e3c.png?v=1773475302",
             "width": 1600,
             "height": 1200
           },
@@ -506,44 +213,27 @@
           ],
           "sources": [
             {
-              "id": "src-601301155",
+              "id": "src-601301173",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601301155",
-                  "name": "Sanfrecce Hiroshima vs Gamba Osaka",
+                  "id": "ct-601301173",
+                  "name": "Macau Chiba FC vs S.L. Benfica de Macau",
                   "streams": [
                     {
-                      "id": "st-601301155",
+                      "id": "st-601301173",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-a1540ba7e8",
+                          "id": "lnk-3de09ea825",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4f910326d8_88642/index.m3u8?expire=1774072720&sign=90a574197f47f0d4d86f48f21e4602d3",
+                          "url": "https://live.alilicloud.com/live/a882113155c291b10bba4d98f71db7d0/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sanfrecce-hiroshima-vs-gamba-osaka-1300-14-03-2026/601301155"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-90b449a199",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/00cc436ca10e35d93adb59ad2268d0ee/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sanfrecce-hiroshima-vs-gamba-osaka-1300-14-03-2026/601301155"
+                              "value": "https://bunchatv1.net/truc-tiep/macau-chiba-fc-vs-sl-benfica-de-macau-1300-14-03-2026/601301173"
                             },
                             {
                               "key": "User-Agent",
@@ -559,13 +249,82 @@
             }
           ],
           "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Sanfrecce Hiroshima",
-            "team_b": "Gamba Osaka",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/91008a96b5de8c75376d17057f89890e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-085ca935e0d6.png?v=1773473154",
-            "thumb_key": "thumbs/kaytee-085ca935e0d6.webp"
+            "league": "Chinese Macao Liga de Elite",
+            "team_a": "Macau Chiba FC",
+            "team_b": "S.L. Benfica de Macau",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b8d33db40895a1d5b798a03911daa8ac.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d95a274e11f327574bf90d00382e7008.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ef5bfc74e3c.png?v=1773475302",
+            "thumb_key": "thumbs/kaytee-3ef5bfc74e3c.webp"
+          }
+        },
+        {
+          "id": "kaytee-6633e4e4262a",
+          "name": "⚽ Sutherland Sharks vs University NSW | 13:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6633e4e4262a.png?v=1773475304",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301182",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601301182",
+                  "name": "Sutherland Sharks vs University NSW",
+                  "streams": [
+                    {
+                      "id": "st-601301182",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-227f694578",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b4fd1570a68_73445/index.m3u8?expire=1774073749&sign=8d66542cdc0b53be495d9a76f93a387f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sutherland-sharks-vs-university-nsw-1330-14-03-2026/601301182"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Premier League",
+            "team_a": "Sutherland Sharks",
+            "team_b": "University NSW",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/71a3331c3902a051622e75a5086b3d62.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cdee9eb9cab2e697281160e0b138446a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6633e4e4262a.png?v=1773475304",
+            "thumb_key": "thumbs/kaytee-6633e4e4262a.webp"
           }
         },
         {
@@ -578,7 +337,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773473157",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773475306",
             "width": 1600,
             "height": 1200
           },
@@ -633,8 +392,94 @@
             "team_b": "Adelaide",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773473157",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1f76be552d6e.png?v=1773475306",
             "thumb_key": "thumbs/kaytee-1f76be552d6e.webp"
+          }
+        },
+        {
+          "id": "kaytee-9af8242f3ef6",
+          "name": "⚽ Tokyo Verdy vs Urawa Red Diamonds | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9af8242f3ef6.png?v=1773475308",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601301197",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601301197",
+                  "name": "Tokyo Verdy vs Urawa Red Diamonds",
+                  "streams": [
+                    {
+                      "id": "st-601301197",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bdae8a093",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b506a5326d8_103/index.m3u8?expire=1774076197&sign=84d5442093cd6ccdc3b1b80bbcf72bcd",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tokyo-verdy-vs-urawa-red-diamonds-1400-14-03-2026/601301197"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-32b13bc1ab",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/26afc9c45e140281615c945156aa4736/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tokyo-verdy-vs-urawa-red-diamonds-1400-14-03-2026/601301197"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Tokyo Verdy",
+            "team_b": "Urawa Red Diamonds",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/2a8adb34e764602183a7bee8f51726e4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9af8242f3ef6.png?v=1773475308",
+            "thumb_key": "thumbs/kaytee-9af8242f3ef6.webp"
           }
         }
       ]
@@ -656,7 +501,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773473158",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773475309",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +556,7 @@
             "team_b": "GS Caltex W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8be9e6f1af0b1aaf2c23b4d8f72d4f09.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773473158",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-959a3256dbeb.png?v=1773475309",
             "thumb_key": "thumbs/kaytee-959a3256dbeb.webp"
           }
         }
@@ -734,7 +579,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773473157",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773475308",
             "width": 1600,
             "height": 1200
           },
@@ -789,86 +634,8 @@
             "team_b": "Kim Im-gwon",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac17a438d3483cf97275819192d47983.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/4c87577d6db11e3e92044f16c5c6aa5d.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773473157",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db571cc2493e.png?v=1773475308",
             "thumb_key": "thumbs/kaytee-db571cc2493e.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-148e9fb8dc32",
-          "name": "🏓 LIN Yun-Ju vs Tomokazu HARIMOTO | 13:20",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-148e9fb8dc32.png?v=1773473156",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313554",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313554",
-                  "name": "LIN Yun-Ju vs Tomokazu HARIMOTO",
-                  "streams": [
-                    {
-                      "id": "st-601313554",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-995af46042",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b4e3cc70a68_141847/index.m3u8?expire=1774067276&sign=765eef073f7eb510f0a6418b60e62956",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lin-yunju-vs-tomokazu-harimoto-1320-14-03-2026/601313554"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing Women",
-            "team_a": "LIN Yun-Ju",
-            "team_b": "Tomokazu HARIMOTO",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5bebbd96c40b78fbbfea1328ffdd1b36.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-148e9fb8dc32.png?v=1773473156",
-            "thumb_key": "thumbs/kaytee-148e9fb8dc32.webp"
           }
         }
       ]
