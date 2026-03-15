@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-15T11:02:29.828212",
+  "updated_at": "2026-03-15T11:51:29.288588",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,282 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-d9db3e01c5b8",
-          "name": "⚽ Admira Praha vs Sokol Hostoun | 16:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d9db3e01c5b8.png?v=1773572535",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305313",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601305313",
-                  "name": "Admira Praha vs Sokol Hostoun",
-                  "streams": [
-                    {
-                      "id": "st-601305313",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-303e0ce95c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/470831bfc5195411743e798ba7b67a54/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/admira-praha-vs-sokol-hostoun-1615-15-03-2026/601305313"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Admira Praha",
-            "team_b": "Sokol Hostoun",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/288ba870be05b1f2afd956aff370fefa.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3697af2e64f6f1e96eedfc016ff6c9e1.jfif",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d9db3e01c5b8.png?v=1773572535",
-            "thumb_key": "thumbs/kaytee-d9db3e01c5b8.webp"
-          }
-        },
-        {
-          "id": "kaytee-17078bba24ac",
-          "name": "⚽ Dukla Praha B vs FK Pribram B | 16:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-17078bba24ac.png?v=1773572537",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305316",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601305316",
-                  "name": "Dukla Praha B vs FK Pribram B",
-                  "streams": [
-                    {
-                      "id": "st-601305316",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-06e4f6d9f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/22a9962ad38cf2b311c2a0bff0b31070/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dukla-praha-b-vs-fk-pribram-b-1615-15-03-2026/601305316"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Dukla Praha B",
-            "team_b": "FK Pribram B",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/324e80d5de7b3bca31305f78fe097b12.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3892a3f3c65d2230df5579976ae27750.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-17078bba24ac.png?v=1773572537",
-            "thumb_key": "thumbs/kaytee-17078bba24ac.webp"
-          }
-        },
-        {
-          "id": "kaytee-46db5b1c1aad",
-          "name": "⚽ Hradec Kralove B vs Sokol Brozany | 16:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-46db5b1c1aad.png?v=1773572538",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305319",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601305319",
-                  "name": "Hradec Kralove B vs Sokol Brozany",
-                  "streams": [
-                    {
-                      "id": "st-601305319",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0124fb7425",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/3bba278510102807ddc4e3b70be38b2c/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hradec-kralove-b-vs-sokol-brozany-1615-15-03-2026/601305319"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Hradec Kralove B",
-            "team_b": "Sokol Brozany",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/864cc8e46f22651f5066152058d411c5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/54bf4539d4f9a31e332c958a5428adfd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-46db5b1c1aad.png?v=1773572538",
-            "thumb_key": "thumbs/kaytee-46db5b1c1aad.webp"
-          }
-        },
-        {
-          "id": "kaytee-ed3eec93b2a1",
-          "name": "⚽ Jablonec B vs Benatky Nad Jizerou | 16:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ed3eec93b2a1.png?v=1773572540",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305322",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601305322",
-                  "name": "Jablonec B vs Benatky Nad Jizerou",
-                  "streams": [
-                    {
-                      "id": "st-601305322",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de86092394",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/6e156ef00984cbbace78b50df6baf6d1/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jablonec-b-vs-benatky-nad-jizerou-1615-15-03-2026/601305322"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Jablonec B",
-            "team_b": "Benatky Nad Jizerou",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/215febf3425db0aef3ee87fbd9311b21.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f2131535b0352d2c9fd298cf8cd2ce1c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ed3eec93b2a1.png?v=1773572540",
-            "thumb_key": "thumbs/kaytee-ed3eec93b2a1.webp"
-          }
-        },
         {
           "id": "kaytee-fab71db3c84d",
           "name": "⚽ LI Yi Jing / WANG Yi Duo vs JIA Yi Fan / ZHANG Shu Xian | 17:00",
@@ -303,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fab71db3c84d.png?v=1773572542",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fab71db3c84d.png?v=1773575476",
             "width": 1600,
             "height": 1200
           },
@@ -358,7 +82,7 @@
             "team_b": "JIA Yi Fan / ZHANG Shu Xian",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4c096b1f95a2afdb3aa56876f572f24f.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2541a719cd89f4ad80adadd04d1aa0b9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fab71db3c84d.png?v=1773572542",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fab71db3c84d.png?v=1773575476",
             "thumb_key": "thumbs/kaytee-fab71db3c84d.webp"
           }
         },
@@ -372,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773572544",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773575478",
             "width": 1600,
             "height": 1200
           },
@@ -444,91 +168,13 @@
             "team_b": "Fukushima United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ffb69072af11f7c87d69f3a9a71d687c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5eefc68533b087e949e4fb09f70889b9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773572544",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773575478",
             "thumb_key": "thumbs/kaytee-792eea971759.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_bàn",
-      "name": "🔴 Live 🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-44bdafde7013",
-          "name": "🏓 Tomokazu HARIMOTO vs WEN Ruibo | 17:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-44bdafde7013.png?v=1773572545",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601314496",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601314496",
-                  "name": "Tomokazu HARIMOTO vs WEN Ruibo",
-                  "streams": [
-                    {
-                      "id": "st-601314496",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-afa930154d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b6270370a69_142210/index.m3u8?expire=1774150019&sign=7ea03ef80edbf89629888941402fe92f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/tomokazu-harimoto-vs-wen-ruibo-1740-15-03-2026/601314496"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "Tomokazu HARIMOTO",
-            "team_b": "WEN Ruibo",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-44bdafde7013.png?v=1773572545",
-            "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
           }
         },
         {
-          "id": "kaytee-6389142f529c",
-          "name": "🏓 Moritz Neuhausen vs Eklent Kaci | 18:00",
+          "id": "kaytee-2dd819de8855",
+          "name": "⚽ Genoa Youth vs US Cremonese U20 | 17:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -536,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6389142f529c.png?v=1773572546",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2dd819de8855.png?v=1773575479",
             "width": 1600,
             "height": 1200
           },
@@ -550,27 +196,27 @@
           ],
           "sources": [
             {
-              "id": "src-601314556",
+              "id": "src-601305364",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601314556",
-                  "name": "Moritz Neuhausen vs Eklent Kaci",
+                  "id": "ct-601305364",
+                  "name": "Genoa Youth vs US Cremonese U20",
                   "streams": [
                     {
-                      "id": "st-601314556",
+                      "id": "st-601305364",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-947cee3215",
+                          "id": "lnk-3b4c8487a8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545",
+                          "url": "https://live.alilicloud.com/live/605e036135119c4a5ad581dbb0b3a9c2/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/moritz-neuhausen-vs-eklent-kaci-1800-15-03-2026/601314556"
+                              "value": "https://bunchatv1.net/truc-tiep/genoa-youth-vs-us-cremonese-u20-1700-15-03-2026/601305364"
                             },
                             {
                               "key": "User-Agent",
@@ -586,24 +232,222 @@
             }
           ],
           "org_metadata": {
-            "league": "WTT Champions Chongqing 2026 Presented",
-            "team_a": "Moritz Neuhausen",
-            "team_b": "Eklent Kaci",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8ccde85542177bf68bb5001a825aa6ee.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6389142f529c.png?v=1773572546",
-            "thumb_key": "thumbs/kaytee-6389142f529c.webp"
+            "league": "Italian Campionato Primavera 1",
+            "team_a": "Genoa Youth",
+            "team_b": "US Cremonese U20",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/da173090450e8e2bc9722c7a386a49ae.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/41297c11abf8eb9d5d023d4735b6b408.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2dd819de8855.png?v=1773575479",
+            "thumb_key": "thumbs/kaytee-2dd819de8855.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
+        {
+          "id": "kaytee-711f1e8159d6",
+          "name": "⚽ Ingolstadt 04 (w) vs VfB Stuttgart (W) | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-711f1e8159d6.png?v=1773575481",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305373",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305373",
+                  "name": "Ingolstadt 04 (w) vs VfB Stuttgart (W)",
+                  "streams": [
+                    {
+                      "id": "st-601305373",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ffa308b8bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7c8a44cf35519968bb6373c3148f3723/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ingolstadt-04-w-vs-vfb-stuttgart-w-1700-15-03-2026/601305373"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Women's Bundesliga II",
+            "team_a": "Ingolstadt 04 (w)",
+            "team_b": "VfB Stuttgart (W)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/583f8dac3cd3afa8feb44c5520a754c0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/89fad0635104761f7e3ea94a2150e698.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-711f1e8159d6.png?v=1773575481",
+            "thumb_key": "thumbs/kaytee-711f1e8159d6.webp"
+          }
+        },
+        {
+          "id": "kaytee-9787ec0b5924",
+          "name": "⚽ Viktoria Berlin (w) vs SV Meppen (w) | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9787ec0b5924.png?v=1773575482",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305376",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305376",
+                  "name": "Viktoria Berlin (w) vs SV Meppen (w)",
+                  "streams": [
+                    {
+                      "id": "st-601305376",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1490dc6d8c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/fb032e2d0b7f3bc3e33cec859e87b8d8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/viktoria-berlin-w-vs-sv-meppen-w-1700-15-03-2026/601305376"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "German Women's Bundesliga II",
+            "team_a": "Viktoria Berlin (w)",
+            "team_b": "SV Meppen (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7b11624190e66b3259da2b3c447ed803.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/9ca667896b89fb7bca1ccf13ff38f5e8.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9787ec0b5924.png?v=1773575482",
+            "thumb_key": "thumbs/kaytee-9787ec0b5924.webp"
+          }
+        },
+        {
+          "id": "kaytee-eebd87ab641d",
+          "name": "⚽ Pirin Blagoevgrad vs Vihren Sandanski | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eebd87ab641d.png?v=1773575483",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305382",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305382",
+                  "name": "Pirin Blagoevgrad vs Vihren Sandanski",
+                  "streams": [
+                    {
+                      "id": "st-601305382",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd4aeb3f5b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/47f37707575f287466333b004bf52bb4/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pirin-blagoevgrad-vs-vihren-sandanski-1700-15-03-2026/601305382"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bulgarian Second League",
+            "team_a": "Pirin Blagoevgrad",
+            "team_b": "Vihren Sandanski",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/e9ee766ede3d5f9f0e70baaf251b5549.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e09e5c54099e7e64c4b51c533f5706c6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eebd87ab641d.png?v=1773575483",
+            "thumb_key": "thumbs/kaytee-eebd87ab641d.webp"
+          }
+        },
         {
           "id": "kaytee-2deea2a4c6cd",
           "name": "⚽ PVF-CAND B vs Dong Tam Long An | 18:00",
@@ -614,16 +458,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773572548",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773575487",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -655,6 +499,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-44be4cb895",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/67d7c373f78c096e179dc7ae04be2810/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pvfcand-b-vs-dong-tam-long-an-1800-15-03-2026/601305694"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -669,7 +530,7 @@
             "team_b": "Dong Tam Long An",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d3a984bcf764b1e85663cdfaafce243.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/347d428c24e85dbda67f7817e7d80ebf.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773572548",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2deea2a4c6cd.png?v=1773575487",
             "thumb_key": "thumbs/kaytee-2deea2a4c6cd.webp"
           }
         },
@@ -683,16 +544,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c7830a749f0.png?v=1773572549",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c7830a749f0.png?v=1773575488",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -755,8 +616,233 @@
             "team_b": "Qingdao West Coast FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c4e143e537412003565cdb7c2d212538.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/383d42e0d0843463b538bc3367d0c4c9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c7830a749f0.png?v=1773572549",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c7830a749f0.png?v=1773575488",
             "thumb_key": "thumbs/kaytee-7c7830a749f0.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_billiard",
+      "name": "🔴 Live 🎱 Billiard",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-17120b99653f",
+          "name": "🎱 Choi Keon-hwi vs Kim Young-won | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-17120b99653f.png?v=1773575489",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314616",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601314616",
+                  "name": "Choi Keon-hwi vs Kim Young-won",
+                  "streams": [
+                    {
+                      "id": "st-601314616",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-603ecb1199",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b695df70a69_144313/index.m3u8?expire=1774178399&sign=ba9e3cf7f81079a92bf53490f171270f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/choi-keonhwi-vs-kim-youngwon-1830-15-03-2026/601314616"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PBA-LPBA World Championship 2026",
+            "team_a": "Choi Keon-hwi",
+            "team_b": "Kim Young-won",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a47c069f0a99e96fc9214b8284342096.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/810eb61673c3d74fc757b37bb3167104.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-17120b99653f.png?v=1773575489",
+            "thumb_key": "thumbs/kaytee-17120b99653f.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-44bdafde7013",
+          "name": "🏓 Tomokazu HARIMOTO vs WEN Ruibo | 17:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-44bdafde7013.png?v=1773575485",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314496",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601314496",
+                  "name": "Tomokazu HARIMOTO vs WEN Ruibo",
+                  "streams": [
+                    {
+                      "id": "st-601314496",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afa930154d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6270370a69_142210/index.m3u8?expire=1774150019&sign=7ea03ef80edbf89629888941402fe92f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tomokazu-harimoto-vs-wen-ruibo-1740-15-03-2026/601314496"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Tomokazu HARIMOTO",
+            "team_b": "WEN Ruibo",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-44bdafde7013.png?v=1773575485",
+            "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
+          }
+        },
+        {
+          "id": "kaytee-6389142f529c",
+          "name": "🏓 Moritz Neuhausen vs Eklent Kaci | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6389142f529c.png?v=1773575485",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314556",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601314556",
+                  "name": "Moritz Neuhausen vs Eklent Kaci",
+                  "streams": [
+                    {
+                      "id": "st-601314556",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-947cee3215",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b68923326d9_103/index.m3u8?expire=1774175139&sign=13f4e9844ad2f6077c2d713090046545",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/moritz-neuhausen-vs-eklent-kaci-1800-15-03-2026/601314556"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Moritz Neuhausen",
+            "team_b": "Eklent Kaci",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/980f2ebfacd7f306e0ae3c10a0005812.webp",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/8ccde85542177bf68bb5001a825aa6ee.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6389142f529c.png?v=1773575485",
+            "thumb_key": "thumbs/kaytee-6389142f529c.webp"
           }
         }
       ]
