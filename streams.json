@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-15T09:51:24.845575",
+  "updated_at": "2026-03-15T10:01:50.924361",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,92 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-eff62165e30a",
-          "name": "⚽ Melbourne Victory vs FC Macarthur | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eff62165e30a.png?v=1773568273",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305241",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601305241",
-                  "name": "Melbourne Victory vs FC Macarthur",
-                  "streams": [
-                    {
-                      "id": "st-601305241",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6ec76f0595",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b659cb326d9_79/index.m3u8?expire=1774163019&sign=7978c0bd55f6336e25eb95074e673acc",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-victory-vs-fc-macarthur-1500-15-03-2026/601305241"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5c921ab18a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/12695eb48f685b9942613bda6db4740b/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/melbourne-victory-vs-fc-macarthur-1500-15-03-2026/601305241"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia A-League",
-            "team_a": "Melbourne Victory",
-            "team_b": "FC Macarthur",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cfa3dbe7828b0928285c243375cbae24.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eff62165e30a.png?v=1773568273",
-            "thumb_key": "thumbs/kaytee-eff62165e30a.webp"
-          }
-        },
         {
           "id": "kaytee-dea5031935fd",
           "name": "⚽ UNSW FC (W) vs WS Wanderers B (W) | 15:00",
@@ -113,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dea5031935fd.png?v=1773568274",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dea5031935fd.png?v=1773568900",
             "width": 1600,
             "height": 1200
           },
@@ -168,7 +82,7 @@
             "team_b": "WS Wanderers B (W)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/75bf136c336015d3adb291a238ea039e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3a4d8f1bb2920df73a527995eb45e41f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dea5031935fd.png?v=1773568274",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-dea5031935fd.png?v=1773568900",
             "thumb_key": "thumbs/kaytee-dea5031935fd.webp"
           }
         },
@@ -182,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-848630771bad.png?v=1773568278",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-848630771bad.png?v=1773568902",
             "width": 1600,
             "height": 1200
           },
@@ -237,8 +151,146 @@
             "team_b": "Tahiti United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/3ba9e68b96950ffe8b5b4fb2508cf3dd.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/1f64b50649c4ac1dfd8338ba79d21b88.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-848630771bad.png?v=1773568278",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-848630771bad.png?v=1773568902",
             "thumb_key": "thumbs/kaytee-848630771bad.webp"
+          }
+        },
+        {
+          "id": "kaytee-6fb1ae0838e7",
+          "name": "⚽ Shenzhen Juniors vs Shaanxi Union | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fb1ae0838e7.png?v=1773568903",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305256",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305256",
+                  "name": "Shenzhen Juniors vs Shaanxi Union",
+                  "streams": [
+                    {
+                      "id": "st-601305256",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c79afabf03",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/0e67093001630ae1fda9ef845163677f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shenzhen-juniors-vs-shaanxi-union-1500-15-03-2026/601305256"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Football League 1",
+            "team_a": "Shenzhen Juniors",
+            "team_b": "Shaanxi Union",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a08ac642f929244efa8a75289ec5d75a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/69b0ed18e16d15d6888baad52e6fa88f.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fb1ae0838e7.png?v=1773568903",
+            "thumb_key": "thumbs/kaytee-6fb1ae0838e7.webp"
+          }
+        },
+        {
+          "id": "kaytee-6b0aa123dd4e",
+          "name": "⚽ Hong Kong FC vs Lee Man | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6b0aa123dd4e.png?v=1773568905",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305295",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305295",
+                  "name": "Hong Kong FC vs Lee Man",
+                  "streams": [
+                    {
+                      "id": "st-601305295",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d12c5914a9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/45d1bb64912eedb33e408af029653a28/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hong-kong-fc-vs-lee-man-1530-15-03-2026/601305295"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Hong Kong Premier League",
+            "team_a": "Hong Kong FC",
+            "team_b": "Lee Man",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9ede3e338ae946a3d257ff8d65449c6e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8488d5d93a28b78eaeae55758ad25fb5.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6b0aa123dd4e.png?v=1773568905",
+            "thumb_key": "thumbs/kaytee-6b0aa123dd4e.webp"
           }
         },
         {
@@ -251,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1b108a3a0f09.png?v=1773568280",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1b108a3a0f09.png?v=1773568906",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +375,7 @@
             "team_b": "Ba Ria Vung Tau FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/40b7d679de613aedfb80bcaba85fa7e0.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5e40ed1f6779e1fcfb55c259e36746da.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1b108a3a0f09.png?v=1773568280",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1b108a3a0f09.png?v=1773568906",
             "thumb_key": "thumbs/kaytee-1b108a3a0f09.webp"
           }
         },
@@ -337,7 +389,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a6defdd86641.png?v=1773568282",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a6defdd86641.png?v=1773568908",
             "width": 1600,
             "height": 1200
           },
@@ -392,86 +444,8 @@
             "team_b": "JTEKT",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4ffbf5f2980aa124e6aa994ea7db43b9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/26cd21fa7eb0f3f64bf428e2ae17e097.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a6defdd86641.png?v=1773568282",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a6defdd86641.png?v=1773568908",
             "thumb_key": "thumbs/kaytee-a6defdd86641.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-ad462507022c",
-          "name": "🏀 St George Willawong FC vs Holland Park Hawks FC | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ad462507022c.png?v=1773568276",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601305244",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601305244",
-                  "name": "St George Willawong FC vs Holland Park Hawks FC",
-                  "streams": [
-                    {
-                      "id": "st-601305244",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7911c6a673",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/19b952aecdccff7bb3a5890419fa8040/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/st-george-willawong-fc-vs-holland-park-hawks-fc-1500-15-03-2026/601305244"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Queensland State League 1",
-            "team_a": "St George Willawong FC",
-            "team_b": "Holland Park Hawks FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4fb9cb872deb76fb3c475916de8e5b35.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/b6b723f639b6d0fadbc839179d734dc2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ad462507022c.png?v=1773568276",
-            "thumb_key": "thumbs/kaytee-ad462507022c.webp"
           }
         }
       ]
@@ -493,7 +467,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773568284",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773568910",
             "width": 1600,
             "height": 1200
           },
@@ -548,7 +522,7 @@
             "team_b": "Fukushima United FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ffb69072af11f7c87d69f3a9a71d687c.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5eefc68533b087e949e4fb09f70889b9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773568284",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-792eea971759.png?v=1773568910",
             "thumb_key": "thumbs/kaytee-792eea971759.webp"
           }
         }
