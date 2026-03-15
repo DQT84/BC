@@ -8,6 +8,870 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-14T23:55:25.466981",
-  "groups": []
+  "updated_at": "2026-03-15T05:45:44.587955",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-5d061d36ad23",
+          "name": "⚽ Wollongong Wolves vs Spirit FC | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5d061d36ad23.png?v=1773553529",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305094",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305094",
+                  "name": "Wollongong Wolves vs Spirit FC",
+                  "streams": [
+                    {
+                      "id": "st-601305094",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0c5fab715",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b625fe326d8_74012/index.m3u8?expire=1774149758&sign=a1aa5224af4973c332ef34afb94617c2",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/wollongong-wolves-vs-spirit-fc-1100-15-03-2026/601305094"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f7189a16f3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/5aa01eb96d8767927f08cd1ef97256a8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/wollongong-wolves-vs-spirit-fc-1100-15-03-2026/601305094"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Premier League",
+            "team_a": "Wollongong Wolves",
+            "team_b": "Spirit FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/efae44ec97227dca2a2b38a19823a2f2.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/22f0cc669b7a84a3b61e27dbb57cb139.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5d061d36ad23.png?v=1773553529",
+            "thumb_key": "thumbs/kaytee-5d061d36ad23.webp"
+          }
+        },
+        {
+          "id": "kaytee-1535c11ae5f2",
+          "name": "⚽ Vanraure Hachinohe FC vs Tochigi City | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1535c11ae5f2.png?v=1773553531",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305100",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305100",
+                  "name": "Vanraure Hachinohe FC vs Tochigi City",
+                  "streams": [
+                    {
+                      "id": "st-601305100",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b38d6731b1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/bbfc77cb7c8448f6b0f1ed5e00f72812/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vanraure-hachinohe-fc-vs-tochigi-city-1100-15-03-2026/601305100"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Vanraure Hachinohe FC",
+            "team_b": "Tochigi City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3b0ad7d22d856a34a523cf4cecde0789.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0587c755424c4e6290e45f9c52fb7b13.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1535c11ae5f2.png?v=1773553531",
+            "thumb_key": "thumbs/kaytee-1535c11ae5f2.webp"
+          }
+        },
+        {
+          "id": "kaytee-695b7179c6d7",
+          "name": "⚽ Blaublitz Akita vs Tochigi SC | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-695b7179c6d7.png?v=1773553532",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305103",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305103",
+                  "name": "Blaublitz Akita vs Tochigi SC",
+                  "streams": [
+                    {
+                      "id": "st-601305103",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de81324b8d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/f708906279595c305a2d1090a083ecf7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/blaublitz-akita-vs-tochigi-sc-1100-15-03-2026/601305103"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Blaublitz Akita",
+            "team_b": "Tochigi SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7800ea1ee29937dbf7866cb6a275ef64.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/085e1ec0b3510610667169d0322bd17e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-695b7179c6d7.png?v=1773553532",
+            "thumb_key": "thumbs/kaytee-695b7179c6d7.webp"
+          }
+        },
+        {
+          "id": "kaytee-2942b12a9aef",
+          "name": "⚽ Roasso Kumamoto vs Gainare Tottori | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2942b12a9aef.png?v=1773553534",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305106",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305106",
+                  "name": "Roasso Kumamoto vs Gainare Tottori",
+                  "streams": [
+                    {
+                      "id": "st-601305106",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10379b320a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c79c28edd0a00c007fa5f0ce6251c72f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/roasso-kumamoto-vs-gainare-tottori-1100-15-03-2026/601305106"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Roasso Kumamoto",
+            "team_b": "Gainare Tottori",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/809e95942827f1fca7b6c5cffd4777cb.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/ac6989e16cbd3e3a5c5aee60eb94206a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2942b12a9aef.png?v=1773553534",
+            "thumb_key": "thumbs/kaytee-2942b12a9aef.webp"
+          }
+        },
+        {
+          "id": "kaytee-c0cea32299c9",
+          "name": "⚽ Blacktown City Demons vs Marconi Stallions | 11:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c0cea32299c9.png?v=1773553536",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305097",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305097",
+                  "name": "Blacktown City Demons vs Marconi Stallions",
+                  "streams": [
+                    {
+                      "id": "st-601305097",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c61b5ac311",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62d0b70a69_124958/index.m3u8?expire=1774151563&sign=b0802cbf71bb914fdde8015f1ee0d75b",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/blacktown-city-demons-vs-marconi-stallions-1115-15-03-2026/601305097"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b9dc759acc",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/db24baaa2795f3a49af7358b089c2ab8/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/blacktown-city-demons-vs-marconi-stallions-1115-15-03-2026/601305097"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Premier League",
+            "team_a": "Blacktown City Demons",
+            "team_b": "Marconi Stallions",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c074c4be85fe61509822008face2ef08.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e1605aa2375e5aa780e43e89a0f1b080.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c0cea32299c9.png?v=1773553536",
+            "thumb_key": "thumbs/kaytee-c0cea32299c9.webp"
+          }
+        },
+        {
+          "id": "kaytee-2a769d8e8b7e",
+          "name": "⚽ Japan Women vs Philippines Women | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773553537",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305127",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305127",
+                  "name": "Japan Women vs Philippines Women",
+                  "streams": [
+                    {
+                      "id": "st-601305127",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70f7a23768",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62c7d326d8_72787/index.m3u8?expire=1774151421&sign=f605b9a61f2dd6e165fa9a59d7f89829",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-099c79097d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/d7dce9d87193037662834c0a1ddd4772/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/japan-women-vs-philippines-women-1200-15-03-2026/601305127"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Women’s Asian Cup",
+            "team_a": "Japan Women",
+            "team_b": "Philippines Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3fe649ebb607f9ab42108bdcb0eeaf17.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2a769d8e8b7e.png?v=1773553537",
+            "thumb_key": "thumbs/kaytee-2a769d8e8b7e.webp"
+          }
+        },
+        {
+          "id": "kaytee-c72621062afb",
+          "name": "⚽ V-Varen Nagasaki vs Avispa Fukuoka | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c72621062afb.png?v=1773553539",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601305130",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601305130",
+                  "name": "V-Varen Nagasaki vs Avispa Fukuoka",
+                  "streams": [
+                    {
+                      "id": "st-601305130",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-65f277d2bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62e0b70a69_95554/index.m3u8?expire=1774151819&sign=7ad4ad9895ae1876c7da146d5d2f29b5",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vvaren-nagasaki-vs-avispa-fukuoka-1200-15-03-2026/601305130"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-6d9a3ae861",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/cab9f8c6224c0f783f833c2d22a76d9b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vvaren-nagasaki-vs-avispa-fukuoka-1200-15-03-2026/601305130"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "V-Varen Nagasaki",
+            "team_b": "Avispa Fukuoka",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b28ace839956d8eacce11926ea5e43b3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c72621062afb.png?v=1773553539",
+            "thumb_key": "thumbs/kaytee-c72621062afb.webp"
+          }
+        },
+        {
+          "id": "kaytee-04c8d7f51d61",
+          "name": "⚽ Wonju DB vs LG Sakers | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-04c8d7f51d61.png?v=1773553542",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314259",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601314259",
+                  "name": "Wonju DB vs LG Sakers",
+                  "streams": [
+                    {
+                      "id": "st-601314259",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c9269551fe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b62e9970a69_110198/index.m3u8?expire=1774151961&sign=8b153487867a47d55b1402551592c209",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/wonju-db-vs-lg-sakers-1200-15-03-2026/601314259"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "KBL",
+            "team_a": "Wonju DB",
+            "team_b": "LG Sakers",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9bef33c943c16b7aedec052a581c14d2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d1734a5bdcd32d87993c722b8f5c108b.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-04c8d7f51d61.png?v=1773553542",
+            "thumb_key": "thumbs/kaytee-04c8d7f51d61.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-30cb55afd69e",
+          "name": "🏀 Goyang Sono vs Seoul Thunders | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-30cb55afd69e.png?v=1773553542",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314256",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601314256",
+                  "name": "Goyang Sono vs Seoul Thunders",
+                  "streams": [
+                    {
+                      "id": "st-601314256",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6e77b5023b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b63ed4326d9_42127/index.m3u8?expire=1774156116&sign=73bba599116dd55c0edceed5f752272a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/goyang-sono-vs-seoul-thunders-1200-15-03-2026/601314256"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "KBL",
+            "team_a": "Goyang Sono",
+            "team_b": "Seoul Thunders",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3e598258677ca4b7970d21e7f5f18ac2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-30cb55afd69e.png?v=1773553542",
+            "thumb_key": "thumbs/kaytee-30cb55afd69e.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b9602028aa5f",
+          "name": "🏐 Busan OK vs KAL Jumbos | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9602028aa5f.png?v=1773553543",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309438",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309438",
+                  "name": "Busan OK vs KAL Jumbos",
+                  "streams": [
+                    {
+                      "id": "st-601309438",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a226622090",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6359570a69_128756/index.m3u8?expire=1774153749&sign=545bfca8c56bd787e23b9d65aa511ece",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/busan-ok-vs-kal-jumbos-1200-15-03-2026/601309438"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "Busan OK",
+            "team_b": "KAL Jumbos",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/10341499f6bc61ed1f1528af7c2b2222.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b9602028aa5f.png?v=1773553543",
+            "thumb_key": "thumbs/kaytee-b9602028aa5f.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-44bdafde7013",
+          "name": "🏓 Tomokazu HARIMOTO vs WEN Ruibo | 12:40",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-44bdafde7013.png?v=1773553544",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601314496",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601314496",
+                  "name": "Tomokazu HARIMOTO vs WEN Ruibo",
+                  "streams": [
+                    {
+                      "id": "st-601314496",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afa930154d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b6270370a69_142210/index.m3u8?expire=1774150019&sign=7ea03ef80edbf89629888941402fe92f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/tomokazu-harimoto-vs-wen-ruibo-1240-15-03-2026/601314496"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Chongqing 2026 Presented",
+            "team_a": "Tomokazu HARIMOTO",
+            "team_b": "WEN Ruibo",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/896d75fae4391fe42ef5793abba43342.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3cc87cdb6f8944547e1a71fa49849f70.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-44bdafde7013.png?v=1773553544",
+            "thumb_key": "thumbs/kaytee-44bdafde7013.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
