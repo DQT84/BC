@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-16T06:05:41.118912",
+  "updated_at": "2026-03-16T06:06:44.468794",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-217832605304.png?v=1773641141",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-217832605304.png?v=1773641204",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +82,7 @@
             "team_b": "Muir",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/40bd826b9586e6279788297dbef06991.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6f22f950fd2625a8b0216caa0ab46758.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-217832605304.png?v=1773641141",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-217832605304.png?v=1773641204",
             "thumb_key": "thumbs/kaytee-217832605304.webp"
           }
         }
