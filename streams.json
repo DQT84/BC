@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-16T12:02:35.089902",
+  "updated_at": "2026-03-16T15:46:05.905750",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-f4839602f482",
-          "name": "⚽ Bandirmaspor vs Iğdır FK | 17:30",
+          "id": "kaytee-5defc7296f59",
+          "name": "⚽ Kaisar Kyzylorda vs FC Astana | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4839602f482.png?v=1773662550",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5defc7296f59.png?v=1773675958",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308223",
+              "id": "src-601308265",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601308223",
-                  "name": "Bandirmaspor vs Iğdır FK",
+                  "id": "ct-601308265",
+                  "name": "Kaisar Kyzylorda vs FC Astana",
                   "streams": [
                     {
-                      "id": "st-601308223",
+                      "id": "st-601308265",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-fea9b1207b",
+                          "id": "lnk-0d052b3e98",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7db9170a69_6308/index.m3u8?expire=1774261777&sign=b440c3be2c3f8e04d7b9715dfc5bff90",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b7f0ae326d9_72787/index.m3u8?expire=1774267182&sign=eacd66e43fae8bc9db7a3c69b22414bb",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bandirmaspor-vs-idr-fk-1730-16-03-2026/601308223"
+                              "value": "https://bunchatv1.net/truc-tiep/kaisar-kyzylorda-vs-fc-astana-2100-16-03-2026/601308265"
                             },
                             {
                               "key": "User-Agent",
@@ -70,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-790b6ac06b",
+                          "id": "lnk-6619f78efd",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/36449b2fcf9b649ecce3e3a1c73a5ac1/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/c76b4defd9db71079044f4075c2d5f16/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bandirmaspor-vs-idr-fk-1730-16-03-2026/601308223"
+                              "value": "https://bunchatv1.net/truc-tiep/kaisar-kyzylorda-vs-fc-astana-2100-16-03-2026/601308265"
                             },
                             {
                               "key": "User-Agent",
@@ -94,18 +94,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Bandirmaspor",
-            "team_b": "Iğdır FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9dbbcf5ac9247c588c24a99cc0a0e8f5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/29fe4bba24a993fa8057566c5166e68f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4839602f482.png?v=1773662550",
-            "thumb_key": "thumbs/kaytee-f4839602f482.webp"
+            "league": "Kazakhstan Premier League",
+            "team_a": "Kaisar Kyzylorda",
+            "team_b": "FC Astana",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/403bd68b4370ee76b7bfb01aa793fd02.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5c481f41c0a1d43dcb508650562d840f.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5defc7296f59.png?v=1773675958",
+            "thumb_key": "thumbs/kaytee-5defc7296f59.webp"
           }
         },
         {
-          "id": "kaytee-eaf40c88e4ac",
-          "name": "⚽ Parma U20 vs Lecce U20 | 18:00",
+          "id": "kaytee-fcbd083dc63c",
+          "name": "⚽ Estoril U23 vs Farense U23 | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773662550",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fcbd083dc63c.png?v=1773675960",
             "width": 1600,
             "height": 1200
           },
@@ -127,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308226",
+              "id": "src-601308277",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601308226",
-                  "name": "Parma U20 vs Lecce U20",
+                  "id": "ct-601308277",
+                  "name": "Estoril U23 vs Farense U23",
                   "streams": [
                     {
-                      "id": "st-601308226",
+                      "id": "st-601308277",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-7b02b3f584",
+                          "id": "lnk-9e8b7a2603",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7dc3870a69_133172/index.m3u8?expire=1774261944&sign=a874508c2aa0e6a8219265e768bfe765",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b804e070a69_95554/index.m3u8?expire=1774272352&sign=a176a2db7f802b217db2742e18005e94",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/parma-u20-vs-lecce-u20-1800-16-03-2026/601308226"
+                              "value": "https://bunchatv1.net/truc-tiep/estoril-u23-vs-farense-u23-2100-16-03-2026/601308277"
                             },
                             {
                               "key": "User-Agent",
@@ -156,15 +156,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-dd668b3fcf",
+                          "id": "lnk-f8fda3b8b7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/f3b08e3bbd5ced6b048e416849f189ad/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/7c9f47e2e9e386a982232a9847440f41/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/parma-u20-vs-lecce-u20-1800-16-03-2026/601308226"
+                              "value": "https://bunchatv1.net/truc-tiep/estoril-u23-vs-farense-u23-2100-16-03-2026/601308277"
                             },
                             {
                               "key": "User-Agent",
@@ -180,18 +180,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Parma U20",
-            "team_b": "Lecce U20",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/bc7b022f17fc8c1ada066d3370f5aecb.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/111187735403171f460903cb8cd42bcf.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eaf40c88e4ac.png?v=1773662550",
-            "thumb_key": "thumbs/kaytee-eaf40c88e4ac.webp"
+            "league": "Portuguese U23 League",
+            "team_a": "Estoril U23",
+            "team_b": "Farense U23",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/32939cf38aa70bf3de1c06833da6bc50.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/edc92b9e77bc242d84f4d1332d09d311.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fcbd083dc63c.png?v=1773675960",
+            "thumb_key": "thumbs/kaytee-fcbd083dc63c.webp"
           }
         },
         {
-          "id": "kaytee-f19c26f7e616",
-          "name": "⚽ Sassuolo (w) vs Inter Milan (w) | 18:00",
+          "id": "kaytee-5458a01fb519",
+          "name": "⚽ Punjab FC vs FC Goa | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -199,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f19c26f7e616.png?v=1773662551",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5458a01fb519.png?v=1773675962",
             "width": 1600,
             "height": 1200
           },
@@ -213,27 +213,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308229",
+              "id": "src-601308280",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601308229",
-                  "name": "Sassuolo (w) vs Inter Milan (w)",
+                  "id": "ct-601308280",
+                  "name": "Punjab FC vs FC Goa",
                   "streams": [
                     {
-                      "id": "st-601308229",
+                      "id": "st-601308280",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-f3a74c21f8",
+                          "id": "lnk-1586962e7b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e878326d9_4908/index.m3u8?expire=1774265080&sign=a6000e78eac72f77ea93d7d6171d8d5f",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b8022a326d9_79/index.m3u8?expire=1774271658&sign=871c65ea4ab87eedd05badbd5e8e13e8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-w-vs-inter-milan-w-1800-16-03-2026/601308229"
+                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-fc-goa-2100-16-03-2026/601308280"
                             },
                             {
                               "key": "User-Agent",
@@ -242,15 +242,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-d25a126732",
+                          "id": "lnk-dd5058e583",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/4f57dd0b45424cd6a984c247fcad6649/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/0c31dab78887bb376891e257d9f4bb24/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sassuolo-w-vs-inter-milan-w-1800-16-03-2026/601308229"
+                              "value": "https://bunchatv1.net/truc-tiep/punjab-fc-vs-fc-goa-2100-16-03-2026/601308280"
                             },
                             {
                               "key": "User-Agent",
@@ -266,18 +266,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Italian Women's Serie A",
-            "team_a": "Sassuolo (w)",
-            "team_b": "Inter Milan (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/caa4c9d0575c1f6eb9e5c408d7b814f9.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ece43223dd5ca95c06190d491a8238e1.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f19c26f7e616.png?v=1773662551",
-            "thumb_key": "thumbs/kaytee-f19c26f7e616.webp"
+            "league": "Indian Super League",
+            "team_a": "Punjab FC",
+            "team_b": "FC Goa",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4e120222885562430b61627e85374a80.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c510dae5d95168f431d517cb0d7fdad9.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5458a01fb519.png?v=1773675962",
+            "thumb_key": "thumbs/kaytee-5458a01fb519.webp"
           }
         },
         {
-          "id": "kaytee-01641cfaf1cb",
-          "name": "⚽ Fc Meshakhte Tkibuli vs Dinamo Batumi | 18:00",
+          "id": "kaytee-922a30011d31",
+          "name": "⚽ FC Kairat Almaty vs FK Aktobe Lento | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -285,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-01641cfaf1cb.png?v=1773662551",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-922a30011d31.png?v=1773675963",
             "width": 1600,
             "height": 1200
           },
@@ -299,165 +299,27 @@
           ],
           "sources": [
             {
-              "id": "src-601308244",
+              "id": "src-601308283",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601308244",
-                  "name": "Fc Meshakhte Tkibuli vs Dinamo Batumi",
+                  "id": "ct-601308283",
+                  "name": "FC Kairat Almaty vs FK Aktobe Lento",
                   "streams": [
                     {
-                      "id": "st-601308244",
+                      "id": "st-601308283",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-077a52e891",
+                          "id": "lnk-a23f52cfba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/402432c24eca99c2280f3e978aa320f2/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b806f070a69_28/index.m3u8?expire=1774272880&sign=ad3364eb47d1fb3c887c6f1f26ab8a35",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-meshakhte-tkibuli-vs-dinamo-batumi-1800-16-03-2026/601308244"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Georgia Erovnuli Liga",
-            "team_a": "Fc Meshakhte Tkibuli",
-            "team_b": "Dinamo Batumi",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6c4026b1738fc21db081f031cf8c8d39.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/90947f03d78b6634fe6ad3014329bc14.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-01641cfaf1cb.png?v=1773662551",
-            "thumb_key": "thumbs/kaytee-01641cfaf1cb.webp"
-          }
-        },
-        {
-          "id": "kaytee-4c9ed4ceb056",
-          "name": "⚽ Judd  Trump vs Mark Lloyd | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773662554",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321834",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601321834",
-                  "name": "Judd  Trump vs Mark Lloyd",
-                  "streams": [
-                    {
-                      "id": "st-601321834",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9c9ffe4750",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7e48c70a69_142246/index.m3u8?expire=1774264076&sign=575b85a817295eb7f64d00e9a61dbb52",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/judd--trump-vs-mark-lloyd-1830-16-03-2026/601321834"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Judd  Trump",
-            "team_b": "Mark Lloyd",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4a07d45ffe0d80f45e4e99e027a95e53.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3d8ae2a709ca9d82623a981486d762a8.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4c9ed4ceb056.png?v=1773662554",
-            "thumb_key": "thumbs/kaytee-4c9ed4ceb056.webp"
-          }
-        },
-        {
-          "id": "kaytee-e243ee7623b3",
-          "name": "⚽ Ararat-Armenia FC vs FK Van Charentsavan | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e243ee7623b3.png?v=1773662555",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601308241",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601308241",
-                  "name": "Ararat-Armenia FC vs FK Van Charentsavan",
-                  "streams": [
-                    {
-                      "id": "st-601308241",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b65473800",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b7de5b326d9_79/index.m3u8?expire=1774262491&sign=d170f4720a2643534dfb8e648828ed22",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/araratarmenia-fc-vs-fk-van-charentsavan-1830-16-03-2026/601308241"
+                              "value": "https://bunchatv1.net/truc-tiep/fc-kairat-almaty-vs-fk-aktobe-lento-2100-16-03-2026/601308283"
                             },
                             {
                               "key": "User-Agent",
@@ -466,15 +328,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-13d4d023f7",
+                          "id": "lnk-104e7dcb1f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/7e77651f0c85342b6f7c200b5601ac19/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/ab75bd25bc1eb3b0b3f8ee4317811d1d/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/araratarmenia-fc-vs-fk-van-charentsavan-1830-16-03-2026/601308241"
+                              "value": "https://bunchatv1.net/truc-tiep/fc-kairat-almaty-vs-fk-aktobe-lento-2100-16-03-2026/601308283"
                             },
                             {
                               "key": "User-Agent",
@@ -490,13 +352,99 @@
             }
           ],
           "org_metadata": {
-            "league": "Armenian Premier League",
-            "team_a": "Ararat-Armenia FC",
-            "team_b": "FK Van Charentsavan",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/445b142144eafa15449f92563fd1b978.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f233f6fd187259b5017a1cac48ddc1e6.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e243ee7623b3.png?v=1773662555",
-            "thumb_key": "thumbs/kaytee-e243ee7623b3.webp"
+            "league": "Kazakhstan Premier League",
+            "team_a": "FC Kairat Almaty",
+            "team_b": "FK Aktobe Lento",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/3ef04912f88c3166f1a47864cde71949.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e4e73b178c9fc00801c83684b02b6d81.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-922a30011d31.png?v=1773675963",
+            "thumb_key": "thumbs/kaytee-922a30011d31.webp"
+          }
+        },
+        {
+          "id": "kaytee-e5e5afd2f83d",
+          "name": "⚽ Irtysh Pavlodar vs FK Atyrau | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5e5afd2f83d.png?v=1773675965",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601308217",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601308217",
+                  "name": "Irtysh Pavlodar vs FK Atyrau",
+                  "streams": [
+                    {
+                      "id": "st-601308217",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b329ebc9a9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b80c67326d9_128756/index.m3u8?expire=1774274279&sign=4682c4233b0ebe26baf3ebb1e76b3a06",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-2100-16-03-2026/601308217"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3a9e9191c2",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a718a5e8b1d8b03a707d49ff01348401/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/irtysh-pavlodar-vs-fk-atyrau-2100-16-03-2026/601308217"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kazakhstan Premier League",
+            "team_a": "Irtysh Pavlodar",
+            "team_b": "FK Atyrau",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/b411990b3dc114af83c8fdaa26bbf5de.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5e5afd2f83d.png?v=1773675965",
+            "thumb_key": "thumbs/kaytee-e5e5afd2f83d.webp"
           }
         }
       ]
