@@ -8,18 +8,18 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-17T05:15:11.129243",
+  "updated_at": "2026-03-17T08:02:32.306954",
   "groups": [
     {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-2173250031ca",
-          "name": "⚽ China Women vs Australia Women | 17:00",
+          "id": "kaytee-6f7f558dbaa3",
+          "name": "🏸 M KRUSE vs Takuma OBAYASHI | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,41 +27,41 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2173250031ca.png?v=1773724511",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773734551",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "src-601309153",
+              "id": "src-601322041",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601309153",
-                  "name": "China Women vs Australia Women",
+                  "id": "ct-601322041",
+                  "name": "M KRUSE vs Takuma OBAYASHI",
                   "streams": [
                     {
-                      "id": "st-601309153",
+                      "id": "st-601322041",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e830443d1f",
+                          "id": "lnk-e705630c80",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/5cdd3842d80fabd5d2649a1128d52514/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b904f0326d9_18754/index.m3u8?expire=1774337904&sign=8ef2a809c32e791d4a2ea83ab69dc784",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/china-women-vs-australia-women-1700-17-03-2026/601309153"
+                              "value": "https://bunchatv1.net/truc-tiep/m-kruse-vs-takuma-obayashi-1500-17-03-2026/601322041"
                             },
                             {
                               "key": "User-Agent",
@@ -77,13 +77,177 @@
             }
           ],
           "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "China Women",
-            "team_b": "Australia Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d7284374f0dbd15edab5227f4dd34db5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/16e07f20613d448ad440f7445ce8dd5a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2173250031ca.png?v=1773724511",
-            "thumb_key": "thumbs/kaytee-2173250031ca.webp"
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "M KRUSE",
+            "team_b": "Takuma OBAYASHI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/84c7b433319d20545ad8db1e86d564ec.svg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/820c8d40d6f49fd6f669abd4e7d6f095.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773734551",
+            "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-309f581b1986",
+          "name": "⚽ Sydney FC vs Melbourne City | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-309f581b1986.png?v=1773734549",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309150",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309150",
+                  "name": "Sydney FC vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-601309150",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dc7329662a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9019d326d9_103/index.m3u8?expire=1774337053&sign=5cc7e7b9d29f57ae1c2f67db103d24ee",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-melbourne-city-1500-17-03-2026/601309150"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d7871976de",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/888b87b041a4abfdf182b060fdcbb3f7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-vs-melbourne-city-1500-17-03-2026/601309150"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Sydney FC",
+            "team_b": "Melbourne City",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a0c772584c00e1b6efd1c421344cd005.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c24f327d053d80fe6584b4c42d5cca13.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-309f581b1986.png?v=1773734549",
+            "thumb_key": "thumbs/kaytee-309f581b1986.webp"
+          }
+        },
+        {
+          "id": "kaytee-7914fbec27c2",
+          "name": "⚽ Adelaide vs South East Melbourne | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7914fbec27c2.png?v=1773734552",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601321867",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601321867",
+                  "name": "Adelaide vs South East Melbourne",
+                  "streams": [
+                    {
+                      "id": "st-601321867",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef59f1efc0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b90933326d9_4733/index.m3u8?expire=1774338995&sign=392358991edcf38fdcfcf2608b6cecef",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/adelaide-vs-south-east-melbourne-1530-17-03-2026/601321867"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Adelaide",
+            "team_b": "South East Melbourne",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7c169cd0be437260821ef33aa8dd29c6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7914fbec27c2.png?v=1773734552",
+            "thumb_key": "thumbs/kaytee-7914fbec27c2.webp"
           }
         }
       ]
