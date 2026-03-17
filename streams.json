@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-17T11:11:15.449879",
+  "updated_at": "2026-03-17T14:40:30.452051",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-bfc26e24bbb6",
-          "name": "⚽ Mahar United vs Ayeyawady united | 16:30",
+          "id": "kaytee-8505a1549ac7",
+          "name": "⚽ Atletico de Madrid U19 vs Club Brugge U19 | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773745862",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8505a1549ac7.png?v=1773758425",
             "width": 1600,
             "height": 1200
           },
@@ -41,96 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601314922",
+              "id": "src-601312771",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601314922",
-                  "name": "Mahar United vs Ayeyawady united",
+                  "id": "ct-601312771",
+                  "name": "Atletico de Madrid U19 vs Club Brugge U19",
                   "streams": [
                     {
-                      "id": "st-601314922",
+                      "id": "st-601312771",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-1f4deed27b",
+                          "id": "lnk-4f0eab99bd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/101c11185f5ea5b297d25b1043fc7456/playlist.m3u8",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&sign=591a6e8ea5526a157c8dd7cc55308f09",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mahar-united-vs-ayeyawady-united-1630-17-03-2026/601314922"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Mahar United",
-            "team_b": "Ayeyawady united",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3325b113293eb88e285eee071941783f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/0fa22db02182e418b4982b5be594bdf9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bfc26e24bbb6.png?v=1773745862",
-            "thumb_key": "thumbs/kaytee-bfc26e24bbb6.webp"
-          }
-        },
-        {
-          "id": "kaytee-6ad35c628b25",
-          "name": "⚽ Gimcheon Sangmu Football Club vs Gwangju Football Club | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6ad35c628b25.png?v=1773745866",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309162",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601309162",
-                  "name": "Gimcheon Sangmu Football Club vs Gwangju Football Club",
-                  "streams": [
-                    {
-                      "id": "st-601309162",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-581d7495be",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b91f0670a69_4908/index.m3u8?expire=1774344582&sign=b6423e0a5aad79874ef0c5b889567984",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gimcheon-sangmu-football-club-vs-gwangju-football-club-1730-17-03-2026/601309162"
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026/601312771"
                             },
                             {
                               "key": "User-Agent",
@@ -139,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-c4c559ae8e",
+                          "id": "lnk-9a188df0d5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/9ced0e4a9ba7f975634d40a1616975a4/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gimcheon-sangmu-football-club-vs-gwangju-football-club-1730-17-03-2026/601309162"
+                              "value": "https://bunchatv1.net/truc-tiep/atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026/601312771"
                             },
                             {
                               "key": "User-Agent",
@@ -163,234 +94,105 @@
             }
           ],
           "org_metadata": {
-            "league": "Korean K League 1",
-            "team_a": "Gimcheon Sangmu Football Club",
-            "team_b": "Gwangju Football Club",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4a3e50e90ab721c1782568a287bd5358.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6ad35c628b25.png?v=1773745866",
-            "thumb_key": "thumbs/kaytee-6ad35c628b25.webp"
-          }
-        },
-        {
-          "id": "kaytee-c1951a55cfd9",
-          "name": "⚽ Rajasthan United FC vs Real Kashmir | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c1951a55cfd9.png?v=1773745868",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309165",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601309165",
-                  "name": "Rajasthan United FC vs Real Kashmir",
-                  "streams": [
-                    {
-                      "id": "st-601309165",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-427d5d13aa",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b9280c70a69_74012/index.m3u8?expire=1774346892&sign=cd7378d9fcca898fee477aa460e92fa0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/rajasthan-united-fc-vs-real-kashmir-1730-17-03-2026/601309165"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian League Division 1",
-            "team_a": "Rajasthan United FC",
-            "team_b": "Real Kashmir",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/19ec1494454de9b2f61bdf76bdaf5838.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/fe10a186341a15e4a76d83cdd434a1b5.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c1951a55cfd9.png?v=1773745868",
-            "thumb_key": "thumbs/kaytee-c1951a55cfd9.webp"
-          }
-        },
-        {
-          "id": "kaytee-58eab34e7ffe",
-          "name": "⚽ Grange Thistle SC vs Southside Eagles | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-58eab34e7ffe.png?v=1773745870",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322059",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601322059",
-                  "name": "Grange Thistle SC vs Southside Eagles",
-                  "streams": [
-                    {
-                      "id": "st-601322059",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d5f75fcb8b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/00aa16ed4bd4da9638ea0607ba70b39a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/grange-thistle-sc-vs-southside-eagles-1730-17-03-2026/601322059"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "QLD D2",
-            "team_a": "Grange Thistle SC",
-            "team_b": "Southside Eagles",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a026a7d347c6229f28b72552d12f8265.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/959622e4ada5a88652672ae91d8ba17d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-58eab34e7ffe.png?v=1773745870",
-            "thumb_key": "thumbs/kaytee-58eab34e7ffe.webp"
-          }
-        },
-        {
-          "id": "kaytee-8d87bd374fbf",
-          "name": "⚽ Mark Selby vs Michael  Holt | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8d87bd374fbf.png?v=1773745874",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322191",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601322191",
-                  "name": "Mark Selby vs Michael  Holt",
-                  "streams": [
-                    {
-                      "id": "st-601322191",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-653e251f7f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b92d8970a69_142246/index.m3u8?expire=1774348297&sign=a4e1a00ec2d377cfb74413f582ca728c",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mark-selby-vs-michael--holt-1800-17-03-2026/601322191"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Mark Selby",
-            "team_b": "Michael  Holt",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/531cec2b13d947b7501d4eac4099eb10.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e4623a134079d0d2aa84f5ca946533cd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8d87bd374fbf.png?v=1773745874",
-            "thumb_key": "thumbs/kaytee-8d87bd374fbf.webp"
+            "league": "UEFA Youth League",
+            "team_a": "Atletico de Madrid U19",
+            "team_b": "Club Brugge U19",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dd126282a3ed968b622055c808ad82c4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2949f63aa1981975fdb031ffabd20eeb.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8505a1549ac7.png?v=1773758425",
+            "thumb_key": "thumbs/kaytee-8505a1549ac7.webp"
           }
         }
       ]
     },
     {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-2c3ad4813ec4",
+          "name": "⚽ Villarreal U19 vs Paris Saint Germain U19 | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758426",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601312777",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601312777",
+                  "name": "Villarreal U19 vs Paris Saint Germain U19",
+                  "streams": [
+                    {
+                      "id": "st-601312777",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-154bd58526",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&sign=5e0819512941486b96f67829ec43f336",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/villarreal-u19-vs-paris-saint-germain-u19-2200-17-03-2026/601312777"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Youth League",
+            "team_a": "Villarreal U19",
+            "team_b": "Paris Saint Germain U19",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/aecc25c138f425cbadd3ddf98f0b6751.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a19104d7fe30a4a261411778eebba452.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758426",
+            "thumb_key": "thumbs/kaytee-2c3ad4813ec4.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_cầu_lông",
+      "name": "⏳ Sắp Live 🏸 Cầu Lông",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
           "id": "kaytee-6f7f558dbaa3",
-          "name": "🏸 LAI Po Yu/LIN Xiao Min vs Andy BUIJK/Meerte LOOS | 17:35",
+          "name": "🏸 PAI Yu Po vs Kaoru SUGIYAMA | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -398,16 +200,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773745871",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758428",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -417,22 +219,22 @@
               "contents": [
                 {
                   "id": "ct-601322041",
-                  "name": "LAI Po Yu/LIN Xiao Min vs Andy BUIJK/Meerte LOOS",
+                  "name": "PAI Yu Po vs Kaoru SUGIYAMA",
                   "streams": [
                     {
                       "id": "st-601322041",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e705630c80",
+                          "id": "lnk-1bd3764c15",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b904f0326d9_18754/index.m3u8?expire=1774337904&sign=8ef2a809c32e791d4a2ea83ab69dc784",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&sign=7606cc247011043e763ad56475ad1a0e",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lai-po-yulin-xiao-min-vs-andy-buijkmeerte-loos-1735-17-03-2026/601322041"
+                              "value": "https://bunchatv1.net/truc-tiep/pai-yu-po-vs-kaoru-sugiyama-2200-17-03-2026/601322041"
                             },
                             {
                               "key": "User-Agent",
@@ -449,17 +251,17 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "LAI Po Yu/LIN Xiao Min",
-            "team_b": "Andy BUIJK/Meerte LOOS",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a7cc2964c7a5dbc52cad3785f7f4d533.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/6fac7d6d6fc4a99cd06dfacc2a000351.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773745871",
+            "team_a": "PAI Yu Po",
+            "team_b": "Kaoru SUGIYAMA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e32a1a1fbe69efa7fa64beb55cbb3f44.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758428",
             "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
           }
         },
         {
-          "id": "kaytee-25487bba3680",
-          "name": "🏸 SAEHENG / SAEHENG vs MAMMERI / MAMMERI | 17:45",
+          "id": "kaytee-c832e62f9db1",
+          "name": "🏸 Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee | 22:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -467,16 +269,85 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-25487bba3680.png?v=1773745871",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c832e62f9db1.png?v=1773758429",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322044",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601322044",
+                  "name": "Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee",
+                  "streams": [
+                    {
+                      "id": "st-601322044",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bf89252a42",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/anouk-nambot--anouk-nambot-vs-ong-xin-yee--ong-xin-yee-2200-17-03-2026/601322044"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - Orleans Masters Badminton 2026",
+            "team_a": "Anouk NAMBOT / Anouk NAMBOT",
+            "team_b": "ONG Xin Yee / ONG Xin Yee",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/617f05c2c545f7a0167a564dba7416c4.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f63c286cb881c4611883a60791ec76.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c832e62f9db1.png?v=1773758429",
+            "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
+          }
+        },
+        {
+          "id": "kaytee-25487bba3680",
+          "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We | 22:10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-25487bba3680.png?v=1773758429",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -486,7 +357,7 @@
               "contents": [
                 {
                   "id": "ct-601322050",
-                  "name": "SAEHENG / SAEHENG vs MAMMERI / MAMMERI",
+                  "name": "Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We",
                   "streams": [
                     {
                       "id": "st-601322050",
@@ -501,7 +372,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/saeheng--saeheng-vs-mammeri--mammeri-1745-17-03-2026/601322050"
+                              "value": "https://bunchatv1.net/truc-tiep/leo-rolly-carnando--bagas-maulana-vs-chen-cheng-kuan--lin-bingwe-2210-17-03-2026/601322050"
                             },
                             {
                               "key": "User-Agent",
@@ -518,17 +389,17 @@
           ],
           "org_metadata": {
             "league": "Sân 3 - Orleans Masters Badminton 2026",
-            "team_a": "SAEHENG / SAEHENG",
-            "team_b": "MAMMERI / MAMMERI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a57875876e129e6f04cbaa37fb9fbb0b.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e5574a88dc13e2703c25c6278e6bd6c1.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-25487bba3680.png?v=1773745871",
+            "team_a": "Leo Rolly CARNANDO / Bagas MAULANA",
+            "team_b": "CHEN Cheng Kuan / LIN Bing-We",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-25487bba3680.png?v=1773758429",
             "thumb_key": "thumbs/kaytee-25487bba3680.webp"
           }
         },
         {
           "id": "kaytee-520c805d9ea7",
-          "name": "🏸 Minoru KOGA vs Riki TAKEI | 17:45",
+          "name": "🏸 HU Ling Fang /  JHENG Yu Chieh vs LUO Yi / WANG | 22:10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -536,16 +407,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-520c805d9ea7.png?v=1773745872",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-520c805d9ea7.png?v=1773758430",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -555,7 +426,7 @@
               "contents": [
                 {
                   "id": "ct-601322053",
-                  "name": "Minoru KOGA vs Riki TAKEI",
+                  "name": "HU Ling Fang /  JHENG Yu Chieh vs LUO Yi / WANG",
                   "streams": [
                     {
                       "id": "st-601322053",
@@ -570,7 +441,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/minoru-koga-vs-riki-takei-1745-17-03-2026/601322053"
+                              "value": "https://bunchatv1.net/truc-tiep/hu-ling-fang---jheng-yu-chieh-vs-luo-yi--wang-2210-17-03-2026/601322053"
                             },
                             {
                               "key": "User-Agent",
@@ -587,306 +458,12 @@
           ],
           "org_metadata": {
             "league": "Sân 4 - Orleans Masters Badminton 2026",
-            "team_a": "Minoru KOGA",
-            "team_b": "Riki TAKEI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/75c4387c3711a78afe64f00984355f5a.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/29cf08bdd2c7eedec2a740a6e68b110a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-520c805d9ea7.png?v=1773745872",
+            "team_a": "HU Ling Fang /  JHENG Yu Chieh",
+            "team_b": "LUO Yi / WANG",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/344d90a98fdaf9f3f50ee8a6d550b1ba.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/09295396d83f1e8d0cb3f68339bdc367.webp",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-520c805d9ea7.png?v=1773758430",
             "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_chuyền",
-      "name": "🔴 Live 🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-e6fb4c61ea73",
-          "name": "🏐 Expressway Co W vs IBK W | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773745863",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309423",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601309423",
-                  "name": "Expressway Co W vs IBK W",
-                  "streams": [
-                    {
-                      "id": "st-601309423",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-544611a920",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b91d00326d9_128756/index.m3u8?expire=1774344064&sign=f332eb83703c3cee3d5629f2eedf71f8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/expressway-co-w-vs-ibk-w-1700-17-03-2026/601309423"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League Women",
-            "team_a": "Expressway Co W",
-            "team_b": "IBK W",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bd574463d4d1b1af4918924d021d4f0a.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a25d1fc24aa85e0580b4c7881f232646.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e6fb4c61ea73.png?v=1773745863",
-            "thumb_key": "thumbs/kaytee-e6fb4c61ea73.webp"
-          }
-        },
-        {
-          "id": "kaytee-e8d620c49a23",
-          "name": "🏐 Samsung Blue Fangs vs Woori | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e8d620c49a23.png?v=1773745864",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601309441",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601309441",
-                  "name": "Samsung Blue Fangs vs Woori",
-                  "streams": [
-                    {
-                      "id": "st-601309441",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7d3299125f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b91f7970a69_88642/index.m3u8?expire=1774344697&sign=47eda13ca447d1e68fe6b1c8d30862a0",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/samsung-blue-fangs-vs-woori-1700-17-03-2026/601309441"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Volleyball League",
-            "team_a": "Samsung Blue Fangs",
-            "team_b": "Woori",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/dc59a49e8f652e7feba74ad3ffb383b6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/244ebe83a326615e6863e3555c09e69e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e8d620c49a23.png?v=1773745864",
-            "thumb_key": "thumbs/kaytee-e8d620c49a23.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-43bbb904cabe",
-          "name": "⚽ Guangdong vs Xinjiang | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-43bbb904cabe.png?v=1773745874",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321861",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601321861",
-                  "name": "Guangdong vs Xinjiang",
-                  "streams": [
-                    {
-                      "id": "st-601321861",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f2382d6d36",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b935f970a69_42127/index.m3u8?expire=1774350457&sign=225ab9b2ac9a3413bf8df523c1b87fad",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/guangdong-vs-xinjiang-1835-17-03-2026/601321861"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA",
-            "team_a": "Guangdong",
-            "team_b": "Xinjiang",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d3c311fb581d8757b1b9f4b9d30e32dc.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3072a00829e2e1a2bf21884e11dc200e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-43bbb904cabe.png?v=1773745874",
-            "thumb_key": "thumbs/kaytee-43bbb904cabe.webp"
-          }
-        },
-        {
-          "id": "kaytee-c9c503f85a01",
-          "name": "⚽ Shanxi Zhongyu vs Beijing Royal Fighters | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c9c503f85a01.png?v=1773745875",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321864",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601321864",
-                  "name": "Shanxi Zhongyu vs Beijing Royal Fighters",
-                  "streams": [
-                    {
-                      "id": "st-601321864",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2266d8c977",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b932d2326d9_4733/index.m3u8?expire=1774349650&sign=f12176b36b6e2cd92dd451a615e0ea51",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shanxi-zhongyu-vs-beijing-royal-fighters-1835-17-03-2026/601321864"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA",
-            "team_a": "Shanxi Zhongyu",
-            "team_b": "Beijing Royal Fighters",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7551dc7e9fbb0a844291cfb6453ae4.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/690b75e84eae0109a09dd80edba8b339.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c9c503f85a01.png?v=1773745875",
-            "thumb_key": "thumbs/kaytee-c9c503f85a01.webp"
           }
         }
       ]
