@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-17T14:44:00.263283",
+  "updated_at": "2026-03-17T18:08:22.316587",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-8505a1549ac7",
-          "name": "⚽ Atletico de Madrid U19 vs Club Brugge U19 | 20:00",
+          "id": "kaytee-7ac5b922fb6d",
+          "name": "⚽ AS Bakaridjan vs Derby Académie | 23:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8505a1549ac7.png?v=1773758634",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773770902",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,174 @@
           ],
           "sources": [
             {
-              "id": "src-601312771",
+              "id": "src-601321957",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601312771",
-                  "name": "Atletico de Madrid U19 vs Club Brugge U19",
+                  "id": "ct-601321957",
+                  "name": "AS Bakaridjan vs Derby Académie",
                   "streams": [
                     {
-                      "id": "st-601312771",
+                      "id": "st-601321957",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-4f0eab99bd",
+                          "id": "lnk-5a4e9b8594",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b94211326d9_72787/index.m3u8?expire=1774353553&sign=591a6e8ea5526a157c8dd7cc55308f09",
+                          "url": "https://live.alilicloud.com/live/dc51df0dea47aad95b61017421ec3ae5/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026/601312771"
+                              "value": "https://bunchatv1.net/truc-tiep/as-bakaridjan-vs-derby-academie-2345-17-03-2026/601321957"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mali Premiere Division",
+            "team_a": "AS Bakaridjan",
+            "team_b": "Derby Académie",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/c22abb6cc20dfeb661d182454537b749.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/07853a497a06d4d3b71b3a238242eef9.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7ac5b922fb6d.png?v=1773770902",
+            "thumb_key": "thumbs/kaytee-7ac5b922fb6d.webp"
+          }
+        },
+        {
+          "id": "kaytee-82f734660162",
+          "name": "⚽ Onze Createurs vs AS Korofina | 23:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-82f734660162.png?v=1773770902",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322080",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601322080",
+                  "name": "Onze Createurs vs AS Korofina",
+                  "streams": [
+                    {
+                      "id": "st-601322080",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-95f990f6c6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/04587157d74701e97d941e53d8b0ddee/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/onze-createurs-vs-as-korofina-2345-17-03-2026/601322080"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mali Premiere Division",
+            "team_a": "Onze Createurs",
+            "team_b": "AS Korofina",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cac6a022808457fc0e3b73ae3ba808fe.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/bfe5a4619f2eb038a6cf951c104d75f2.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-82f734660162.png?v=1773770902",
+            "thumb_key": "thumbs/kaytee-82f734660162.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-df6640a5a18d",
+          "name": "🏓 FK Krasnodar vs CSKA Moscow | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-df6640a5a18d.png?v=1773770901",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309858",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309858",
+                  "name": "FK Krasnodar vs CSKA Moscow",
+                  "streams": [
+                    {
+                      "id": "st-601309858",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d892f13d2",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69b977bb326d9_88642/index.m3u8?expire=1774367291&sign=95301264fd5cc1664c758afa52ee78db",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-krasnodar-vs-cska-moscow-2330-17-03-2026/601309858"
                             },
                             {
                               "key": "User-Agent",
@@ -70,15 +217,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-9a188df0d5",
+                          "id": "lnk-682e2c277f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/8928929d293633618af9c9fb6c607fea/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/49e89ca63667584fbdb8980937823e2c/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atletico-de-madrid-u19-vs-club-brugge-u19-2000-17-03-2026/601312771"
+                              "value": "https://bunchatv1.net/truc-tiep/fk-krasnodar-vs-cska-moscow-2330-17-03-2026/601309858"
                             },
                             {
                               "key": "User-Agent",
@@ -94,376 +241,13 @@
             }
           ],
           "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Atletico de Madrid U19",
-            "team_b": "Club Brugge U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/dd126282a3ed968b622055c808ad82c4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2949f63aa1981975fdb031ffabd20eeb.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8505a1549ac7.png?v=1773758634",
-            "thumb_key": "thumbs/kaytee-8505a1549ac7.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-2c3ad4813ec4",
-          "name": "⚽ Villarreal U19 vs Paris Saint Germain U19 | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758635",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601312777",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601312777",
-                  "name": "Villarreal U19 vs Paris Saint Germain U19",
-                  "streams": [
-                    {
-                      "id": "st-601312777",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-154bd58526",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b96077326d9_28/index.m3u8?expire=1774361335&sign=5e0819512941486b96f67829ec43f336",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/villarreal-u19-vs-paris-saint-germain-u19-2200-17-03-2026/601312777"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Youth League",
-            "team_a": "Villarreal U19",
-            "team_b": "Paris Saint Germain U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/aecc25c138f425cbadd3ddf98f0b6751.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/a19104d7fe30a4a261411778eebba452.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2c3ad4813ec4.png?v=1773758635",
-            "thumb_key": "thumbs/kaytee-2c3ad4813ec4.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_cầu_lông",
-      "name": "⏳ Sắp Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-6f7f558dbaa3",
-          "name": "🏸 PAI Yu Po vs Kaoru SUGIYAMA | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758638",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322041",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601322041",
-                  "name": "PAI Yu Po vs Kaoru SUGIYAMA",
-                  "streams": [
-                    {
-                      "id": "st-601322041",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bd3764c15",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b9664770a69_85714/index.m3u8?expire=1774362823&sign=7606cc247011043e763ad56475ad1a0e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pai-yu-po-vs-kaoru-sugiyama-2200-17-03-2026/601322041"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "PAI Yu Po",
-            "team_b": "Kaoru SUGIYAMA",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e32a1a1fbe69efa7fa64beb55cbb3f44.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f5460d92e8c7512ddffe7474dc2119a7.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6f7f558dbaa3.png?v=1773758638",
-            "thumb_key": "thumbs/kaytee-6f7f558dbaa3.webp"
-          }
-        },
-        {
-          "id": "kaytee-c832e62f9db1",
-          "name": "🏸 Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c832e62f9db1.png?v=1773758638",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322044",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601322044",
-                  "name": "Anouk NAMBOT / Anouk NAMBOT vs ONG Xin Yee / ONG Xin Yee",
-                  "streams": [
-                    {
-                      "id": "st-601322044",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf89252a42",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b966a770a69_138846/index.m3u8?expire=1774362919&sign=7a0c949e56c9093830ead19bdabf0f47",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/anouk-nambot--anouk-nambot-vs-ong-xin-yee--ong-xin-yee-2200-17-03-2026/601322044"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Anouk NAMBOT / Anouk NAMBOT",
-            "team_b": "ONG Xin Yee / ONG Xin Yee",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/617f05c2c545f7a0167a564dba7416c4.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/51f63c286cb881c4611883a60791ec76.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c832e62f9db1.png?v=1773758638",
-            "thumb_key": "thumbs/kaytee-c832e62f9db1.webp"
-          }
-        },
-        {
-          "id": "kaytee-25487bba3680",
-          "name": "🏸 Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We | 22:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-25487bba3680.png?v=1773758639",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322050",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601322050",
-                  "name": "Leo Rolly CARNANDO / Bagas MAULANA vs CHEN Cheng Kuan / LIN Bing-We",
-                  "streams": [
-                    {
-                      "id": "st-601322050",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9834da0f9e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b90d98326d9_142210/index.m3u8?expire=1774340120&sign=27fa3df03b16c040f5a971c3eadb5595",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/leo-rolly-carnando--bagas-maulana-vs-chen-cheng-kuan--lin-bingwe-2210-17-03-2026/601322050"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 3 - Orleans Masters Badminton 2026",
-            "team_a": "Leo Rolly CARNANDO / Bagas MAULANA",
-            "team_b": "CHEN Cheng Kuan / LIN Bing-We",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/4446b82fe10dc6bf86cf89041be3b9a6.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/25b04dd413a754856fb3fb726580f3ca.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-25487bba3680.png?v=1773758639",
-            "thumb_key": "thumbs/kaytee-25487bba3680.webp"
-          }
-        },
-        {
-          "id": "kaytee-520c805d9ea7",
-          "name": "🏸 HU Ling Fang /  JHENG Yu Chieh vs LUO Yi / WANG | 22:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-520c805d9ea7.png?v=1773758640",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601322053",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601322053",
-                  "name": "HU Ling Fang /  JHENG Yu Chieh vs LUO Yi / WANG",
-                  "streams": [
-                    {
-                      "id": "st-601322053",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0978af19e8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69b90c2b326d9_85706/index.m3u8?expire=1774339755&sign=29047f910fa93dc017a753e0d7588bda",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hu-ling-fang---jheng-yu-chieh-vs-luo-yi--wang-2210-17-03-2026/601322053"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 4 - Orleans Masters Badminton 2026",
-            "team_a": "HU Ling Fang /  JHENG Yu Chieh",
-            "team_b": "LUO Yi / WANG",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/344d90a98fdaf9f3f50ee8a6d550b1ba.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/09295396d83f1e8d0cb3f68339bdc367.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-520c805d9ea7.png?v=1773758640",
-            "thumb_key": "thumbs/kaytee-520c805d9ea7.webp"
+            "league": "Russian Cup",
+            "team_a": "FK Krasnodar",
+            "team_b": "CSKA Moscow",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/ee170662c1911f3d2f7746f6539f2604.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1eae81e51945df5660e24dc6f0ea353c.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-df6640a5a18d.png?v=1773770901",
+            "thumb_key": "thumbs/kaytee-df6640a5a18d.webp"
           }
         }
       ]
