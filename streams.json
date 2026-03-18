@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-18T10:38:22.947661",
+  "updated_at": "2026-03-18T11:13:11.466655",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,247 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-3b745db8296c",
-          "name": "⚽ Shan United vs Hantharwady United | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3b745db8296c.png?v=1773830290",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315063",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601315063",
-                  "name": "Shan United vs Hantharwady United",
-                  "streams": [
-                    {
-                      "id": "st-601315063",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-20b33f062f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba5d68326d9_72787/index.m3u8?expire=1774426088&sign=e64f9d38adb4a01d63bcfd3dccbef5cd",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shan-united-vs-hantharwady-united-1600-18-03-2026/601315063"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-8b8826bcf9",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/f2bf1e6a39ddf4dcbe289cb93d5eba68/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shan-united-vs-hantharwady-united-1600-18-03-2026/601315063"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Shan United",
-            "team_b": "Hantharwady United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/81591ca25d2179a9877ec9c24bbe59e3.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d6a96f7603b190bb46e2de96cf41d9a0.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3b745db8296c.png?v=1773830290",
-            "thumb_key": "thumbs/kaytee-3b745db8296c.webp"
-          }
-        },
-        {
-          "id": "kaytee-9b2c1e0ba648",
-          "name": "⚽ Yangon United vs Dagon Star United | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b2c1e0ba648.png?v=1773830292",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601315066",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601315066",
-                  "name": "Yangon United vs Dagon Star United",
-                  "streams": [
-                    {
-                      "id": "st-601315066",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a1325b6e36",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69ba6679326d9_73445/index.m3u8?expire=1774428409&sign=cc20b37b54a2ea7b36652ef33aaa1feb",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yangon-united-vs-dagon-star-united-1600-18-03-2026/601315066"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-cd0f310a96",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/3147fa1def930e478e4f41f894b74105/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/yangon-united-vs-dagon-star-united-1600-18-03-2026/601315066"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Myanmar Professional League",
-            "team_a": "Yangon United",
-            "team_b": "Dagon Star United",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/545790121cf7b80b0f02caec40a31ea6.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/6fcaab610a987b2cabcbbc43d70a795f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b2c1e0ba648.png?v=1773830292",
-            "thumb_key": "thumbs/kaytee-9b2c1e0ba648.webp"
-          }
-        },
-        {
-          "id": "kaytee-d3c4c4427faf",
-          "name": "⚽ South Korea Women vs Japan Women | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d3c4c4427faf.png?v=1773830293",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601310245",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601310245",
-                  "name": "South Korea Women vs Japan Women",
-                  "streams": [
-                    {
-                      "id": "st-601310245",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1311c0df0",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/a023e189fca7941e8e12102410ebb9c5/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/south-korea-women-vs-japan-women-1600-18-03-2026/601310245"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "South Korea Women",
-            "team_b": "Japan Women",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/6815c4937ea1796c0a6c182f10185c40.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/511ce5ccb966e3fd16d3a8c1b99cc01a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d3c4c4427faf.png?v=1773830293",
-            "thumb_key": "thumbs/kaytee-d3c4c4427faf.webp"
-          }
-        },
         {
           "id": "kaytee-7a874b0f3f56",
           "name": "⚽ Cerezo Osaka vs Fagiano Okayama | 16:30",
@@ -268,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7a874b0f3f56.png?v=1773830295",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7a874b0f3f56.png?v=1773832374",
             "width": 1600,
             "height": 1200
           },
@@ -340,7 +99,7 @@
             "team_b": "Fagiano Okayama",
             "logo_a": "https://cdn.rapid-api.icu/football/team/ab10ee503e539e55a9a11a9ff202405a.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7a874b0f3f56.png?v=1773830295",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7a874b0f3f56.png?v=1773832374",
             "thumb_key": "thumbs/kaytee-7a874b0f3f56.webp"
           }
         },
@@ -354,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d5f7469e44d4.png?v=1773830300",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d5f7469e44d4.png?v=1773832382",
             "width": 1600,
             "height": 1200
           },
@@ -426,8 +185,232 @@
             "team_b": "Shimizu S-Pulse",
             "logo_a": "https://cdn.rapid-api.icu/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/fa4105f0408ef893d941e70ae003ab4c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d5f7469e44d4.png?v=1773830300",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d5f7469e44d4.png?v=1773832382",
             "thumb_key": "thumbs/kaytee-d5f7469e44d4.webp"
+          }
+        },
+        {
+          "id": "kaytee-ac692b9940ad",
+          "name": "⚽ JEF United Ichihara Chiba vs FC Tokyo | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ac692b9940ad.png?v=1773832384",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310251",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310251",
+                  "name": "JEF United Ichihara Chiba vs FC Tokyo",
+                  "streams": [
+                    {
+                      "id": "st-601310251",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ff1e4379e0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/fff4bf48f04d947170e51ca1ba53fd9c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/jef-united-ichihara-chiba-vs-fc-tokyo-1700-18-03-2026/601310251"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "JEF United Ichihara Chiba",
+            "team_b": "FC Tokyo",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/333df39860930a21cf72b4e9664723ab.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ac692b9940ad.png?v=1773832384",
+            "thumb_key": "thumbs/kaytee-ac692b9940ad.webp"
+          }
+        },
+        {
+          "id": "kaytee-7ccd43867395",
+          "name": "⚽ Vissel Kobe vs Gamba Osaka | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7ccd43867395.png?v=1773832386",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310269",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310269",
+                  "name": "Vissel Kobe vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-601310269",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3428ecc5de",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69ba665370a69_6308/index.m3u8?expire=1774428371&sign=eb9c57e40818703b436d1dd21cf354e7",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vissel-kobe-vs-gamba-osaka-1700-18-03-2026/601310269"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c326e7619b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/ee77d1f2d6601e2c7255cc0291241b28/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/vissel-kobe-vs-gamba-osaka-1700-18-03-2026/601310269"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Vissel Kobe",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/d85cce27ab583e5b3cead155f02b098a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/91008a96b5de8c75376d17057f89890e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7ccd43867395.png?v=1773832386",
+            "thumb_key": "thumbs/kaytee-7ccd43867395.webp"
+          }
+        },
+        {
+          "id": "kaytee-145358089306",
+          "name": "⚽ Mito Hollyhock vs Yokohama F. Marinos | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-145358089306.png?v=1773832388",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601310254",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601310254",
+                  "name": "Mito Hollyhock vs Yokohama F. Marinos",
+                  "streams": [
+                    {
+                      "id": "st-601310254",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e28fb40cec",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6af6a65e1f8871626f98624f67d3d0b5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mito-hollyhock-vs-yokohama-f-marinos-1700-18-03-2026/601310254"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese J1 League",
+            "team_a": "Mito Hollyhock",
+            "team_b": "Yokohama F. Marinos",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9ead844240532c4e12d3eb45d2087924.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-145358089306.png?v=1773832388",
+            "thumb_key": "thumbs/kaytee-145358089306.webp"
           }
         },
         {
@@ -440,7 +423,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fe74f174698f.png?v=1773830300",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fe74f174698f.png?v=1773832389",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +478,7 @@
             "team_b": "Wonju DB",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/94854e24c2811a0de9ad2a4d4ff6dd29.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9bef33c943c16b7aedec052a581c14d2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fe74f174698f.png?v=1773830300",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fe74f174698f.png?v=1773832389",
             "thumb_key": "thumbs/kaytee-fe74f174698f.webp"
           }
         },
@@ -509,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1a83af5cf8d8.png?v=1773830302",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1a83af5cf8d8.png?v=1773832390",
             "width": 1600,
             "height": 1200
           },
@@ -564,8 +547,86 @@
             "team_b": "LPB Ninh Bình",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/52103380d1122a8b8c1be85f2976f61e.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1a83af5cf8d8.png?v=1773830302",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1a83af5cf8d8.png?v=1773832390",
             "thumb_key": "thumbs/kaytee-1a83af5cf8d8.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-54d18c64b0b0",
+          "name": "🏀 Sunshine Coast Wanderers (w) vs Queensland Lions (w) | 16:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-54d18c64b0b0.png?v=1773832376",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601322128",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601322128",
+                  "name": "Sunshine Coast Wanderers (w) vs Queensland Lions (w)",
+                  "streams": [
+                    {
+                      "id": "st-601322128",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-14d4d1d89b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/d14014ab2e0f82a264db3f74c7cfc450/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sunshine-coast-wanderers-w-vs-queensland-lions-w-1645-18-03-2026/601322128"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Queensland State Women's League",
+            "team_a": "Sunshine Coast Wanderers (w)",
+            "team_b": "Queensland Lions (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/900e3fb7d3bdc53370998d95a66275da.jpg",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/00bb429c0a2d148a1ad0957162a25cb7.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-54d18c64b0b0.png?v=1773832376",
+            "thumb_key": "thumbs/kaytee-54d18c64b0b0.webp"
           }
         }
       ]
@@ -587,7 +648,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773830297",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773832378",
             "width": 1600,
             "height": 1200
           },
@@ -642,7 +703,7 @@
             "team_b": "Magnus JOHANNESEN",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8d7ef1c27f7f25e2a46ee1929d72f591.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/557aac1e83ad057076f5073fa6c62c50.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773830297",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b7b5f5ce070.png?v=1773832378",
             "thumb_key": "thumbs/kaytee-9b7b5f5ce070.webp"
           }
         },
@@ -656,7 +717,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-357b880f2a06.png?v=1773830297",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-357b880f2a06.png?v=1773832379",
             "width": 1600,
             "height": 1200
           },
@@ -711,7 +772,7 @@
             "team_b": "WONG Tien Ci / LIM Chiew Sien",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/15273e385a54e21dc50ea38f4a93cd5e.webp",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/3458bb22644ae4ce6b7358eeeb1a7b43.svg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-357b880f2a06.png?v=1773830297",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-357b880f2a06.png?v=1773832379",
             "thumb_key": "thumbs/kaytee-357b880f2a06.webp"
           }
         },
@@ -725,7 +786,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eec3f5499276.png?v=1773830298",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eec3f5499276.png?v=1773832380",
             "width": 1600,
             "height": 1200
           },
@@ -780,13 +841,13 @@
             "team_b": "Ayush SHETTY",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/ac983b9cd32a9ffea9975a0f4c3afb07.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/f147d546d25506b015ce01460abfa466.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eec3f5499276.png?v=1773830298",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eec3f5499276.png?v=1773832380",
             "thumb_key": "thumbs/kaytee-eec3f5499276.webp"
           }
         },
         {
           "id": "kaytee-05856ff4fec2",
-          "name": "🏸 Natan BEGGA / Elsa JACOB vs Brian WASSINK / Debora JILLE | 17:15",
+          "name": "🏸 Yudai OKIMOTO vs Enogat ROY | 17:55",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -794,7 +855,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-05856ff4fec2.png?v=1773830302",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-05856ff4fec2.png?v=1773832391",
             "width": 1600,
             "height": 1200
           },
@@ -813,7 +874,7 @@
               "contents": [
                 {
                   "id": "ct-601324474",
-                  "name": "Natan BEGGA / Elsa JACOB vs Brian WASSINK / Debora JILLE",
+                  "name": "Yudai OKIMOTO vs Enogat ROY",
                   "streams": [
                     {
                       "id": "st-601324474",
@@ -828,7 +889,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/natan-begga--elsa-jacob-vs-brian-wassink--debora-jille-1715-18-03-2026/601324474"
+                              "value": "https://bunchatv1.net/truc-tiep/yudai-okimoto-vs-enogat-roy-1755-18-03-2026/601324474"
                             },
                             {
                               "key": "User-Agent",
@@ -845,11 +906,11 @@
           ],
           "org_metadata": {
             "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Natan BEGGA / Elsa JACOB",
-            "team_b": "Brian WASSINK / Debora JILLE",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f7d744e2cefdc906f4b26641f423a7ba.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a5ebe5bb955fa9e5d8fa8290169cf81d.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-05856ff4fec2.png?v=1773830302",
+            "team_a": "Yudai OKIMOTO",
+            "team_b": "Enogat ROY",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/032ad96f58c825a4c5f6db6c39295ba8.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a804fac5b71c1354f74c63503bf13e6a.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-05856ff4fec2.png?v=1773832391",
             "thumb_key": "thumbs/kaytee-05856ff4fec2.webp"
           }
         }
@@ -872,7 +933,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-27bc9a40173a.png?v=1773830301",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-27bc9a40173a.png?v=1773832387",
             "width": 1600,
             "height": 1200
           },
@@ -927,7 +988,7 @@
             "team_b": "KB Stars",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6a3ed56be508dbc51ed847ff2626c25a.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/75bd4d19a05b0b6c71bcbb910ea7400a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-27bc9a40173a.png?v=1773830301",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-27bc9a40173a.png?v=1773832387",
             "thumb_key": "thumbs/kaytee-27bc9a40173a.webp"
           }
         },
@@ -941,7 +1002,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0ffda5228045.png?v=1773830301",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0ffda5228045.png?v=1773832390",
             "width": 1600,
             "height": 1200
           },
@@ -996,7 +1057,7 @@
             "team_b": "Hyundai E&C Hillstate W",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8be9e6f1af0b1aaf2c23b4d8f72d4f09.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e2fe06b2d0da508e427eaa255c10d84e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0ffda5228045.png?v=1773830301",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0ffda5228045.png?v=1773832390",
             "thumb_key": "thumbs/kaytee-0ffda5228045.webp"
           }
         }
