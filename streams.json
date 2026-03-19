@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-19T10:09:40.983476",
+  "updated_at": "2026-03-19T11:54:42.953767",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-310d2d060486",
-          "name": "⚽ Chinese Taipei (w) vs North Korea (w) | 16:00",
+          "id": "kaytee-59b1417d80b8",
+          "name": "⚽ Goyang Sono vs KCC Egis | 17:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914973",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-59b1417d80b8.png?v=1773921272",
             "width": 1600,
             "height": 1200
           },
@@ -41,44 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601311523",
+              "id": "src-601325428",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601311523",
-                  "name": "Chinese Taipei (w) vs North Korea (w)",
+                  "id": "ct-601325428",
+                  "name": "Goyang Sono vs KCC Egis",
                   "streams": [
                     {
-                      "id": "st-601311523",
+                      "id": "st-601325428",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-287a9f981b",
+                          "id": "lnk-963aff2210",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&sign=4597d8a426caff298e13a6c50287f177",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbcc95326d9_112310/index.m3u8?expire=1774520085&sign=7623758764560b5e00a06fad824bc278",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chinese-taipei-w-vs-north-korea-w-1600-19-03-2026/601311523"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3e3f0d3b2c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chinese-taipei-w-vs-north-korea-w-1600-19-03-2026/601311523"
+                              "value": "https://bunchatv1.net/truc-tiep/goyang-sono-vs-kcc-egis-1700-19-03-2026/601325428"
                             },
                             {
                               "key": "User-Agent",
@@ -94,13 +77,841 @@
             }
           ],
           "org_metadata": {
-            "league": "AFC Women’s Asian Cup",
-            "team_a": "Chinese Taipei (w)",
-            "team_b": "North Korea (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914973",
-            "thumb_key": "thumbs/kaytee-310d2d060486.webp"
+            "league": "KBL",
+            "team_a": "Goyang Sono",
+            "team_b": "KCC Egis",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3e598258677ca4b7970d21e7f5f18ac2.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/86532c33f37fb33686a09815b3d6b9c6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-59b1417d80b8.png?v=1773921272",
+            "thumb_key": "thumbs/kaytee-59b1417d80b8.webp"
+          }
+        },
+        {
+          "id": "kaytee-c8f41c49936e",
+          "name": "⚽ Chanmari FC vs Shillong Lajong FC | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773921274",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311526",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311526",
+                  "name": "Chanmari FC vs Shillong Lajong FC",
+                  "streams": [
+                    {
+                      "id": "st-601311526",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1da785a21f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-shillong-lajong-fc-1730-19-03-2026/601311526"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d975e8c0d4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f3fee22c151113938a768029c93f286c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-shillong-lajong-fc-1730-19-03-2026/601311526"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian League Division 1",
+            "team_a": "Chanmari FC",
+            "team_b": "Shillong Lajong FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cc5e70a5cfd524b023e0c54984cd6921.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773921274",
+            "thumb_key": "thumbs/kaytee-c8f41c49936e.webp"
+          }
+        },
+        {
+          "id": "kaytee-6fcee2736e5c",
+          "name": "⚽ FK Oleksandria vs Dynamo Kyiv | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773921275",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311529",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311529",
+                  "name": "FK Oleksandria vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "st-601311529",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18940de037",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-1eae036425",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4d318e22c83f59bc810c57318c02bcc5/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Premier League",
+            "team_a": "FK Oleksandria",
+            "team_b": "Dynamo Kyiv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773921275",
+            "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
+          }
+        },
+        {
+          "id": "kaytee-f42c88efd492",
+          "name": "⚽ Karvan Evlakh vs Zira FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773921277",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311538",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311538",
+                  "name": "Karvan Evlakh vs Zira FK",
+                  "streams": [
+                    {
+                      "id": "st-601311538",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a49b5a482c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/karvan-evlakh-vs-zira-fk-1800-19-03-2026/601311538"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan Premier League",
+            "team_a": "Karvan Evlakh",
+            "team_b": "Zira FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773921277",
+            "thumb_key": "thumbs/kaytee-f42c88efd492.webp"
+          }
+        },
+        {
+          "id": "kaytee-b5d53fb631a8",
+          "name": "⚽ Simal FK vs Zaqatala FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b5d53fb631a8.png?v=1773921278",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311541",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311541",
+                  "name": "Simal FK vs Zaqatala FK",
+                  "streams": [
+                    {
+                      "id": "st-601311541",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b143f2be73",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc21470a69_85514/index.m3u8?expire=1774517396&sign=6c425c0a517f3eea7f854d4762565a28",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/simal-fk-vs-zaqatala-fk-1800-19-03-2026/601311541"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f3eb938fea",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/215db298a42a691bd6e949e56858c843/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/simal-fk-vs-zaqatala-fk-1800-19-03-2026/601311541"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan First Division",
+            "team_a": "Simal FK",
+            "team_b": "Zaqatala FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0ab30ccb3c3f94ad592e8c357eff7ea4.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/62df271d4693324655e258e10b20b913.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b5d53fb631a8.png?v=1773921278",
+            "thumb_key": "thumbs/kaytee-b5d53fb631a8.webp"
+          }
+        },
+        {
+          "id": "kaytee-ce5b864ab848",
+          "name": "⚽ Judd Trump vs Robbie Williams | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773921281",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601324732",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601324732",
+                  "name": "Judd Trump vs Robbie Williams",
+                  "streams": [
+                    {
+                      "id": "st-601324732",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f4e292809",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&sign=76109caf4f55c59f2be0b442065c80f6",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/judd-trump-vs-robbie-williams-1830-19-03-2026/601324732"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Judd Trump",
+            "team_b": "Robbie Williams",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773921281",
+            "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
+          }
+        },
+        {
+          "id": "kaytee-bd0811d8c2ec",
+          "name": "⚽ Fujian vs Beijing | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bd0811d8c2ec.png?v=1773921281",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325431",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325431",
+                  "name": "Fujian vs Beijing",
+                  "streams": [
+                    {
+                      "id": "st-601325431",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-85f8410b2a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbdaf4326d9_42127/index.m3u8?expire=1774523764&sign=5ce150ae30711e6955b0ae19f744d24d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fujian-vs-beijing-1830-19-03-2026/601325431"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Fujian",
+            "team_b": "Beijing",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5578032484946d8b55721b4210e2f189.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7e0b2835897203d3485820166420071b.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bd0811d8c2ec.png?v=1773921281",
+            "thumb_key": "thumbs/kaytee-bd0811d8c2ec.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-935457d25275",
+          "name": "🏀 Sichuan vs Ningbo Rockets | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-935457d25275.png?v=1773921282",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325434",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325434",
+                  "name": "Sichuan vs Ningbo Rockets",
+                  "streams": [
+                    {
+                      "id": "st-601325434",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-751ec7e8a4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd5db70a69_4733/index.m3u8?expire=1774522459&sign=d9da55807e59530147a7dc5ef822ddb4",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sichuan-vs-ningbo-rockets-1830-19-03-2026/601325434"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA",
+            "team_a": "Sichuan",
+            "team_b": "Ningbo Rockets",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/508d617078d2147908d26c79830fd89f.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9ad6797989de0a22360cf3cc414e694d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-935457d25275.png?v=1773921282",
+            "thumb_key": "thumbs/kaytee-935457d25275.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-78a5e418a4f1",
+          "name": "🏸 Hathaithip MIJAD /  N.TUNGKASATAN vs R HIROKAMI/S HOBARA | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-78a5e418a4f1.png?v=1773921279",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325443",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325443",
+                  "name": "Hathaithip MIJAD /  N.TUNGKASATAN vs R HIROKAMI/S HOBARA",
+                  "streams": [
+                    {
+                      "id": "st-601325443",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7cf5701b79",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbda4970a69_85714/index.m3u8?expire=1774523593&sign=def1e225c56ed04521285d57d813877c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hathaithip-mijad---ntungkasatan-vs-r-hirokamis-hobara-1800-19-03-2026/601325443"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "Hathaithip MIJAD /  N.TUNGKASATAN",
+            "team_b": "R HIROKAMI/S HOBARA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/bbcb317bec1d94f73c93869a528a56ff.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b7bb957d792d2af33779a83a02d1e491.webp",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-78a5e418a4f1.png?v=1773921279",
+            "thumb_key": "thumbs/kaytee-78a5e418a4f1.webp"
+          }
+        },
+        {
+          "id": "kaytee-9b36774bb30a",
+          "name": "🏸 AMSAKARUNAN /  M.R. ARJUN vs A. DUNN / J. MACPHERSON | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b36774bb30a.png?v=1773921279",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325449",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325449",
+                  "name": "AMSAKARUNAN /  M.R. ARJUN vs A. DUNN / J. MACPHERSON",
+                  "streams": [
+                    {
+                      "id": "st-601325449",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4c231dffe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbe3ca326d9_138846/index.m3u8?expire=1774526026&sign=8e01cf8294104c7c58753568dd39f8f9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/amsakarunan---mr-arjun-vs-a-dunn--j-macpherson-1800-19-03-2026/601325449"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 2 - Orleans Masters Badminton 2026",
+            "team_a": "AMSAKARUNAN /  M.R. ARJUN",
+            "team_b": "A. DUNN / J. MACPHERSON",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/cb6fc22f73d81e749f040f75f006fe90.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2d772aa01253bf3d01d26169307068b3.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-9b36774bb30a.png?v=1773921279",
+            "thumb_key": "thumbs/kaytee-9b36774bb30a.webp"
+          }
+        },
+        {
+          "id": "kaytee-5ff26cf75d3b",
+          "name": "🏸 Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5ff26cf75d3b.png?v=1773921280",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325455",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325455",
+                  "name": "Eng Keat Wesley KOH / Junsuke KUBO vs Hiroki OKAMURA/Kyohei YAMASHITA",
+                  "streams": [
+                    {
+                      "id": "st-601325455",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4eb2de027",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd8a6326d9_85706/index.m3u8?expire=1774523174&sign=f28a7cf84a2b7b69eba67d35a907222a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/eng-keat-wesley-koh--junsuke-kubo-vs-hiroki-okamurakyohei-yamashita-1800-19-03-2026/601325455"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 4 - Orleans Masters Badminton 2026",
+            "team_a": "Eng Keat Wesley KOH / Junsuke KUBO",
+            "team_b": "Hiroki OKAMURA/Kyohei YAMASHITA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/5df31208895d139b7957ec922de81449.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5ff26cf75d3b.png?v=1773921280",
+            "thumb_key": "thumbs/kaytee-5ff26cf75d3b.webp"
+          }
+        },
+        {
+          "id": "kaytee-955947a771c2",
+          "name": "🏸 LAI Po Yu/LIN Xiao Min vs GEISS /  JANSEN | 18:50",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-955947a771c2.png?v=1773921282",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325452",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325452",
+                  "name": "LAI Po Yu/LIN Xiao Min vs GEISS /  JANSEN",
+                  "streams": [
+                    {
+                      "id": "st-601325452",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3c9775c4a7",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbd52a70a69_18754/index.m3u8?expire=1774522282&sign=085b9e8973878a5bf8f09a4cc551e986",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lai-po-yulin-xiao-min-vs-geiss---jansen-1850-19-03-2026/601325452"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 3 - Orleans Masters Badminton 2026",
+            "team_a": "LAI Po Yu/LIN Xiao Min",
+            "team_b": "GEISS /  JANSEN",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a7cc2964c7a5dbc52cad3785f7f4d533.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/7518db66c965509f259e5f120c6c1d0d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-955947a771c2.png?v=1773921282",
+            "thumb_key": "thumbs/kaytee-955947a771c2.webp"
           }
         }
       ]
@@ -122,7 +933,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914975",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773921273",
             "width": 1600,
             "height": 1200
           },
@@ -177,293 +988,8 @@
             "team_b": "KAL Jumbos",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914975",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773921273",
             "thumb_key": "thumbs/kaytee-c40c3f64f1d0.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-c8f41c49936e",
-          "name": "⚽ Chanmari FC vs Shillong Lajong FC | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914977",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311526",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311526",
-                  "name": "Chanmari FC vs Shillong Lajong FC",
-                  "streams": [
-                    {
-                      "id": "st-601311526",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1da785a21f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-shillong-lajong-fc-1730-19-03-2026/601311526"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Indian League Division 1",
-            "team_a": "Chanmari FC",
-            "team_b": "Shillong Lajong FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/cc5e70a5cfd524b023e0c54984cd6921.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914977",
-            "thumb_key": "thumbs/kaytee-c8f41c49936e.webp"
-          }
-        },
-        {
-          "id": "kaytee-6fcee2736e5c",
-          "name": "⚽ FK Oleksandria vs Dynamo Kyiv | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914978",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311529",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311529",
-                  "name": "FK Oleksandria vs Dynamo Kyiv",
-                  "streams": [
-                    {
-                      "id": "st-601311529",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-18940de037",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian Premier League",
-            "team_a": "FK Oleksandria",
-            "team_b": "Dynamo Kyiv",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914978",
-            "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
-          }
-        },
-        {
-          "id": "kaytee-f42c88efd492",
-          "name": "⚽ Karvan Evlakh vs Zira FK | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914979",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311538",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311538",
-                  "name": "Karvan Evlakh vs Zira FK",
-                  "streams": [
-                    {
-                      "id": "st-601311538",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a49b5a482c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/karvan-evlakh-vs-zira-fk-1800-19-03-2026/601311538"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Azerbaijan Premier League",
-            "team_a": "Karvan Evlakh",
-            "team_b": "Zira FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914979",
-            "thumb_key": "thumbs/kaytee-f42c88efd492.webp"
-          }
-        },
-        {
-          "id": "kaytee-ce5b864ab848",
-          "name": "⚽ Judd Trump vs Robbie Williams | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914980",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324732",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601324732",
-                  "name": "Judd Trump vs Robbie Williams",
-                  "streams": [
-                    {
-                      "id": "st-601324732",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd167889a4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a1e326d9_142246/index.m3u8?expire=1774503070&sign=862180408877927125107e0319d6f3b7",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/judd-trump-vs-robbie-williams-1830-19-03-2026/601324732"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Judd Trump",
-            "team_b": "Robbie Williams",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914980",
-            "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
         }
       ]
