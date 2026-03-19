@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-19T10:06:34.053922",
+  "updated_at": "2026-03-19T10:09:40.983476",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914784",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914973",
             "width": 1600,
             "height": 1200
           },
@@ -99,86 +99,8 @@
             "team_b": "North Korea (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914784",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914973",
             "thumb_key": "thumbs/kaytee-310d2d060486.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-561f167e3259",
-          "name": "🏀 Solomon Kings FC vs South Melbourne | 15:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-561f167e3259.png?v=1773914782",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601311520",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601311520",
-                  "name": "Solomon Kings FC vs South Melbourne",
-                  "streams": [
-                    {
-                      "id": "st-601311520",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b6d925c9a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/solomon-kings-fc-vs-south-melbourne-1500-19-03-2026/601311520"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "OFC P L",
-            "team_a": "Solomon Kings FC",
-            "team_b": "South Melbourne",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/b4cb6ea7beafaf3b649d4d3e7a8eef62.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-561f167e3259.png?v=1773914782",
-            "thumb_key": "thumbs/kaytee-561f167e3259.webp"
           }
         }
       ]
@@ -200,7 +122,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914786",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914975",
             "width": 1600,
             "height": 1200
           },
@@ -255,7 +177,7 @@
             "team_b": "KAL Jumbos",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914786",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914975",
             "thumb_key": "thumbs/kaytee-c40c3f64f1d0.webp"
           }
         }
@@ -278,7 +200,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914788",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914977",
             "width": 1600,
             "height": 1200
           },
@@ -333,7 +255,7 @@
             "team_b": "Shillong Lajong FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/cc5e70a5cfd524b023e0c54984cd6921.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914788",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914977",
             "thumb_key": "thumbs/kaytee-c8f41c49936e.webp"
           }
         },
@@ -347,7 +269,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914790",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914978",
             "width": 1600,
             "height": 1200
           },
@@ -402,7 +324,7 @@
             "team_b": "Dynamo Kyiv",
             "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914790",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914978",
             "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
           }
         },
@@ -416,7 +338,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914792",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914979",
             "width": 1600,
             "height": 1200
           },
@@ -471,7 +393,7 @@
             "team_b": "Zira FK",
             "logo_a": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914792",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914979",
             "thumb_key": "thumbs/kaytee-f42c88efd492.webp"
           }
         },
@@ -485,7 +407,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914794",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914980",
             "width": 1600,
             "height": 1200
           },
@@ -540,7 +462,7 @@
             "team_b": "Robbie Williams",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914794",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914980",
             "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
         }
