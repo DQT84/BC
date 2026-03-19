@@ -8,167 +8,11 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-19T07:54:25.783256",
+  "updated_at": "2026-03-19T10:06:34.053922",
   "groups": [
     {
       "id": "live_bóng_đá",
       "name": "🔴 Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-983fc07c1302",
-          "name": "⚽ Ronnie O'Sullivan vs Shaun Murphy | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-983fc07c1302.png?v=1773906863",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324729",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601324729",
-                  "name": "Ronnie O'Sullivan vs Shaun Murphy",
-                  "streams": [
-                    {
-                      "id": "st-601324729",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7f4e292809",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bb8a24326d9_142246/index.m3u8?expire=1774503076&sign=76109caf4f55c59f2be0b442065c80f6",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/ronnie-osullivan-vs-shaun-murphy-1300-19-03-2026/601324729"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Open 2026",
-            "team_a": "Ronnie O'Sullivan",
-            "team_b": "Shaun Murphy",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/40bd826b9586e6279788297dbef06991.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/69b4a4fb608a3d23104d56ebe97a51be.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-983fc07c1302.png?v=1773906863",
-            "thumb_key": "thumbs/kaytee-983fc07c1302.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-2f33c468b498",
-          "name": "🏀 Vietinbank vs VTV Bình Điền Long An | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2f33c468b498.png?v=1773906863",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324702",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601324702",
-                  "name": "Vietinbank vs VTV Bình Điền Long An",
-                  "streams": [
-                    {
-                      "id": "st-601324702",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-941be785be",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bb9850326d9_88642/index.m3u8?expire=1774506704&sign=6f1c98c143f73330fd655bf8dec37ff5",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/vietinbank-vs-vtv-binh-dien-long-an-1400-19-03-2026/601324702"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nữ",
-            "team_a": "Vietinbank",
-            "team_b": "VTV Bình Điền Long An",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d4ad21b8352e45f8fa49635c778babd0.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2f33c468b498.png?v=1773906863",
-            "thumb_key": "thumbs/kaytee-2f33c468b498.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -183,16 +27,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773906865",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914784",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -209,10 +53,27 @@
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-3e3f0d3b2c",
+                          "id": "lnk-287a9f981b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbb2e5326d9_88642/index.m3u8?expire=1774513509&sign=4597d8a426caff298e13a6c50287f177",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chinese-taipei-w-vs-north-korea-w-1600-19-03-2026/601311523"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3e3f0d3b2c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://live.alilicloud.com/live/753eafc9b95d0bb4a472ab4403c85318/playlist.m3u8",
                           "request_headers": [
                             {
@@ -238,8 +99,380 @@
             "team_b": "North Korea (w)",
             "logo_a": "https://cdn.rapid-api.icu/football/team/74eb0c64d3d5eb724d982a8b150d8943.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3dcedcc7589fb823493164d4476aa41f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773906865",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-310d2d060486.png?v=1773914784",
             "thumb_key": "thumbs/kaytee-310d2d060486.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-561f167e3259",
+          "name": "🏀 Solomon Kings FC vs South Melbourne | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-561f167e3259.png?v=1773914782",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311520",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311520",
+                  "name": "Solomon Kings FC vs South Melbourne",
+                  "streams": [
+                    {
+                      "id": "st-601311520",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0b6d925c9a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/7fd2f343efeb03f13dd0580f97fd4189/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/solomon-kings-fc-vs-south-melbourne-1500-19-03-2026/601311520"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "OFC P L",
+            "team_a": "Solomon Kings FC",
+            "team_b": "South Melbourne",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/b4cb6ea7beafaf3b649d4d3e7a8eef62.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/3728683390847f335552d077cf0b8752.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-561f167e3259.png?v=1773914782",
+            "thumb_key": "thumbs/kaytee-561f167e3259.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_chuyền",
+      "name": "🔴 Live 🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-c40c3f64f1d0",
+          "name": "🏐 Hyundai Skywalkers vs KAL Jumbos | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914786",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601309447",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601309447",
+                  "name": "Hyundai Skywalkers vs KAL Jumbos",
+                  "streams": [
+                    {
+                      "id": "st-601309447",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e39acb5609",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbca0e70a69_142210/index.m3u8?expire=1774519438&sign=a4cf120e5bad4e171bcdc3785cda0ab3",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hyundai-skywalkers-vs-kal-jumbos-1700-19-03-2026/601309447"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Volleyball League",
+            "team_a": "Hyundai Skywalkers",
+            "team_b": "KAL Jumbos",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c375e5d271b7cc9b6f39043cd75b29ba.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/ce9d0af1f3e46e04ef15507983839fcf.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c40c3f64f1d0.png?v=1773914786",
+            "thumb_key": "thumbs/kaytee-c40c3f64f1d0.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-c8f41c49936e",
+          "name": "⚽ Chanmari FC vs Shillong Lajong FC | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914788",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311526",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311526",
+                  "name": "Chanmari FC vs Shillong Lajong FC",
+                  "streams": [
+                    {
+                      "id": "st-601311526",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1da785a21f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc3fd326d9_95554/index.m3u8?expire=1774517885&sign=abfe16653e0185de0c46d74fa91abe5e",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/chanmari-fc-vs-shillong-lajong-fc-1730-19-03-2026/601311526"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Indian League Division 1",
+            "team_a": "Chanmari FC",
+            "team_b": "Shillong Lajong FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/205111004b08c5b99ee531ade038964e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/cc5e70a5cfd524b023e0c54984cd6921.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c8f41c49936e.png?v=1773914788",
+            "thumb_key": "thumbs/kaytee-c8f41c49936e.webp"
+          }
+        },
+        {
+          "id": "kaytee-6fcee2736e5c",
+          "name": "⚽ FK Oleksandria vs Dynamo Kyiv | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914790",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311529",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311529",
+                  "name": "FK Oleksandria vs Dynamo Kyiv",
+                  "streams": [
+                    {
+                      "id": "st-601311529",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18940de037",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc7a0326d9_128756/index.m3u8?expire=1774518816&sign=5322e8730d930fa814902597faeb9f25",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/fk-oleksandria-vs-dynamo-kyiv-1800-19-03-2026/601311529"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ukrainian Premier League",
+            "team_a": "FK Oleksandria",
+            "team_b": "Dynamo Kyiv",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/71c1af49010593b29f9fa41aa0e21b49.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/77c049e20cd5b3a779fcf70ac08f21c3.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6fcee2736e5c.png?v=1773914790",
+            "thumb_key": "thumbs/kaytee-6fcee2736e5c.webp"
+          }
+        },
+        {
+          "id": "kaytee-f42c88efd492",
+          "name": "⚽ Karvan Evlakh vs Zira FK | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914792",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601311538",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601311538",
+                  "name": "Karvan Evlakh vs Zira FK",
+                  "streams": [
+                    {
+                      "id": "st-601311538",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a49b5a482c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bbc86f326d9_28/index.m3u8?expire=1774519023&sign=dc79a2e57157e426b5c4d541eb8bac5a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/karvan-evlakh-vs-zira-fk-1800-19-03-2026/601311538"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Azerbaijan Premier League",
+            "team_a": "Karvan Evlakh",
+            "team_b": "Zira FK",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/aa6d9f240dd67791dd86ff4de072d846.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78d040926970a0ccc54c3b1f13a6d568.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f42c88efd492.png?v=1773914792",
+            "thumb_key": "thumbs/kaytee-f42c88efd492.webp"
           }
         },
         {
@@ -252,7 +485,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773906865",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914794",
             "width": 1600,
             "height": 1200
           },
@@ -307,7 +540,7 @@
             "team_b": "Robbie Williams",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/9e4bab4e5cea82af5793b6ee02ebf2a9.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/cd8a398e0dd41e31d0211f65e360df2f.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773906865",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ce5b864ab848.png?v=1773914794",
             "thumb_key": "thumbs/kaytee-ce5b864ab848.webp"
           }
         }
