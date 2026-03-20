@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-20T05:09:28.557921",
+  "updated_at": "2026-03-20T07:52:17.958236",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b967b3de3f96",
-          "name": "⚽ Briobecca Urayasu vs Yokogawa Musashino FC | 11:00",
+          "id": "kaytee-3788a26b9fbd",
+          "name": "⚽ Adamstown Rosebud Reserves vs Lambton Jaffas Reserves | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983367",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3788a26b9fbd.png?v=1773993125",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601315441",
+              "id": "src-601325677",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601315441",
-                  "name": "Briobecca Urayasu vs Yokogawa Musashino FC",
+                  "id": "ct-601325677",
+                  "name": "Adamstown Rosebud Reserves vs Lambton Jaffas Reserves",
                   "streams": [
                     {
-                      "id": "st-601315441",
+                      "id": "st-601325677",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-e4c5239aff",
+                          "id": "lnk-74439db042",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/f2a2635a69a3d916e0bfe229af7bd3ee/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/briobecca-urayasu-vs-yokogawa-musashino-fc-1100-20-03-2026/601315441"
+                              "value": "https://bunchatv1.net/truc-tiep/adamstown-rosebud-reserves-vs-lambton-jaffas-reserves-1400-20-03-2026/601325677"
                             },
                             {
                               "key": "User-Agent",
@@ -77,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Japanese Football League",
-            "team_a": "Briobecca Urayasu",
-            "team_b": "Yokogawa Musashino FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7d932dfc6184b11de923cff4501fee01.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e2473e30597b13682634eee883fc7799.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983367",
-            "thumb_key": "thumbs/kaytee-b967b3de3f96.webp"
+            "league": "Australia Northern New South Wales Reserves League",
+            "team_a": "Adamstown Rosebud Reserves",
+            "team_b": "Lambton Jaffas Reserves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dc4fd58ce1e7b277ee3def338124e5be.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/0113768d06cba90f5beb4ef014312923.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3788a26b9fbd.png?v=1773993125",
+            "thumb_key": "thumbs/kaytee-3788a26b9fbd.webp"
           }
         },
         {
-          "id": "kaytee-f4c221ed5029",
-          "name": "⚽ Verspah Oita vs Maruyasu Okazaki | 11:00",
+          "id": "kaytee-00206a2e25ec",
+          "name": "⚽ Edgeworth Eagles Reserves vs Valentine Phoenix Reserves | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983368",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-00206a2e25ec.png?v=1773993127",
             "width": 1600,
             "height": 1200
           },
@@ -110,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601315444",
+              "id": "src-601325680",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601315444",
-                  "name": "Verspah Oita vs Maruyasu Okazaki",
+                  "id": "ct-601325680",
+                  "name": "Edgeworth Eagles Reserves vs Valentine Phoenix Reserves",
                   "streams": [
                     {
-                      "id": "st-601315444",
+                      "id": "st-601325680",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-12233c8554",
+                          "id": "lnk-038527520b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/b60e39d2b00784d05e11da8c86f63799/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/verspah-oita-vs-maruyasu-okazaki-1100-20-03-2026/601315444"
+                              "value": "https://bunchatv1.net/truc-tiep/edgeworth-eagles-reserves-vs-valentine-phoenix-reserves-1400-20-03-2026/601325680"
                             },
                             {
                               "key": "User-Agent",
@@ -146,18 +146,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Japanese Football League",
-            "team_a": "Verspah Oita",
-            "team_b": "Maruyasu Okazaki",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/778a55c75fcc204d5bb048507d47b94d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983368",
-            "thumb_key": "thumbs/kaytee-f4c221ed5029.webp"
+            "league": "Australia Northern New South Wales Reserves League",
+            "team_a": "Edgeworth Eagles Reserves",
+            "team_b": "Valentine Phoenix Reserves",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a8d58535fe5a74fe1645100041b8ab7b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f86612474ad7b5c055358dff0a97e71a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-00206a2e25ec.png?v=1773993127",
+            "thumb_key": "thumbs/kaytee-00206a2e25ec.webp"
           }
         },
         {
-          "id": "kaytee-254cd8a9f154",
-          "name": "⚽ Albirex Niigata vs Kataller Toyama | 12:00",
+          "id": "kaytee-395e24844cbd",
+          "name": "⚽ Preston Lions (w) vs Alamein (w) | 14:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -165,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983368",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-395e24844cbd.png?v=1773993131",
             "width": 1600,
             "height": 1200
           },
@@ -179,27 +179,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313038",
+              "id": "src-601313065",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601313038",
-                  "name": "Albirex Niigata vs Kataller Toyama",
+                  "id": "ct-601313065",
+                  "name": "Preston Lions (w) vs Alamein (w)",
                   "streams": [
                     {
-                      "id": "st-601313038",
+                      "id": "st-601313065",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-ae94a21f6a",
+                          "id": "lnk-b205126bcd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bcca4970a69_133172/index.m3u8?expire=1774585033&sign=8011517837f87da804f5bcab5ce62ce9",
+                          "url": "https://live.alilicloud.com/live/a8fc47b13fe2a4aa88aaabe14fbf1287/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/albirex-niigata-vs-kataller-toyama-1200-20-03-2026/601313038"
+                              "value": "https://bunchatv1.net/truc-tiep/preston-lions-w-vs-alamein-w-1415-20-03-2026/601313065"
                             },
                             {
                               "key": "User-Agent",
@@ -215,18 +215,174 @@
             }
           ],
           "org_metadata": {
-            "league": "J2/J3 100 Year Vision League",
-            "team_a": "Albirex Niigata",
-            "team_b": "Kataller Toyama",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983368",
-            "thumb_key": "thumbs/kaytee-254cd8a9f154.webp"
+            "league": "Australia Victorian Women's Premier League",
+            "team_a": "Preston Lions (w)",
+            "team_b": "Alamein (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a58d1203ea2a8726c62f8a6d17cd0a24.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/2f57035bbf99bf78470b8d72202ba3b1.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-395e24844cbd.png?v=1773993131",
+            "thumb_key": "thumbs/kaytee-395e24844cbd.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-ffd3c8354200",
+          "name": "🏀 Hà Nội vs Vietinbank | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ffd3c8354200.png?v=1773993130",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325527",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325527",
+                  "name": "Hà Nội vs Vietinbank",
+                  "streams": [
+                    {
+                      "id": "st-601325527",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-14ab1c45ea",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bce90770a69_88642/index.m3u8?expire=1774592903&sign=f6f6a2c46ac17ff34ae2cc0e50e2b05d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/ha-noi-vs-vietinbank-1400-20-03-2026/601325527"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026 - Nữ",
+            "team_a": "Hà Nội",
+            "team_b": "Vietinbank",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a9040dc12e05a3b9e782dcefbdb381ca.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ffd3c8354200.png?v=1773993130",
+            "thumb_key": "thumbs/kaytee-ffd3c8354200.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-568a21bd265d",
+          "name": "⚽ Flinders United (W) vs West Torrens Birkalla (w) | 14:45",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-568a21bd265d.png?v=1773993133",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325638",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325638",
+                  "name": "Flinders United (W) vs West Torrens Birkalla (w)",
+                  "streams": [
+                    {
+                      "id": "st-601325638",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b6270103d4",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/4158daf0d469b20bec5cde378896ac58/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/flinders-united-w-vs-west-torrens-birkalla-w-1445-20-03-2026/601325638"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Australia Women's Premier League",
+            "team_a": "Flinders United (W)",
+            "team_b": "West Torrens Birkalla (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/fcfbd78176c2c4f711c7cec9fa9c4b55.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/22b8a1add9247e3d7ab27d27e4f15fa8.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-568a21bd265d.png?v=1773993133",
+            "thumb_key": "thumbs/kaytee-568a21bd265d.webp"
           }
         },
         {
-          "id": "kaytee-6c85c4abf63b",
-          "name": "⚽ Thespa Kusatsu Gunma vs Shonan Bellmare | 12:00",
+          "id": "kaytee-4bec98a6cb54",
+          "name": "⚽ Sydney FC Women vs Wellington Phoenix Women | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -234,58 +390,41 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983368",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4bec98a6cb54.png?v=1773993135",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "src-601313041",
+              "id": "src-601313074",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601313041",
-                  "name": "Thespa Kusatsu Gunma vs Shonan Bellmare",
+                  "id": "ct-601313074",
+                  "name": "Sydney FC Women vs Wellington Phoenix Women",
                   "streams": [
                     {
-                      "id": "st-601313041",
+                      "id": "st-601313074",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-536ae072bc",
+                          "id": "lnk-8586b1de6a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bcd12070a69_103/index.m3u8?expire=1774586784&sign=eda9bca3706192396e695a3b7e6dc778",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcf76a70a69_28/index.m3u8?expire=1774596586&sign=ff9549e04325740ae08b5e148dc91561",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026/601313041"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-dbe5ed8e70",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026/601313041"
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-fc-women-vs-wellington-phoenix-women-1500-20-03-2026/601313074"
                             },
                             {
                               "key": "User-Agent",
@@ -301,13 +440,151 @@
             }
           ],
           "org_metadata": {
-            "league": "J2/J3 100 Year Vision League",
-            "team_a": "Thespa Kusatsu Gunma",
-            "team_b": "Shonan Bellmare",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0a999ff8b768f0b5efb87511dc863265.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d66d58c237a45ea74399342c59a8d8be.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983368",
-            "thumb_key": "thumbs/kaytee-6c85c4abf63b.webp"
+            "league": "Australia W-League",
+            "team_a": "Sydney FC Women",
+            "team_b": "Wellington Phoenix Women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/64f6d95d32cb430272a5a69e1288b5cc.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c548bc71feff7cc3f6da3184d0f8da14.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4bec98a6cb54.png?v=1773993135",
+            "thumb_key": "thumbs/kaytee-4bec98a6cb54.webp"
+          }
+        },
+        {
+          "id": "kaytee-cfc8aab9d0af",
+          "name": "⚽ Western Sydney vs Adelaide United | 15:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cfc8aab9d0af.png?v=1773993137",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313089",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601313089",
+                  "name": "Western Sydney vs Adelaide United",
+                  "streams": [
+                    {
+                      "id": "st-601313089",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9bc78489c5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcfab270a69_95554/index.m3u8?expire=1774597426&sign=35380e34486ebdf65f74e26b2e3ca63f",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/western-sydney-vs-adelaide-united-1535-20-03-2026/601313089"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia A-League",
+            "team_a": "Western Sydney",
+            "team_b": "Adelaide United",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9054259e823c101ccfe523cd527c2e5b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/a27d297d3cfaa7a71ce91a3fa0d40dbf.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cfc8aab9d0af.png?v=1773993137",
+            "thumb_key": "thumbs/kaytee-cfc8aab9d0af.webp"
+          }
+        },
+        {
+          "id": "kaytee-997c87e7f4e6",
+          "name": "⚽ Judd Trump vs Hossein Vafaei | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-997c87e7f4e6.png?v=1773993137",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326685",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601326685",
+                  "name": "Judd Trump vs Hossein Vafaei",
+                  "streams": [
+                    {
+                      "id": "st-601326685",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bb1dd9e062",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcddb7326d9_142246/index.m3u8?expire=1774590007&sign=7f810e2cdd864caaa5766ade4532029a",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/judd-trump-vs-hossein-vafaei-1830-20-03-2026/601326685"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Open 2026",
+            "team_a": "Judd Trump",
+            "team_b": "Hossein Vafaei",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a4033d94b44175cc09c91c207d15cd66.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/2a7f122eab81789a7d2cd6f789c7b440.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-997c87e7f4e6.png?v=1773993137",
+            "thumb_key": "thumbs/kaytee-997c87e7f4e6.webp"
           }
         }
       ]
