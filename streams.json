@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-20T16:27:48.920167",
+  "updated_at": "2026-03-20T18:04:27.919263",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-64b3e37c167c",
-          "name": "⚽ LPB Ninh Bình vs Thể Công Tân Cảng | 21:00",
+          "id": "kaytee-1c0af9993f09",
+          "name": "⚽ Rotor Volgograd vs Fakel Voronezh | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-64b3e37c167c.png?v=1774024056",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1c0af9993f09.png?v=1774029863",
             "width": 1600,
             "height": 1200
           },
@@ -41,96 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325521",
+              "id": "src-601313407",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601325521",
-                  "name": "LPB Ninh Bình vs Thể Công Tân Cảng",
+                  "id": "ct-601313407",
+                  "name": "Rotor Volgograd vs Fakel Voronezh",
                   "streams": [
                     {
-                      "id": "st-601325521",
+                      "id": "st-601313407",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-af2ec30417",
+                          "id": "lnk-84f23333ea",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd45b5326d9_88642/index.m3u8?expire=1774616629&sign=4a1fc8237dc5940851555b5b733f863c",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd6838326d9_6308/index.m3u8?expire=1774625464&sign=c79906b1aec3c9e21237cd5a3ff4e3e2",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/lpb-ninh-binh-vs-the-cong-tan-cang-2100-20-03-2026/601325521"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nam",
-            "team_a": "LPB Ninh Bình",
-            "team_b": "Thể Công Tân Cảng",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9293c85e50108a0acdf51897531398f0.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-64b3e37c167c.png?v=1774024056",
-            "thumb_key": "thumbs/kaytee-64b3e37c167c.webp"
-          }
-        },
-        {
-          "id": "kaytee-0f5432d37f78",
-          "name": "⚽ BKMA vs Urartu | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0f5432d37f78.png?v=1774024058",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313371",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313371",
-                  "name": "BKMA vs Urartu",
-                  "streams": [
-                    {
-                      "id": "st-601313371",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8843c11167",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd5088326d9_72787/index.m3u8?expire=1774619400&sign=02fa7f231a844194e176ba230e383974",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bkma-vs-urartu-2200-20-03-2026/601313371"
+                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-fakel-voronezh-2330-20-03-2026/601313407"
                             },
                             {
                               "key": "User-Agent",
@@ -139,15 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-4dcf2c7144",
+                          "id": "lnk-5b415cde7b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/31a9480c16f2f000eba4ef56f4a7a1d0/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/19819f46e2bf283421aec3beb564a2d0/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bkma-vs-urartu-2200-20-03-2026/601313371"
+                              "value": "https://bunchatv1.net/truc-tiep/rotor-volgograd-vs-fakel-voronezh-2330-20-03-2026/601313407"
                             },
                             {
                               "key": "User-Agent",
@@ -163,18 +94,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Armenian Premier League",
-            "team_a": "BKMA",
-            "team_b": "Urartu",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/77ca875a242e4b4b404106e58731f61d.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/814cbcaf4f70499660e021e30be5036c.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0f5432d37f78.png?v=1774024058",
-            "thumb_key": "thumbs/kaytee-0f5432d37f78.webp"
+            "league": "Russian National Football League",
+            "team_a": "Rotor Volgograd",
+            "team_b": "Fakel Voronezh",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/6ae485ecee17acfc249fa06c8500d0a0.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/30c9a3c424abbef33fd4f1d00eb09b0c.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1c0af9993f09.png?v=1774029863",
+            "thumb_key": "thumbs/kaytee-1c0af9993f09.webp"
           }
         },
         {
-          "id": "kaytee-fec13f961183",
-          "name": "⚽ Verona U20 vs Torino U19 | 22:00",
+          "id": "kaytee-1d68fba19277",
+          "name": "⚽ NK Aluminij vs Maribor | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -182,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fec13f961183.png?v=1774024060",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1d68fba19277.png?v=1774029865",
             "width": 1600,
             "height": 1200
           },
@@ -196,44 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601315522",
+              "id": "src-601315546",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601315522",
-                  "name": "Verona U20 vs Torino U19",
+                  "id": "ct-601315546",
+                  "name": "NK Aluminij vs Maribor",
                   "streams": [
                     {
-                      "id": "st-601315522",
+                      "id": "st-601315546",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-58a98eabe3",
+                          "id": "lnk-10a2c3dff2",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd4ba3326d9_88186/index.m3u8?expire=1774618147&sign=d67f7c74c67bf6d4e85343201601131e",
+                          "url": "https://live.alilicloud.com/live/7047c1350c26eed684dec1ebb8a494a2/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/verona-u20-vs-torino-u19-2200-20-03-2026/601315522"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-892ea339f3",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/cbd4c01148a46821d9980d2464a72eda/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/verona-u20-vs-torino-u19-2200-20-03-2026/601315522"
+                              "value": "https://bunchatv1.net/truc-tiep/nk-aluminij-vs-maribor-2330-20-03-2026/601315546"
                             },
                             {
                               "key": "User-Agent",
@@ -249,18 +163,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Italian Campionato Primavera 1",
-            "team_a": "Verona U20",
-            "team_b": "Torino U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/88547bf8838189ebb71e74178268b45e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9e8bf3759f711459b127ba5e47736ae2.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fec13f961183.png?v=1774024060",
-            "thumb_key": "thumbs/kaytee-fec13f961183.webp"
+            "league": "Slovenia 1.Liga",
+            "team_a": "NK Aluminij",
+            "team_b": "Maribor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/8e61634a08ce4e22f54cfef1c6b48b6a.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f6c8a28bf01610447b86c48ec05ce1b4.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1d68fba19277.png?v=1774029865",
+            "thumb_key": "thumbs/kaytee-1d68fba19277.webp"
           }
         },
         {
-          "id": "kaytee-bbb97428abf9",
-          "name": "⚽ Haras El Hodood vs Ismaily SC | 22:00",
+          "id": "kaytee-e5c0a4b72741",
+          "name": "⚽ Lamboi vs FC Kallon | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -268,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bbb97428abf9.png?v=1774024062",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5c0a4b72741.png?v=1774029866",
             "width": 1600,
             "height": 1200
           },
@@ -282,27 +196,27 @@
           ],
           "sources": [
             {
-              "id": "src-601315528",
+              "id": "src-601325785",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601315528",
-                  "name": "Haras El Hodood vs Ismaily SC",
+                  "id": "ct-601325785",
+                  "name": "Lamboi vs FC Kallon",
                   "streams": [
                     {
-                      "id": "st-601315528",
+                      "id": "st-601325785",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b37d6d7c0a",
+                          "id": "lnk-dda12fb54e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/f98e95a52e1b3e8ebdbe31572e2807d8/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/6a9c2ed44703c29667b31126dbbafd50/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/haras-el-hodood-vs-ismaily-sc-2200-20-03-2026/601315528"
+                              "value": "https://bunchatv1.net/truc-tiep/lamboi-vs-fc-kallon-2330-20-03-2026/601325785"
                             },
                             {
                               "key": "User-Agent",
@@ -318,185 +232,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Egyptian Premier League",
-            "team_a": "Haras El Hodood",
-            "team_b": "Ismaily SC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7dc80ef40b717d99f9aafeaf024f7e8c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3766cad0712ddc9181a091d2d78d61c8.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bbb97428abf9.png?v=1774024062",
-            "thumb_key": "thumbs/kaytee-bbb97428abf9.webp"
-          }
-        },
-        {
-          "id": "kaytee-74a017a0aa01",
-          "name": "⚽ FC Neftci Baku vs Mil-Mugan FK | 22:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-74a017a0aa01.png?v=1774024063",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313374",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313374",
-                  "name": "FC Neftci Baku vs Mil-Mugan FK",
-                  "streams": [
-                    {
-                      "id": "st-601313374",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-341d40a22c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd5fc870a69_44731/index.m3u8?expire=1774623304&sign=6a9e8b33bd5e5c3de644041b04f5fe36",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-neftci-baku-vs-milmugan-fk-2215-20-03-2026/601313374"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-d87c93ad4e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/71b6a80e7563803b09b31439b2186e13/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-neftci-baku-vs-milmugan-fk-2215-20-03-2026/601313374"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Azerbaijan Premier League",
-            "team_a": "FC Neftci Baku",
-            "team_b": "Mil-Mugan FK",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/2d9ea2234c3ada82b3d0355791c45669.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/22fa18548e3651bad37de2fb9fcad603.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-74a017a0aa01.png?v=1774024063",
-            "thumb_key": "thumbs/kaytee-74a017a0aa01.webp"
-          }
-        },
-        {
-          "id": "kaytee-ab76593e15ff",
-          "name": "⚽ Slavia Sofia vs Botev Plovdiv | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ab76593e15ff.png?v=1774024065",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313383",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313383",
-                  "name": "Slavia Sofia vs Botev Plovdiv",
-                  "streams": [
-                    {
-                      "id": "st-601313383",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-269350cf2e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd534e326d9_128756/index.m3u8?expire=1774620110&sign=9e6ded6f81ca4b764e4b283cb325dd7f",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/slavia-sofia-vs-botev-plovdiv-2300-20-03-2026/601313383"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-6066fa4f58",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/3c87c860d0e79450465aadf74e0970ae/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/slavia-sofia-vs-botev-plovdiv-2300-20-03-2026/601313383"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bulgarian First League",
-            "team_a": "Slavia Sofia",
-            "team_b": "Botev Plovdiv",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/e087c9b939975c0cb726253fc3c3e418.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/ca2873db2e4098a463b85e2af51d3ad6.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-ab76593e15ff.png?v=1774024065",
-            "thumb_key": "thumbs/kaytee-ab76593e15ff.webp"
+            "league": "Sierra Leone Premier League",
+            "team_a": "Lamboi",
+            "team_b": "FC Kallon",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/79ffcdd49711effd18c9535fff5924a3.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/eb0ba740eb5a54ac4ab2b611acf6cba2.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e5c0a4b72741.png?v=1774029866",
+            "thumb_key": "thumbs/kaytee-e5c0a4b72741.webp"
           }
         }
       ]
@@ -518,7 +260,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c7ae22b8487c.png?v=1774024068",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c7ae22b8487c.png?v=1774029861",
             "width": 1600,
             "height": 1200
           },
@@ -573,7 +315,7 @@
             "team_b": "Ethan Quinn",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/98e8579d1e2bc4fb0dba8274afd761f3.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/24d88e803c160ef313397e38631417c9.webp",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c7ae22b8487c.png?v=1774024068",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c7ae22b8487c.png?v=1774029861",
             "thumb_key": "thumbs/kaytee-c7ae22b8487c.webp"
           }
         }
@@ -587,77 +329,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5c47bf1a5734",
-          "name": "🏸 Pitchamon OPATNIPUTH vs Riko GUNJI | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5c47bf1a5734.png?v=1774024066",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326601",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601326601",
-                  "name": "Pitchamon OPATNIPUTH vs Riko GUNJI",
-                  "streams": [
-                    {
-                      "id": "st-601326601",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-333b2282e1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&sign=2bcc79997403b8c73ddb04d48c4eef54",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/pitchamon-opatniputh-vs-riko-gunji-2300-20-03-2026/601326601"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 1 - Orleans Masters Badminton 2026",
-            "team_a": "Pitchamon OPATNIPUTH",
-            "team_b": "Riko GUNJI",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/800ba46323707241529172b020986363.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5c47bf1a5734.png?v=1774024066",
-            "thumb_key": "thumbs/kaytee-5c47bf1a5734.webp"
-          }
-        },
-        {
           "id": "kaytee-e97a42c4686a",
-          "name": "🏸 Isharani BARUAH vs Malvika BANSOD | 23:00",
+          "name": "🏸 CHOU Tien Chen vs HU Zhe An | 23:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -665,7 +338,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774024067",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774029867",
             "width": 1600,
             "height": 1200
           },
@@ -684,7 +357,7 @@
               "contents": [
                 {
                   "id": "ct-601326820",
-                  "name": "Isharani BARUAH vs Malvika BANSOD",
+                  "name": "CHOU Tien Chen vs HU Zhe An",
                   "streams": [
                     {
                       "id": "st-601326820",
@@ -699,7 +372,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/isharani-baruah-vs-malvika-bansod-2300-20-03-2026/601326820"
+                              "value": "https://bunchatv1.net/truc-tiep/chou-tien-chen-vs-hu-zhe-an-2330-20-03-2026/601326820"
                             },
                             {
                               "key": "User-Agent",
@@ -716,90 +389,12 @@
           ],
           "org_metadata": {
             "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Isharani BARUAH",
-            "team_b": "Malvika BANSOD",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b657f9ca94a1b2e33d85fb865607f361.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774024067",
+            "team_a": "CHOU Tien Chen",
+            "team_b": "HU Zhe An",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/8df073cf885b46498506eeff12bcd142.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/71e247724e5e29fb765f8414b72e6ede.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774029867",
             "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_tennis",
-      "name": "⏳ Sắp Live 🎾 Tennis",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-71531f42e1d7",
-          "name": "🎾 Draper J. vs Opelka R. | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-71531f42e1d7.png?v=1774024068",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601327138",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601327138",
-                  "name": "Draper J. vs Opelka R.",
-                  "streams": [
-                    {
-                      "id": "st-601327138",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af1ca24bcb",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd714a326d9_4733/index.m3u8?expire=1774627786&sign=bce30b3c0163ae66b0c5ccf4c310c0c9",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/draper-j-vs-opelka-r-2330-20-03-2026/601327138"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP MIAMI 2026",
-            "team_a": "Draper J.",
-            "team_b": "Opelka R.",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/6be1917b420666d03310bb551ffaf605.webp",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/df8abc4b900953ed2dcb3724988f7e2b.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-71531f42e1d7.png?v=1774024068",
-            "thumb_key": "thumbs/kaytee-71531f42e1d7.webp"
           }
         }
       ]
