@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-20T05:08:56.737895",
+  "updated_at": "2026-03-20T05:09:28.557921",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983330",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983367",
             "width": 1600,
             "height": 1200
           },
@@ -82,7 +82,7 @@
             "team_b": "Yokogawa Musashino FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/7d932dfc6184b11de923cff4501fee01.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/e2473e30597b13682634eee883fc7799.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983330",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983367",
             "thumb_key": "thumbs/kaytee-b967b3de3f96.webp"
           }
         },
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983332",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983368",
             "width": 1600,
             "height": 1200
           },
@@ -151,19 +151,10 @@
             "team_b": "Maruyasu Okazaki",
             "logo_a": "https://cdn.rapid-api.icu/football/team/778a55c75fcc204d5bb048507d47b94d.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983332",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983368",
             "thumb_key": "thumbs/kaytee-f4c221ed5029.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-254cd8a9f154",
           "name": "⚽ Albirex Niigata vs Kataller Toyama | 12:00",
@@ -174,16 +165,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983334",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983368",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -229,7 +220,7 @@
             "team_b": "Kataller Toyama",
             "logo_a": "https://cdn.rapid-api.icu/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983334",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983368",
             "thumb_key": "thumbs/kaytee-254cd8a9f154.webp"
           }
         },
@@ -243,16 +234,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983336",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983368",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -315,7 +306,7 @@
             "team_b": "Shonan Bellmare",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0a999ff8b768f0b5efb87511dc863265.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d66d58c237a45ea74399342c59a8d8be.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983336",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983368",
             "thumb_key": "thumbs/kaytee-6c85c4abf63b.webp"
           }
         }
