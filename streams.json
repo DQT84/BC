@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-20T11:47:56.694163",
+  "updated_at": "2026-03-20T14:29:30.265036",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-db11d0ad58d6",
-          "name": "⚽ Biên Phòng MB vs Công an TPHCM | 16:00",
+          "id": "kaytee-d3b43fe7f5c6",
+          "name": "⚽ Aizawl FC vs Diamond Harbour FC | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db11d0ad58d6.png?v=1774007264",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d3b43fe7f5c6.png?v=1774016954",
             "width": 1600,
             "height": 1200
           },
@@ -41,165 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325518",
+              "id": "src-601313161",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601325518",
-                  "name": "Biên Phòng MB vs Công an TPHCM",
+                  "id": "ct-601313161",
+                  "name": "Aizawl FC vs Diamond Harbour FC",
                   "streams": [
                     {
-                      "id": "st-601325518",
+                      "id": "st-601313161",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-1095767bf3",
+                          "id": "lnk-947a8ffc60",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd0401326d9_128756/index.m3u8?expire=1774599809&sign=85c4044919116b5dd8992e6bba093ba0",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd3d8570a69_4908/index.m3u8?expire=1774614533&sign=926e90c9ba7b9775cadfea13ff1358a6",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bien-phong-mb-vs-cong-an-tphcm-1600-20-03-2026/601325518"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nam",
-            "team_a": "Biên Phòng MB",
-            "team_b": "Công an TPHCM",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/78cc8c7732dacf1c3f0289a77295f0e9.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-db11d0ad58d6.png?v=1774007264",
-            "thumb_key": "thumbs/kaytee-db11d0ad58d6.webp"
-          }
-        },
-        {
-          "id": "kaytee-2df99a5cc269",
-          "name": "⚽ Salisbury Inter (w) vs West Adelaide (w) | 16:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2df99a5cc269.png?v=1774007266",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325647",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601325647",
-                  "name": "Salisbury Inter (w) vs West Adelaide (w)",
-                  "streams": [
-                    {
-                      "id": "st-601325647",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b620a9e9a7",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/afb70319da99c238253e433176c38cd7/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/salisbury-inter-w-vs-west-adelaide-w-1645-20-03-2026/601325647"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia Women's Premier League",
-            "team_a": "Salisbury Inter (w)",
-            "team_b": "West Adelaide (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/d12d4c7fd6484bf33257913584c8df42.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/26671012b1f898238821ab2be203e213.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2df99a5cc269.png?v=1774007266",
-            "thumb_key": "thumbs/kaytee-2df99a5cc269.webp"
-          }
-        },
-        {
-          "id": "kaytee-382a6dd3bad1",
-          "name": "⚽ Kyzylzhar Petropavlovsk vs Irtysh Pavlodar | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-382a6dd3bad1.png?v=1774007267",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313152",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313152",
-                  "name": "Kyzylzhar Petropavlovsk vs Irtysh Pavlodar",
-                  "streams": [
-                    {
-                      "id": "st-601313152",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f82614e63",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd134570a69_74012/index.m3u8?expire=1774603717&sign=bb2470f9a88f319e6b854cb1afd21713",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kyzylzhar-petropavlovsk-vs-irtysh-pavlodar-1700-20-03-2026/601313152"
+                              "value": "https://bunchatv1.net/truc-tiep/aizawl-fc-vs-diamond-harbour-fc-2000-20-03-2026/601313161"
                             },
                             {
                               "key": "User-Agent",
@@ -208,291 +70,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-3749ed8c71",
+                          "id": "lnk-b2875285b7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/cd3354e6fd701a211e5d026491f585b9/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/f58c7194469c26b346ab114459f0c0d6/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/kyzylzhar-petropavlovsk-vs-irtysh-pavlodar-1700-20-03-2026/601313152"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kazakhstan Premier League",
-            "team_a": "Kyzylzhar Petropavlovsk",
-            "team_b": "Irtysh Pavlodar",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/c61c3199500be14782a4d533db7e52a2.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/97bfb8ef2c0abc2fd40185debc8dd497.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-382a6dd3bad1.png?v=1774007267",
-            "thumb_key": "thumbs/kaytee-382a6dd3bad1.webp"
-          }
-        },
-        {
-          "id": "kaytee-a1c7babaafbf",
-          "name": "⚽ Adelaide Comets FC vs Adelaide United FC (Youth) | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a1c7babaafbf.png?v=1774007268",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313143",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313143",
-                  "name": "Adelaide Comets FC vs Adelaide United FC (Youth)",
-                  "streams": [
-                    {
-                      "id": "st-601313143",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74a217da9d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/531902b1d8c87bd3343e3ec106729dbd/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/adelaide-comets-fc-vs-adelaide-united-fc-youth-1700-20-03-2026/601313143"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Australia National Premier Leagues",
-            "team_a": "Adelaide Comets FC",
-            "team_b": "Adelaide United FC (Youth)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/861a7e12ebda4bd651b701e069cde5c5.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/4179d3ee85aa9fbb149be924db04ac07.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a1c7babaafbf.png?v=1774007268",
-            "thumb_key": "thumbs/kaytee-a1c7babaafbf.webp"
-          }
-        },
-        {
-          "id": "kaytee-1e45b30292a5",
-          "name": "⚽ Mlada Boleslav U19 vs Vysocina Jihlava U19 | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1e45b30292a5.png?v=1774007270",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313149",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313149",
-                  "name": "Mlada Boleslav U19 vs Vysocina Jihlava U19",
-                  "streams": [
-                    {
-                      "id": "st-601313149",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0590ba4906",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/367bc4457a950fb3a5c04ab55e4e7c76/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/mlada-boleslav-u19-vs-vysocina-jihlava-u19-1700-20-03-2026/601313149"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech U19 League",
-            "team_a": "Mlada Boleslav U19",
-            "team_b": "Vysocina Jihlava U19",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/4da6034233783da3d2dbdd84c860b34b.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d12671e0b9c773726b5eb2996c3c8caf.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-1e45b30292a5.png?v=1774007270",
-            "thumb_key": "thumbs/kaytee-1e45b30292a5.webp"
-          }
-        },
-        {
-          "id": "kaytee-45d7a96eb5ed",
-          "name": "⚽ Suwon KT vs KoGas | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-45d7a96eb5ed.png?v=1774007271",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601325719",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601325719",
-                  "name": "Suwon KT vs KoGas",
-                  "streams": [
-                    {
-                      "id": "st-601325719",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5a58d3a0d9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd1cdc70a69_85714/index.m3u8?expire=1774606172&sign=efa774fb4eec51ee3b7de4b6ce485f1e",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/suwon-kt-vs-kogas-1700-20-03-2026/601325719"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "KBL",
-            "team_a": "Suwon KT",
-            "team_b": "KoGas",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/94854e24c2811a0de9ad2a4d4ff6dd29.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/a6eaaa3fbb4c559238e2429569526228.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-45d7a96eb5ed.png?v=1774007271",
-            "thumb_key": "thumbs/kaytee-45d7a96eb5ed.webp"
-          }
-        },
-        {
-          "id": "kaytee-211352e33387",
-          "name": "⚽ Gokulam Kerala FC vs Dempo | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-211352e33387.png?v=1774007273",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313332",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313332",
-                  "name": "Gokulam Kerala FC vs Dempo",
-                  "streams": [
-                    {
-                      "id": "st-601313332",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-209b03a1ff",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/abcfd51bd8f6b6c13e19b18efdd0cc88/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/gokulam-kerala-fc-vs-dempo-1730-20-03-2026/601313332"
+                              "value": "https://bunchatv1.net/truc-tiep/aizawl-fc-vs-diamond-harbour-fc-2000-20-03-2026/601313161"
                             },
                             {
                               "key": "User-Agent",
@@ -509,17 +95,17 @@
           ],
           "org_metadata": {
             "league": "Indian League Division 1",
-            "team_a": "Gokulam Kerala FC",
-            "team_b": "Dempo",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/de93947f56982669438acc9e0dfe8e76.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/23184d4df8fb45f4e0de26ce3a2a99c4.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-211352e33387.png?v=1774007273",
-            "thumb_key": "thumbs/kaytee-211352e33387.webp"
+            "team_a": "Aizawl FC",
+            "team_b": "Diamond Harbour FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0851c8b7fadde83f3330e2b8164837a8.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f601740eead6a4749ce13184b54f223d.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d3b43fe7f5c6.png?v=1774016954",
+            "thumb_key": "thumbs/kaytee-d3b43fe7f5c6.webp"
           }
         },
         {
-          "id": "kaytee-86b74f4f162f",
-          "name": "⚽ Dalian Yingbo FC vs Shanghai Port FC | 18:00",
+          "id": "kaytee-a39e4dbefce6",
+          "name": "⚽ Ordabasy vs Kaisar Kyzylorda | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -527,7 +113,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-86b74f4f162f.png?v=1774007274",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a39e4dbefce6.png?v=1774016955",
             "width": 1600,
             "height": 1200
           },
@@ -541,27 +127,27 @@
           ],
           "sources": [
             {
-              "id": "src-601313170",
+              "id": "src-601313323",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601313170",
-                  "name": "Dalian Yingbo FC vs Shanghai Port FC",
+                  "id": "ct-601313323",
+                  "name": "Ordabasy vs Kaisar Kyzylorda",
                   "streams": [
                     {
-                      "id": "st-601313170",
+                      "id": "st-601313323",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-327bbddead",
+                          "id": "lnk-f4d0ab19b9",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd228a70a69_73445/index.m3u8?expire=1774607626&sign=b348b2124ec8ab4f90df7f8730a985f3",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd33ea326d9_44731/index.m3u8?expire=1774612074&sign=32f70b073db293ad267e414335d83f48",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dalian-yingbo-fc-vs-shanghai-port-fc-1800-20-03-2026/601313170"
+                              "value": "https://bunchatv1.net/truc-tiep/ordabasy-vs-kaisar-kyzylorda-2000-20-03-2026/601313323"
                             },
                             {
                               "key": "User-Agent",
@@ -570,15 +156,15 @@
                           ]
                         },
                         {
-                          "id": "lnk-f010c143fd",
+                          "id": "lnk-8e0a1904ef",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://live.alilicloud.com/live/8a0b10919b5424b33187468368fd4342/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/690ed8de8403fa4f0bd698ddcadfdd43/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dalian-yingbo-fc-vs-shanghai-port-fc-1800-20-03-2026/601313170"
+                              "value": "https://bunchatv1.net/truc-tiep/ordabasy-vs-kaisar-kyzylorda-2000-20-03-2026/601313323"
                             },
                             {
                               "key": "User-Agent",
@@ -594,18 +180,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Chinese Football Super League",
-            "team_a": "Dalian Yingbo FC",
-            "team_b": "Shanghai Port FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0e5467034917e26c6e60a7162711c150.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c4e143e537412003565cdb7c2d212538.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-86b74f4f162f.png?v=1774007274",
-            "thumb_key": "thumbs/kaytee-86b74f4f162f.webp"
+            "league": "Kazakhstan Premier League",
+            "team_a": "Ordabasy",
+            "team_b": "Kaisar Kyzylorda",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/56445b7fccea061fbee0ac71cbd53a83.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/403bd68b4370ee76b7bfb01aa793fd02.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-a39e4dbefce6.png?v=1774016955",
+            "thumb_key": "thumbs/kaytee-a39e4dbefce6.webp"
           }
         },
         {
-          "id": "kaytee-7078402d1948",
-          "name": "⚽ Jiangsu Dragons vs Guangdong | 18:35",
+          "id": "kaytee-3ad4c913cc81",
+          "name": "⚽ Sogdiana Jizak vs Pakhtakor | 20:15",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -613,7 +199,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7078402d1948.png?v=1774007275",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ad4c913cc81.png?v=1774016957",
             "width": 1600,
             "height": 1200
           },
@@ -627,27 +213,44 @@
           ],
           "sources": [
             {
-              "id": "src-601325722",
+              "id": "src-601313392",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601325722",
-                  "name": "Jiangsu Dragons vs Guangdong",
+                  "id": "ct-601313392",
+                  "name": "Sogdiana Jizak vs Pakhtakor",
                   "streams": [
                     {
-                      "id": "st-601325722",
+                      "id": "st-601313392",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-038927b819",
+                          "id": "lnk-3e17a3ffbb",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2c6e70a69_145690/index.m3u8?expire=1774610158&sign=0828e8fe963bc1968287352225251c95",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd3e8870a69_79/index.m3u8?expire=1774614792&sign=6c9e8f79dcbe1046105e00b0823a5a35",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/jiangsu-dragons-vs-guangdong-1835-20-03-2026/601325722"
+                              "value": "https://bunchatv1.net/truc-tiep/sogdiana-jizak-vs-pakhtakor-2015-20-03-2026/601313392"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0e1bfd2c0d",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/4eba0854ef2da8e0b460c4eb774f903c/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sogdiana-jizak-vs-pakhtakor-2015-20-03-2026/601313392"
                             },
                             {
                               "key": "User-Agent",
@@ -663,18 +266,18 @@
             }
           ],
           "org_metadata": {
-            "league": "CBA",
-            "team_a": "Jiangsu Dragons",
-            "team_b": "Guangdong",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/f27e45dc86e63982cbbbefad9e65c6be.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d3c311fb581d8757b1b9f4b9d30e32dc.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7078402d1948.png?v=1774007275",
-            "thumb_key": "thumbs/kaytee-7078402d1948.webp"
+            "league": "Uzbekistan Super League",
+            "team_a": "Sogdiana Jizak",
+            "team_b": "Pakhtakor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0eff3f54d4407ac2e90783bc6654e657.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/78dd333913352de8fc4e8b0834636245.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3ad4c913cc81.png?v=1774016957",
+            "thumb_key": "thumbs/kaytee-3ad4c913cc81.webp"
           }
         },
         {
-          "id": "kaytee-632963e1d41c",
-          "name": "⚽ Shandong vs Tianjin | 18:35",
+          "id": "kaytee-d52db0f1386c",
+          "name": "⚽ Royal Vision vs Olympique Star | 20:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -682,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-632963e1d41c.png?v=1774007275",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d52db0f1386c.png?v=1774016958",
             "width": 1600,
             "height": 1200
           },
@@ -696,27 +299,27 @@
           ],
           "sources": [
             {
-              "id": "src-601325725",
+              "id": "src-601315480",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601325725",
-                  "name": "Shandong vs Tianjin",
+                  "id": "ct-601315480",
+                  "name": "Royal Vision vs Olympique Star",
                   "streams": [
                     {
-                      "id": "st-601325725",
+                      "id": "st-601315480",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-9e7bb95a05",
+                          "id": "lnk-81a15ee30a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2f7b70a69_138846/index.m3u8?expire=1774610939&sign=cc67cd2c26f593f83efab3fb812d99d7",
+                          "url": "https://live.alilicloud.com/live/90126d153196b4d28dfc8887ca1b3226/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/shandong-vs-tianjin-1835-20-03-2026/601325725"
+                              "value": "https://bunchatv1.net/truc-tiep/royal-vision-vs-olympique-star-2030-20-03-2026/601315480"
                             },
                             {
                               "key": "User-Agent",
@@ -732,18 +335,18 @@
             }
           ],
           "org_metadata": {
-            "league": "CBA",
-            "team_a": "Shandong",
-            "team_b": "Tianjin",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/e50bcd068875d5e261edc40941ad95a5.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/90b1968cc5c0dceca92fbda0233678e6.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-632963e1d41c.png?v=1774007275",
-            "thumb_key": "thumbs/kaytee-632963e1d41c.webp"
+            "league": "Burundi Premier League",
+            "team_a": "Royal Vision",
+            "team_b": "Olympique Star",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a458c2e8bd9beb250e93990ec62ceb8d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/1d05ed145c2dcd5ed931b4060674a80c.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d52db0f1386c.png?v=1774016958",
+            "thumb_key": "thumbs/kaytee-d52db0f1386c.webp"
           }
         },
         {
-          "id": "kaytee-0f22d29f114c",
-          "name": "⚽ Zhejiang Guangsha vs Beijing Royal Fighters | 18:35",
+          "id": "kaytee-0718f4330b6a",
+          "name": "⚽ Mohun Bagan Super Giant vs Mumbai City FC | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -751,7 +354,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0f22d29f114c.png?v=1774007276",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0718f4330b6a.png?v=1774016959",
             "width": 1600,
             "height": 1200
           },
@@ -765,27 +368,44 @@
           ],
           "sources": [
             {
-              "id": "src-601325728",
+              "id": "src-601313350",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601325728",
-                  "name": "Zhejiang Guangsha vs Beijing Royal Fighters",
+                  "id": "ct-601313350",
+                  "name": "Mohun Bagan Super Giant vs Mumbai City FC",
                   "streams": [
                     {
-                      "id": "st-601325728",
+                      "id": "st-601313350",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-ad850a3285",
+                          "id": "lnk-4a5c7ea5da",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd2ebf326d9_85706/index.m3u8?expire=1774610751&sign=8c2a9172d524bd017b5129ed8ee2923a",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd5246326d9_85514/index.m3u8?expire=1774619846&sign=c58316e5cae1845bb5a3fe05d951ac63",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/zhejiang-guangsha-vs-beijing-royal-fighters-1835-20-03-2026/601325728"
+                              "value": "https://bunchatv1.net/truc-tiep/mohun-bagan-super-giant-vs-mumbai-city-fc--2100-20-03-2026/601313350"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-42dfc0bfd6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a38e13a10f304a7fdd1245fbf8f0394d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/mohun-bagan-super-giant-vs-mumbai-city-fc--2100-20-03-2026/601313350"
                             },
                             {
                               "key": "User-Agent",
@@ -801,96 +421,96 @@
             }
           ],
           "org_metadata": {
-            "league": "CBA",
-            "team_a": "Zhejiang Guangsha",
-            "team_b": "Beijing Royal Fighters",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/80d5807666696ea76ce8fd77e21e58c0.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/690b75e84eae0109a09dd80edba8b339.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0f22d29f114c.png?v=1774007276",
-            "thumb_key": "thumbs/kaytee-0f22d29f114c.webp"
+            "league": "Indian Super League",
+            "team_a": "Mohun Bagan Super Giant",
+            "team_b": "Mumbai City FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/94f4b5c04d9b9d9e41c9d0cdabbb9e21.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e1389bf32867c3b93e09fc194cb545d8.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-0718f4330b6a.png?v=1774016959",
+            "thumb_key": "thumbs/kaytee-0718f4330b6a.webp"
+          }
+        },
+        {
+          "id": "kaytee-64b3e37c167c",
+          "name": "⚽ LPB Ninh Bình vs Thể Công Tân Cảng | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-64b3e37c167c.png?v=1774016968",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601325521",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601325521",
+                  "name": "LPB Ninh Bình vs Thể Công Tân Cảng",
+                  "streams": [
+                    {
+                      "id": "st-601325521",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-af2ec30417",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd45b5326d9_88642/index.m3u8?expire=1774616629&sign=4a1fc8237dc5940851555b5b733f863c",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lpb-ninh-binh-vs-the-cong-tan-cang-2100-20-03-2026/601325521"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026 - Nam",
+            "team_a": "LPB Ninh Bình",
+            "team_b": "Thể Công Tân Cảng",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/9293c85e50108a0acdf51897531398f0.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-64b3e37c167c.png?v=1774016968",
+            "thumb_key": "thumbs/kaytee-64b3e37c167c.webp"
           }
         }
       ]
     },
     {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
+      "id": "upcoming_cầu_lông",
+      "name": "⏳ Sắp Live 🏸 Cầu Lông",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5c47bf1a5734",
-          "name": "🏸 Sumire NAKADE /  Miyu TAKAHASHI vs Lauren LAM /  Allison Quynh LEE | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5c47bf1a5734.png?v=1774007270",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601326601",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601326601",
-                  "name": "Sumire NAKADE /  Miyu TAKAHASHI vs Lauren LAM /  Allison Quynh LEE",
-                  "streams": [
-                    {
-                      "id": "st-601326601",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-333b2282e1",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&sign=2bcc79997403b8c73ddb04d48c4eef54",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sumire-nakade---miyu-takahashi-vs-lauren-lam---allison-quynh-lee-1700-20-03-2026/601326601"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Sumire NAKADE /  Miyu TAKAHASHI",
-            "team_b": "Lauren LAM /  Allison Quynh LEE",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/d76a67ece12ce728601c01ece19bec0e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5c47bf1a5734.png?v=1774007270",
-            "thumb_key": "thumbs/kaytee-5c47bf1a5734.webp"
-          }
-        },
-        {
           "id": "kaytee-e97a42c4686a",
-          "name": "🏸 Nozomi OKUHARA vs Nguyễn Thùy Linh | 17:30",
+          "name": "🏸 Isharani BARUAH vs Malvika BANSOD | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -898,16 +518,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774007271",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774016969",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Sắp Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
@@ -917,7 +537,7 @@
               "contents": [
                 {
                   "id": "ct-601326820",
-                  "name": "Nozomi OKUHARA vs Nguyễn Thùy Linh",
+                  "name": "Isharani BARUAH vs Malvika BANSOD",
                   "streams": [
                     {
                       "id": "st-601326820",
@@ -932,7 +552,7 @@
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/nozomi-okuhara-vs-nguyen-thuy-linh-1730-20-03-2026/601326820"
+                              "value": "https://bunchatv1.net/truc-tiep/isharani-baruah-vs-malvika-bansod-2300-20-03-2026/601326820"
                             },
                             {
                               "key": "User-Agent",
@@ -949,12 +569,81 @@
           ],
           "org_metadata": {
             "league": "Sân 2 - Orleans Masters Badminton 2026",
-            "team_a": "Nozomi OKUHARA",
-            "team_b": "Nguyễn Thùy Linh",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/c68fb073199e692bf44b0fe2a3d2eb83.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/665a2b534a0a474142896ee2e1e73ad7.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774007271",
+            "team_a": "Isharani BARUAH",
+            "team_b": "Malvika BANSOD",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/32b86b756560858db719ea1015c69b60.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b657f9ca94a1b2e33d85fb865607f361.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-e97a42c4686a.png?v=1774016969",
             "thumb_key": "thumbs/kaytee-e97a42c4686a.webp"
+          }
+        },
+        {
+          "id": "kaytee-5c47bf1a5734",
+          "name": "🏸 Pitchamon OPATNIPUTH vs Riko GUNJI | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5c47bf1a5734.png?v=1774016970",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601326601",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601326601",
+                  "name": "Pitchamon OPATNIPUTH vs Riko GUNJI",
+                  "streams": [
+                    {
+                      "id": "st-601326601",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-333b2282e1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bd194970a69_142210/index.m3u8?expire=1774605257&sign=2bcc79997403b8c73ddb04d48c4eef54",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pitchamon-opatniputh-vs-riko-gunji-2300-20-03-2026/601326601"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Sân 1 - Orleans Masters Badminton 2026",
+            "team_a": "Pitchamon OPATNIPUTH",
+            "team_b": "Riko GUNJI",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/d7a14d64e4da3ddaed23b91ee57f1ba9.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/800ba46323707241529172b020986363.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5c47bf1a5734.png?v=1774016970",
+            "thumb_key": "thumbs/kaytee-5c47bf1a5734.webp"
           }
         }
       ]
