@@ -8,6 +8,318 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-19T23:58:22.510773",
-  "groups": []
+  "updated_at": "2026-03-20T05:08:56.737895",
+  "groups": [
+    {
+      "id": "live_bóng_đá",
+      "name": "🔴 Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-b967b3de3f96",
+          "name": "⚽ Briobecca Urayasu vs Yokogawa Musashino FC | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983330",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315441",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601315441",
+                  "name": "Briobecca Urayasu vs Yokogawa Musashino FC",
+                  "streams": [
+                    {
+                      "id": "st-601315441",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e4c5239aff",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2362444ddf4ceb41cfa11bceca1529f9/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/briobecca-urayasu-vs-yokogawa-musashino-fc-1100-20-03-2026/601315441"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese Football League",
+            "team_a": "Briobecca Urayasu",
+            "team_b": "Yokogawa Musashino FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/7d932dfc6184b11de923cff4501fee01.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e2473e30597b13682634eee883fc7799.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b967b3de3f96.png?v=1773983330",
+            "thumb_key": "thumbs/kaytee-b967b3de3f96.webp"
+          }
+        },
+        {
+          "id": "kaytee-f4c221ed5029",
+          "name": "⚽ Verspah Oita vs Maruyasu Okazaki | 11:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983332",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601315444",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601315444",
+                  "name": "Verspah Oita vs Maruyasu Okazaki",
+                  "streams": [
+                    {
+                      "id": "st-601315444",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-12233c8554",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/91b2c0d55bd65dbec65fd93e8a37b071/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/verspah-oita-vs-maruyasu-okazaki-1100-20-03-2026/601315444"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japanese Football League",
+            "team_a": "Verspah Oita",
+            "team_b": "Maruyasu Okazaki",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/778a55c75fcc204d5bb048507d47b94d.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5e9c5787e22ccc293bd023543dc8ec7f.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f4c221ed5029.png?v=1773983332",
+            "thumb_key": "thumbs/kaytee-f4c221ed5029.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-254cd8a9f154",
+          "name": "⚽ Albirex Niigata vs Kataller Toyama | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983334",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313038",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601313038",
+                  "name": "Albirex Niigata vs Kataller Toyama",
+                  "streams": [
+                    {
+                      "id": "st-601313038",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae94a21f6a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcca4970a69_133172/index.m3u8?expire=1774585033&sign=8011517837f87da804f5bcab5ce62ce9",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/albirex-niigata-vs-kataller-toyama-1200-20-03-2026/601313038"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Albirex Niigata",
+            "team_b": "Kataller Toyama",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/a4bfaa33f9e24bdb4a4952a0b4aab142.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-254cd8a9f154.png?v=1773983334",
+            "thumb_key": "thumbs/kaytee-254cd8a9f154.webp"
+          }
+        },
+        {
+          "id": "kaytee-6c85c4abf63b",
+          "name": "⚽ Thespa Kusatsu Gunma vs Shonan Bellmare | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983336",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601313041",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601313041",
+                  "name": "Thespa Kusatsu Gunma vs Shonan Bellmare",
+                  "streams": [
+                    {
+                      "id": "st-601313041",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-536ae072bc",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bcd12070a69_103/index.m3u8?expire=1774586784&sign=eda9bca3706192396e695a3b7e6dc778",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026/601313041"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dbe5ed8e70",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/a13f100d41d1b09ff1f3c8460897607f/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/thespa-kusatsu-gunma-vs-shonan-bellmare-1200-20-03-2026/601313041"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "J2/J3 100 Year Vision League",
+            "team_a": "Thespa Kusatsu Gunma",
+            "team_b": "Shonan Bellmare",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/0a999ff8b768f0b5efb87511dc863265.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/d66d58c237a45ea74399342c59a8d8be.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6c85c4abf63b.png?v=1773983336",
+            "thumb_key": "thumbs/kaytee-6c85c4abf63b.webp"
+          }
+        }
+      ]
+    }
+  ]
 }
