@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-21T07:11:20.485955",
+  "updated_at": "2026-03-21T07:57:50.712479",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -18,8 +18,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-3370f102148e",
-          "name": "⚽ Goyang Sono vs Mobis Phoebus | 12:00",
+          "id": "kaytee-4a286e8dcc78",
+          "name": "⚽ UNSW FC (W) vs Illawarra Stingrays (w) | 13:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -27,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3370f102148e.png?v=1774077075",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4a286e8dcc78.png?v=1774079852",
             "width": 1600,
             "height": 1200
           },
@@ -41,27 +41,27 @@
           ],
           "sources": [
             {
-              "id": "src-601327162",
+              "id": "src-601315453",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601327162",
-                  "name": "Goyang Sono vs Mobis Phoebus",
+                  "id": "ct-601315453",
+                  "name": "UNSW FC (W) vs Illawarra Stingrays (w)",
                   "streams": [
                     {
-                      "id": "st-601327162",
+                      "id": "st-601315453",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b9aad2e0c2",
+                          "id": "lnk-bc4f43228e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be23f470a6a_112310/index.m3u8?expire=1774673524&sign=b1eba7c9752db49130fb573e38b95fca",
+                          "url": "https://live.alilicloud.com/live/86fa4a806eafb123d7395965105cfd06/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/goyang-sono-vs-mobis-phoebus-1200-21-03-2026/601327162"
+                              "value": "https://bunchatv1.net/truc-tiep/unsw-fc-w-vs-illawarra-stingrays-w-1300-21-03-2026/601315453"
                             },
                             {
                               "key": "User-Agent",
@@ -77,18 +77,18 @@
             }
           ],
           "org_metadata": {
-            "league": "KBL",
-            "team_a": "Goyang Sono",
-            "team_b": "Mobis Phoebus",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3e598258677ca4b7970d21e7f5f18ac2.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/b814ce70c0c5eb15558f84011e8012da.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-3370f102148e.png?v=1774077075",
-            "thumb_key": "thumbs/kaytee-3370f102148e.webp"
+            "league": "Australia New South Wales Women's League",
+            "team_a": "UNSW FC (W)",
+            "team_b": "Illawarra Stingrays (w)",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/75bf136c336015d3adb291a238ea039e.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/dd8bc60a2465acd71c5975a879a9df5b.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4a286e8dcc78.png?v=1774079852",
+            "thumb_key": "thumbs/kaytee-4a286e8dcc78.webp"
           }
         },
         {
-          "id": "kaytee-bea87dc8f2bd",
-          "name": "⚽ Avispa Fukuoka vs Gamba Osaka | 12:30",
+          "id": "kaytee-4ffcbdaa87b8",
+          "name": "⚽ Perth Glory Women vs Central Coast Mariners women | 13:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -96,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bea87dc8f2bd.png?v=1774077075",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4ffcbdaa87b8.png?v=1774079854",
             "width": 1600,
             "height": 1200
           },
@@ -110,44 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316344",
+              "id": "src-601316350",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601316344",
-                  "name": "Avispa Fukuoka vs Gamba Osaka",
+                  "id": "ct-601316350",
+                  "name": "Perth Glory Women vs Central Coast Mariners women",
                   "streams": [
                     {
-                      "id": "st-601316344",
+                      "id": "st-601316350",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-570f97b9a9",
+                          "id": "lnk-3f36121f53",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69be272e326d9_85514/index.m3u8?expire=1774674350&sign=aa0fa62cc6216e7ebbbc59e6d6e702ed",
+                          "url": "https://live.alilicloud.com/live/9fda263f80d0efb3234f1f2ed795d6fc/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/avispa-fukuoka-vs-gamba-osaka-1230-21-03-2026/601316344"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-666c745631",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/a395211bfbbd26dcf3bb0b466d8d3b53/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/avispa-fukuoka-vs-gamba-osaka-1230-21-03-2026/601316344"
+                              "value": "https://bunchatv1.net/truc-tiep/perth-glory-women-vs-central-coast-mariners-women-1300-21-03-2026/601316350"
                             },
                             {
                               "key": "User-Agent",
@@ -163,18 +146,18 @@
             }
           ],
           "org_metadata": {
-            "league": "Japanese J1 League",
-            "team_a": "Avispa Fukuoka",
-            "team_b": "Gamba Osaka",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/91008a96b5de8c75376d17057f89890e.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bea87dc8f2bd.png?v=1774077075",
-            "thumb_key": "thumbs/kaytee-bea87dc8f2bd.webp"
+            "league": "Australia W-League",
+            "team_a": "Perth Glory Women",
+            "team_b": "Central Coast Mariners women",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/bb0af557092493a7ef9f5f3f0590e13b.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/55233b8d9e0c1a7348ec42d02a2bd219.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4ffcbdaa87b8.png?v=1774079854",
+            "thumb_key": "thumbs/kaytee-4ffcbdaa87b8.webp"
           }
         },
         {
-          "id": "kaytee-149f2db9fa8f",
-          "name": "⚽ Glenorchy Knights FC vs South East United FC | 12:45",
+          "id": "kaytee-962a49fc11b8",
+          "name": "⚽ Ipswich City vs Brisbane Strikers | 13:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -182,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-149f2db9fa8f.png?v=1774077076",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-962a49fc11b8.png?v=1774079856",
             "width": 1600,
             "height": 1200
           },
@@ -196,27 +179,27 @@
           ],
           "sources": [
             {
-              "id": "src-601316347",
+              "id": "src-601316353",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601316347",
-                  "name": "Glenorchy Knights FC vs South East United FC",
+                  "id": "ct-601316353",
+                  "name": "Ipswich City vs Brisbane Strikers",
                   "streams": [
                     {
-                      "id": "st-601316347",
+                      "id": "st-601316353",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-bf81666dc0",
+                          "id": "lnk-3b715c886e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/68aa1fd43b2013e7dcd71210a98824d6/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/c1f3d04d38353277afbda5ef816594fb/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/glenorchy-knights-fc-vs-south-east-united-fc-1245-21-03-2026/601316347"
+                              "value": "https://bunchatv1.net/truc-tiep/ipswich-city-vs-brisbane-strikers-1300-21-03-2026/601316353"
                             },
                             {
                               "key": "User-Agent",
@@ -232,151 +215,13 @@
             }
           ],
           "org_metadata": {
-            "league": "Australia Tasmania National Premier League",
-            "team_a": "Glenorchy Knights FC",
-            "team_b": "South East United FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cc4fb9d6d32a8622e01db1f04536ff3c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/d05a97ad4d50996a568f5b884b29e317.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-149f2db9fa8f.png?v=1774077076",
-            "thumb_key": "thumbs/kaytee-149f2db9fa8f.webp"
-          }
-        },
-        {
-          "id": "kaytee-08726434137f",
-          "name": "⚽ Brisbane City (w) vs Brisbane Olympic (w) | 12:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-08726434137f.png?v=1774077076",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601324804",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601324804",
-                  "name": "Brisbane City (w) vs Brisbane Olympic (w)",
-                  "streams": [
-                    {
-                      "id": "st-601324804",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9bdeb4dc88",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/4b800df23d07eb5b9b2d655e251e6f27/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/brisbane-city-w-vs-brisbane-olympic-w-1245-21-03-2026/601324804"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Queensland State Women's League",
-            "team_a": "Brisbane City (w)",
-            "team_b": "Brisbane Olympic (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/997c0fee81e7a7889079c730e52e4692.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/2519e017f6c267cf0fd8208c0d37a2ff.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-08726434137f.png?v=1774077076",
-            "thumb_key": "thumbs/kaytee-08726434137f.webp"
-          }
-        },
-        {
-          "id": "kaytee-451a1983d438",
-          "name": "⚽ Essendon Royals (W) vs Avondale FC (w) | 13:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-451a1983d438.png?v=1774077078",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601313050",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601313050",
-                  "name": "Essendon Royals (W) vs Avondale FC (w)",
-                  "streams": [
-                    {
-                      "id": "st-601313050",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e2f9506571",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c869a64d8c2e52ffe3813be82ab7b987/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/essendon-royals-w-vs-avondale-fc-w-1300-21-03-2026/601313050"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia Victorian Women's Premier League",
-            "team_a": "Essendon Royals (W)",
-            "team_b": "Avondale FC (w)",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/3137227e584e6b35dc3f662b4946b074.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/89471a940cef200c717e39893452d8b9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-451a1983d438.png?v=1774077078",
-            "thumb_key": "thumbs/kaytee-451a1983d438.webp"
+            "league": "Australia Queensland State League 1",
+            "team_a": "Ipswich City",
+            "team_b": "Brisbane Strikers",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/dd862973fbf229b051221b037f67a27c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f1f3a4f8b4282307b442bba5bad12a20.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-962a49fc11b8.png?v=1774079856",
+            "thumb_key": "thumbs/kaytee-962a49fc11b8.webp"
           }
         },
         {
@@ -389,7 +234,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-22ae582f608b.png?v=1774077078",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-22ae582f608b.png?v=1774079860",
             "width": 1600,
             "height": 1200
           },
@@ -461,7 +306,7 @@
             "team_b": "Central Coast Mariners",
             "logo_a": "https://cdn.rapid-api.icu/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/4295d4c9acc95550f5a4360f0ba0d93f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-22ae582f608b.png?v=1774077078",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-22ae582f608b.png?v=1774079860",
             "thumb_key": "thumbs/kaytee-22ae582f608b.webp"
           }
         },
@@ -475,7 +320,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6644ce2963f0.png?v=1774077079",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6644ce2963f0.png?v=1774079862",
             "width": 1600,
             "height": 1200
           },
@@ -547,7 +392,7 @@
             "team_b": "Manly United",
             "logo_a": "https://cdn.rapid-api.icu/football/team/41cd928a2816821bdb7995c3ea6031a6.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/0c6ea7bc3792dac98ed3378cd2865c0a.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6644ce2963f0.png?v=1774077079",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-6644ce2963f0.png?v=1774079862",
             "thumb_key": "thumbs/kaytee-6644ce2963f0.webp"
           }
         },
@@ -561,7 +406,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bfadaa720e98.png?v=1774077079",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bfadaa720e98.png?v=1774079864",
             "width": 1600,
             "height": 1200
           },
@@ -633,7 +478,7 @@
             "team_b": "Western Sydney Wanderers AM",
             "logo_a": "https://cdn.rapid-api.icu/football/team/d4a819a35678fd3d1c1f3e45c16f00b5.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/d287684146235d2fddb92f71d78fba02.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bfadaa720e98.png?v=1774077079",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-bfadaa720e98.png?v=1774079864",
             "thumb_key": "thumbs/kaytee-bfadaa720e98.webp"
           }
         },
@@ -647,7 +492,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c6f16ddc9585.png?v=1774077080",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c6f16ddc9585.png?v=1774079869",
             "width": 1600,
             "height": 1200
           },
@@ -702,8 +547,319 @@
             "team_b": "Xi măng Long Sơn Thanh Hóa",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/6a31635aa13b7572065e382bb5fce8bd.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/e35ae9330db5de3a7a5c033d1b084619.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c6f16ddc9585.png?v=1774077080",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-c6f16ddc9585.png?v=1774079869",
             "thumb_key": "thumbs/kaytee-c6f16ddc9585.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_rổ",
+      "name": "🔴 Live 🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-d2366b08b38d",
+          "name": "🏀 Broadmeadow Magic vs Belmont Swansea United SC | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d2366b08b38d.png?v=1774079858",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316368",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601316368",
+                  "name": "Broadmeadow Magic vs Belmont Swansea United SC",
+                  "streams": [
+                    {
+                      "id": "st-601316368",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-af4a40449a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/6e3bc7cfae6eb75a2097461f7948c5e9/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/broadmeadow-magic-vs-belmont-swansea-united-sc-1300-21-03-2026/601316368"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia Northern New South Wales Premier League",
+            "team_a": "Broadmeadow Magic",
+            "team_b": "Belmont Swansea United SC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/4f0ff310b253f34bfd414c5b2502082c.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/7affb38b4397f603e686f9a696e668a6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d2366b08b38d.png?v=1774079858",
+            "thumb_key": "thumbs/kaytee-d2366b08b38d.webp"
+          }
+        },
+        {
+          "id": "kaytee-8e7c93b3d5b0",
+          "name": "🏀 Spirit FC vs Rockdale City Suns | 13:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8e7c93b3d5b0.png?v=1774079866",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601316383",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601316383",
+                  "name": "Spirit FC vs Rockdale City Suns",
+                  "streams": [
+                    {
+                      "id": "st-601316383",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-efa6057dcb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be330070a6a_28/index.m3u8?expire=1774677376&sign=56b82137c8e8751fae0794643362fa02",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/spirit-fc-vs-rockdale-city-suns-1330-21-03-2026/601316383"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f8f3df15ea",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/98b8d19ee199d2dc259144f5610b6f3d/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/spirit-fc-vs-rockdale-city-suns-1330-21-03-2026/601316383"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia New South Wales Premier League",
+            "team_a": "Spirit FC",
+            "team_b": "Rockdale City Suns",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/22f0cc669b7a84a3b61e27dbb57cb139.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e811c8feb7f55ae2b6fea9ed20c96374.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-8e7c93b3d5b0.png?v=1774079866",
+            "thumb_key": "thumbs/kaytee-8e7c93b3d5b0.webp"
+          }
+        },
+        {
+          "id": "kaytee-034f3baceaae",
+          "name": "🏀 KCC Egis vs Seoul Thunders | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-034f3baceaae.png?v=1774079870",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601327165",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601327165",
+                  "name": "KCC Egis vs Seoul Thunders",
+                  "streams": [
+                    {
+                      "id": "st-601327165",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-df2f4acd00",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be452a326d9_145690/index.m3u8?expire=1774682026&sign=f866808b133f2ec06bda8e11a8d7f7ed",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/kcc-egis-vs-seoul-thunders-1430-21-03-2026/601327165"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "KBL",
+            "team_a": "KCC Egis",
+            "team_b": "Seoul Thunders",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/86532c33f37fb33686a09815b3d6b9c6.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/619420e599f83b1d3616d9faf5397e4e.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-034f3baceaae.png?v=1774079870",
+            "thumb_key": "thumbs/kaytee-034f3baceaae.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-cc3b6682e554",
+          "name": "⚽ Sydney vs Adelaide | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cc3b6682e554.png?v=1774079870",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601328467",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601328467",
+                  "name": "Sydney vs Adelaide",
+                  "streams": [
+                    {
+                      "id": "st-601328467",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a85d30a3f1",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69be4a1170a6a_112310/index.m3u8?expire=1774683281&sign=2da3106f46406dfe0269690c1563c15d",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/sydney-vs-adelaide-1500-21-03-2026/601328467"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Sydney",
+            "team_b": "Adelaide",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/a6d2abd5c2c08a2e7ffb0dafb533d1d7.png",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/21f9c0700d2402e93d4a9c49bd4854e7.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-cc3b6682e554.png?v=1774079870",
+            "thumb_key": "thumbs/kaytee-cc3b6682e554.webp"
           }
         }
       ]
