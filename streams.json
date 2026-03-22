@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-22T10:59:36.893599",
+  "updated_at": "2026-03-22T11:48:28.223086",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,282 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-d36604d80637",
-          "name": "⚽ Dynamic Herb Cebu vs Aguilas-UMak FC | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d36604d80637.png?v=1774177164",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320268",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601320268",
-                  "name": "Dynamic Herb Cebu vs Aguilas-UMak FC",
-                  "streams": [
-                    {
-                      "id": "st-601320268",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07c4a3f793",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/2d218b0cc062567c4d1176d3c566bf02/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/dynamic-herb-cebu-vs-aguilasumak-fc-1600-22-03-2026/601320268"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Philippines United Football League",
-            "team_a": "Dynamic Herb Cebu",
-            "team_b": "Aguilas-UMak FC",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/282622540694b98c5ab0110781d9afe4.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/3b57ab2d85236c9e0df11abcbf400a05.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d36604d80637.png?v=1774177164",
-            "thumb_key": "thumbs/kaytee-d36604d80637.webp"
-          }
-        },
-        {
-          "id": "kaytee-f20b8673e6c6",
-          "name": "⚽ Metalurh Zaporizhya vs FC Vorskla Poltava | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f20b8673e6c6.png?v=1774177166",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601321312",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601321312",
-                  "name": "Metalurh Zaporizhya vs FC Vorskla Poltava",
-                  "streams": [
-                    {
-                      "id": "st-601321312",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3fb271c8b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/741a3a65c71f8a68aab20b25e7971461/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/metalurh-zaporizhya-vs-fc-vorskla-poltava-1600-22-03-2026/601321312"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ukrainian First League",
-            "team_a": "Metalurh Zaporizhya",
-            "team_b": "FC Vorskla Poltava",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/9d1eb4ac148e20c42051eb9900d36525.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/c2f0bf5d13208beb3438146db6e97867.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f20b8673e6c6.png?v=1774177166",
-            "thumb_key": "thumbs/kaytee-f20b8673e6c6.webp"
-          }
-        },
-        {
-          "id": "kaytee-98dd73ef19ae",
-          "name": "⚽ FC Asiagoal vs OshMU Aldier | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-98dd73ef19ae.png?v=1774177168",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601329016",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601329016",
-                  "name": "FC Asiagoal vs OshMU Aldier",
-                  "streams": [
-                    {
-                      "id": "st-601329016",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19b80cbccd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/0c86dd0ae9586e2b1a7c5414a27c13d0/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/fc-asiagoal-vs-oshmu-aldier-1600-22-03-2026/601329016"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Kyrgyz Premier League",
-            "team_a": "FC Asiagoal",
-            "team_b": "OshMU Aldier",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/0af12c5f3b1feee1eedef570e43a0f18.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/a75148f2e6e835fe7c58ecd9d8825664.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-98dd73ef19ae.png?v=1774177168",
-            "thumb_key": "thumbs/kaytee-98dd73ef19ae.webp"
-          }
-        },
-        {
-          "id": "kaytee-371d4aad26ff",
-          "name": "⚽ Bohemians1905 B vs SK Kladno | 16:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-371d4aad26ff.png?v=1774177170",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601317934",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601317934",
-                  "name": "Bohemians1905 B vs SK Kladno",
-                  "streams": [
-                    {
-                      "id": "st-601317934",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4980f716be",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/c904562604c6a4b2a70ebffa2a93a012/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/bohemians1905-b-vs-sk-kladno-1615-22-03-2026/601317934"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Czech Third League",
-            "team_a": "Bohemians1905 B",
-            "team_b": "SK Kladno",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/cab65c911a419976ff0a80e0b091909f.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/e9fb95d30e6993e9fa5b07642b675424.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-371d4aad26ff.png?v=1774177170",
-            "thumb_key": "thumbs/kaytee-371d4aad26ff.webp"
-          }
-        },
         {
           "id": "kaytee-fdc6ff25a3be",
           "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
@@ -303,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774177173",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774180096",
             "width": 1600,
             "height": 1200
           },
@@ -344,23 +68,6 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-f05fd6d58b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://live.alilicloud.com/live/af4a0ed2661b9c190f484df70ccad337/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -375,7 +82,7 @@
             "team_b": "Sariyer",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774177173",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774180096",
             "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
           }
         },
@@ -389,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774177174",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774180098",
             "width": 1600,
             "height": 1200
           },
@@ -461,22 +168,13 @@
             "team_b": "Amedspor",
             "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774177174",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774180098",
             "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_bóng_rổ",
-      "name": "🔴 Live 🏀 Bóng Rổ",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "kaytee-866250b2caf1",
-          "name": "🏀 Binh chủng Thông tin vs Vietinbank | 16:00",
+          "id": "kaytee-eeafdc2aff67",
+          "name": "⚽ PFK Montana vs Beroe Stara Zagora | 17:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -484,7 +182,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-866250b2caf1.png?v=1774177162",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180099",
             "width": 1600,
             "height": 1200
           },
@@ -498,27 +196,44 @@
           ],
           "sources": [
             {
-              "id": "src-601329037",
+              "id": "src-601320334",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601329037",
-                  "name": "Binh chủng Thông tin vs Vietinbank",
+                  "id": "ct-601320334",
+                  "name": "PFK Montana vs Beroe Stara Zagora",
                   "streams": [
                     {
-                      "id": "st-601329037",
+                      "id": "st-601320334",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-822b11f13c",
+                          "id": "lnk-8c6eeb9ed1",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfaf8f70a6a_128756/index.m3u8?expire=1774774799&sign=dfa430dd8a15dbca17d1cf172f310659",
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc1bd326da_73445/index.m3u8?expire=1774779453&sign=6f95a445eec49d0be58e8cb2cfd8c054",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/binh-chung-thong-tin-vs-vietinbank-1600-22-03-2026/601329037"
+                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-beroe-stara-zagora-1730-22-03-2026/601320334"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-27b51a2fde",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/f579c730cc9066585d51a906de08c34b/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/pfk-montana-vs-beroe-stara-zagora-1730-22-03-2026/601320334"
                             },
                             {
                               "key": "User-Agent",
@@ -534,102 +249,15 @@
             }
           ],
           "org_metadata": {
-            "league": "Cúp Hoa Lư 2026 - Nữ",
-            "team_a": "Binh chủng Thông tin",
-            "team_b": "Vietinbank",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/97cd4764d37f6693055ec3664f378222.jpg",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-866250b2caf1.png?v=1774177162",
-            "thumb_key": "thumbs/kaytee-866250b2caf1.webp"
+            "league": "Bulgarian First League",
+            "team_a": "PFK Montana",
+            "team_b": "Beroe Stara Zagora",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/555ed40ede7fc6f2879993bc058fb8ac.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/197710e96433ca507120d5fc3ebfbc58.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-eeafdc2aff67.png?v=1774180099",
+            "thumb_key": "thumbs/kaytee-eeafdc2aff67.webp"
           }
-        }
-      ]
-    },
-    {
-      "id": "live_cầu_lông",
-      "name": "🔴 Live 🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-4436e5de9354",
-          "name": "🏸 Sumire NAKADE /  Miyu TAKAHASHI vs LIN Chih-Chun /  YANG Chu Yun | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774177171",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601329085",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601329085",
-                  "name": "Sumire NAKADE /  Miyu TAKAHASHI vs LIN Chih-Chun /  YANG Chu Yun",
-                  "streams": [
-                    {
-                      "id": "st-601329085",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a4d5af3e6",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbc1970a6a_18754/index.m3u8?expire=1774778009&sign=ac66b04e54890a06c5537212f495ce64",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/sumire-nakade---miyu-takahashi-vs-lin-chihchun---yang-chu-yun-1700-22-03-2026/601329085"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Orleans Masters Badminton 2026",
-            "team_a": "Sumire NAKADE /  Miyu TAKAHASHI",
-            "team_b": "LIN Chih-Chun /  YANG Chu Yun",
-            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
-            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774177171",
-            "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
           "id": "kaytee-7c16286e2355",
           "name": "⚽ SHB Da Nang vs Cong An Ha Noi FC | 18:00",
@@ -640,16 +268,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c16286e2355.png?v=1774177176",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c16286e2355.png?v=1774180103",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -681,6 +309,23 @@
                               "value": "Mozilla/5.0"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-863e6f32e4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/c979099cd6dc732f77901e16d7a1d6e7/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-cong-an-ha-noi-fc-1800-22-03-2026/601320472"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -695,8 +340,328 @@
             "team_b": "Cong An Ha Noi FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c16286e2355.png?v=1774177176",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c16286e2355.png?v=1774180103",
             "thumb_key": "thumbs/kaytee-7c16286e2355.webp"
+          }
+        },
+        {
+          "id": "kaytee-59db0c651d96",
+          "name": "⚽ LPB Ninh Bình vs Công an TPHCM | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-59db0c651d96.png?v=1774180106",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601329034",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601329034",
+                  "name": "LPB Ninh Bình vs Công an TPHCM",
+                  "streams": [
+                    {
+                      "id": "st-601329034",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad8a87865b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfce62326da_128756/index.m3u8?expire=1774782690&sign=d6cdea99cca64b3cb3461149ed5d4195",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/lpb-ninh-binh-vs-cong-an-tphcm-1830-22-03-2026/601329034"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoa Lư 2026 - Nam",
+            "team_a": "LPB Ninh Bình",
+            "team_b": "Công an TPHCM",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/1cba7cb1c7477b57e50a66aa4d9bb5d6.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/64be5559beb034d8ac9a377b49ef9380.jpg",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-59db0c651d96.png?v=1774180106",
+            "thumb_key": "thumbs/kaytee-59db0c651d96.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4436e5de9354",
+          "name": "🏸 HU Ke Yuan / LIN Xiang Yi vs Hiroki OKAMURA/Kyohei YAMASHITA | 18:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774180106",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601329085",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601329085",
+                  "name": "HU Ke Yuan / LIN Xiang Yi vs Hiroki OKAMURA/Kyohei YAMASHITA",
+                  "streams": [
+                    {
+                      "id": "st-601329085",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a4d5af3e6",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbc1970a6a_18754/index.m3u8?expire=1774778009&sign=ac66b04e54890a06c5537212f495ce64",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/hu-ke-yuan--lin-xiang-yi-vs-hiroki-okamurakyohei-yamashita-1815-22-03-2026/601329085"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Orleans Masters Badminton 2026",
+            "team_a": "HU Ke Yuan / LIN Xiang Yi",
+            "team_b": "Hiroki OKAMURA/Kyohei YAMASHITA",
+            "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/3d945d9c62b179fa7c3037dd3e0d21af.jpg",
+            "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/22c90bf8e03b1e014c1e8b38aa8e939f.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774180106",
+            "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "live_bóng_bàn",
+      "name": "🔴 Live 🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-5e794cfcf717",
+          "name": "🏓 Harju JK Laagri vs FC Flora Tallinn | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5e794cfcf717.png?v=1774180101",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320337",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601320337",
+                  "name": "Harju JK Laagri vs FC Flora Tallinn",
+                  "streams": [
+                    {
+                      "id": "st-601320337",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a4ada16f49",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/2993edf77deff2b99b10ebd34b86bf64/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/harju-jk-laagri-vs-fc-flora-tallinn-1730-22-03-2026/601320337"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Estonian Premium Liiga",
+            "team_a": "Harju JK Laagri",
+            "team_b": "FC Flora Tallinn",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/af5fce895d7dd7c7344204174b071bc1.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-5e794cfcf717.png?v=1774180101",
+            "thumb_key": "thumbs/kaytee-5e794cfcf717.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-62b3fcad7e82",
+          "name": "⚽ Newcastle United vs Sunderland | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180108",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320550",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601320550",
+                  "name": "Newcastle United vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-601320550",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8c726a92d8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfd04370a6a_44731/index.m3u8?expire=1774783171&sign=0b85b4fdebdfc3ae62c5a8411d7345d0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-27a7724875",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfcb11326da_79/index.m3u8?expire=1774781841&sign=10ee15f49370686e7915fe52ddae4cf0",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/newcastle-united-vs-sunderland-1900-22-03-2026/601320550"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "English Premier League",
+            "team_a": "Newcastle United",
+            "team_b": "Sunderland",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/5dbe320855e3ba772dbce54f940c6fa5.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/957bdc50c307e2a9b526b34b3792da1a.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-62b3fcad7e82.png?v=1774180108",
+            "thumb_key": "thumbs/kaytee-62b3fcad7e82.webp"
           }
         }
       ]
