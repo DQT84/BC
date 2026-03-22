@@ -8,7 +8,7 @@
     "type": "cover",
     "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/02091990.jpg"
   },
-  "updated_at": "2026-03-22T10:00:11.647947",
+  "updated_at": "2026-03-22T10:58:35.723450",
   "groups": [
     {
       "id": "live_bóng_đá",
@@ -17,75 +17,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "kaytee-2f79caf62956",
-          "name": "⚽ Hang Sai vs Macau University | 15:10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2f79caf62956.png?v=1774173598",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320259",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601320259",
-                  "name": "Hang Sai vs Macau University",
-                  "streams": [
-                    {
-                      "id": "st-601320259",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3681c015e5",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live.alilicloud.com/live/e32cd17cbd087459b506285ce5c65a1a/playlist.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/hang-sai-vs-macau-university-1510-22-03-2026/601320259"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Macao Liga de Elite",
-            "team_a": "Hang Sai",
-            "team_b": "Macau University",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/5ae1443286b6ef5c1bd007939aef5e3c.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/f1b6fc0cb3c4eae6266a29cc4189d719.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-2f79caf62956.png?v=1774173598",
-            "thumb_key": "thumbs/kaytee-2f79caf62956.webp"
-          }
-        },
         {
           "id": "kaytee-d36604d80637",
           "name": "⚽ Dynamic Herb Cebu vs Aguilas-UMak FC | 16:00",
@@ -96,7 +27,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d36604d80637.png?v=1774173603",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d36604d80637.png?v=1774177105",
             "width": 1600,
             "height": 1200
           },
@@ -151,13 +82,13 @@
             "team_b": "Aguilas-UMak FC",
             "logo_a": "https://cdn.rapid-api.icu/football/team/282622540694b98c5ab0110781d9afe4.png",
             "logo_b": "https://cdn.rapid-api.icu/football/team/3b57ab2d85236c9e0df11abcbf400a05.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d36604d80637.png?v=1774173603",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-d36604d80637.png?v=1774177105",
             "thumb_key": "thumbs/kaytee-d36604d80637.webp"
           }
         },
         {
-          "id": "kaytee-b655c9b1ff5a",
-          "name": "⚽ Torpedo Miass vs Mashuk-KMV | 16:00",
+          "id": "kaytee-f20b8673e6c6",
+          "name": "⚽ Metalurh Zaporizhya vs FC Vorskla Poltava | 16:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -165,7 +96,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774173605",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f20b8673e6c6.png?v=1774177107",
             "width": 1600,
             "height": 1200
           },
@@ -179,27 +110,27 @@
           ],
           "sources": [
             {
-              "id": "src-601320499",
+              "id": "src-601321312",
               "name": "Bún Chả TV",
               "contents": [
                 {
-                  "id": "ct-601320499",
-                  "name": "Torpedo Miass vs Mashuk-KMV",
+                  "id": "ct-601321312",
+                  "name": "Metalurh Zaporizhya vs FC Vorskla Poltava",
                   "streams": [
                     {
-                      "id": "st-601320499",
+                      "id": "st-601321312",
                       "name": "KT",
                       "stream_links": [
                         {
-                          "id": "lnk-b98d67902f",
+                          "id": "lnk-e3fb271c8b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live.alilicloud.com/live/4a6623964db6bb152cd794460a8a8916/playlist.m3u8",
+                          "url": "https://live.alilicloud.com/live/741a3a65c71f8a68aab20b25e7971461/playlist.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/torpedo-miass-vs-mashukkmv-1600-22-03-2026/601320499"
+                              "value": "https://bunchatv1.net/truc-tiep/metalurh-zaporizhya-vs-fc-vorskla-poltava-1600-22-03-2026/601321312"
                             },
                             {
                               "key": "User-Agent",
@@ -215,13 +146,13 @@
             }
           ],
           "org_metadata": {
-            "league": "RUS D3A",
-            "team_a": "Torpedo Miass",
-            "team_b": "Mashuk-KMV",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/7b7bb591e753b1b29b3d69794d89bd7a.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/9e2791e0d4af74730e31c8f429b23780.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-b655c9b1ff5a.png?v=1774173605",
-            "thumb_key": "thumbs/kaytee-b655c9b1ff5a.webp"
+            "league": "Ukrainian First League",
+            "team_a": "Metalurh Zaporizhya",
+            "team_b": "FC Vorskla Poltava",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/9d1eb4ac148e20c42051eb9900d36525.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/c2f0bf5d13208beb3438146db6e97867.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-f20b8673e6c6.png?v=1774177107",
+            "thumb_key": "thumbs/kaytee-f20b8673e6c6.webp"
           }
         },
         {
@@ -234,7 +165,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-98dd73ef19ae.png?v=1774173607",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-98dd73ef19ae.png?v=1774177108",
             "width": 1600,
             "height": 1200
           },
@@ -289,8 +220,249 @@
             "team_b": "OshMU Aldier",
             "logo_a": "https://cdn.rapid-api.icu/football/team/0af12c5f3b1feee1eedef570e43a0f18.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/football/team/logo/a75148f2e6e835fe7c58ecd9d8825664.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-98dd73ef19ae.png?v=1774173607",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-98dd73ef19ae.png?v=1774177108",
             "thumb_key": "thumbs/kaytee-98dd73ef19ae.webp"
+          }
+        },
+        {
+          "id": "kaytee-371d4aad26ff",
+          "name": "⚽ Bohemians1905 B vs SK Kladno | 16:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-371d4aad26ff.png?v=1774177110",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601317934",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601317934",
+                  "name": "Bohemians1905 B vs SK Kladno",
+                  "streams": [
+                    {
+                      "id": "st-601317934",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4980f716be",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live.alilicloud.com/live/c904562604c6a4b2a70ebffa2a93a012/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/bohemians1905-b-vs-sk-kladno-1615-22-03-2026/601317934"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Czech Third League",
+            "team_a": "Bohemians1905 B",
+            "team_b": "SK Kladno",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/cab65c911a419976ff0a80e0b091909f.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/e9fb95d30e6993e9fa5b07642b675424.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-371d4aad26ff.png?v=1774177110",
+            "thumb_key": "thumbs/kaytee-371d4aad26ff.webp"
+          }
+        },
+        {
+          "id": "kaytee-fdc6ff25a3be",
+          "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774177113",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320301",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601320301",
+                  "name": "Belediye Vanspor vs Sariyer",
+                  "streams": [
+                    {
+                      "id": "st-601320301",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-52173c1ecf",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfb067326da_133172/index.m3u8?expire=1774775015&sign=bf35cdb2f2597c2294def537697ad1ec",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f05fd6d58b",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/af4a0ed2661b9c190f484df70ccad337/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Belediye Vanspor",
+            "team_b": "Sariyer",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774177113",
+            "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
+          }
+        },
+        {
+          "id": "kaytee-372179286220",
+          "name": "⚽ Atakas Hatayspor vs Amedspor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774177114",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320328",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601320328",
+                  "name": "Atakas Hatayspor vs Amedspor",
+                  "streams": [
+                    {
+                      "id": "st-601320328",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f49b2b23ad",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbb4270a6a_88642/index.m3u8?expire=1774777794&sign=025038656fba20f87349b236c1effeba",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-38e63e44a3",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://live.alilicloud.com/live/7af7bbd9eb91a93ec6fd82afb5b5bfa3/playlist.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish First League",
+            "team_a": "Atakas Hatayspor",
+            "team_b": "Amedspor",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774177114",
+            "thumb_key": "thumbs/kaytee-372179286220.webp"
           }
         }
       ]
@@ -312,7 +484,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-866250b2caf1.png?v=1774173600",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-866250b2caf1.png?v=1774177104",
             "width": 1600,
             "height": 1200
           },
@@ -367,162 +539,15 @@
             "team_b": "Vietinbank",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/97cd4764d37f6693055ec3664f378222.jpg",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/91bba93583cafe0c6d1050cb24fedb6e.jpg",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-866250b2caf1.png?v=1774173600",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-866250b2caf1.png?v=1774177104",
             "thumb_key": "thumbs/kaytee-866250b2caf1.webp"
           }
         }
       ]
     },
     {
-      "id": "upcoming_bóng_đá",
-      "name": "⏳ Sắp Live ⚽ Bóng Đá",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "kaytee-fdc6ff25a3be",
-          "name": "⚽ Belediye Vanspor vs Sariyer | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774173609",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320301",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601320301",
-                  "name": "Belediye Vanspor vs Sariyer",
-                  "streams": [
-                    {
-                      "id": "st-601320301",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52173c1ecf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfb067326da_133172/index.m3u8?expire=1774775015&sign=bf35cdb2f2597c2294def537697ad1ec",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/belediye-vanspor-vs-sariyer-1700-22-03-2026/601320301"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Belediye Vanspor",
-            "team_b": "Sariyer",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1775a3cc03d54d5cee9731d9df7c4e87.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/24067249253d42b354d1a6316a377f76.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-fdc6ff25a3be.png?v=1774173609",
-            "thumb_key": "thumbs/kaytee-fdc6ff25a3be.webp"
-          }
-        },
-        {
-          "id": "kaytee-372179286220",
-          "name": "⚽ Atakas Hatayspor vs Amedspor | 17:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774173611",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Sắp Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-601320328",
-              "name": "Bún Chả TV",
-              "contents": [
-                {
-                  "id": "ct-601320328",
-                  "name": "Atakas Hatayspor vs Amedspor",
-                  "streams": [
-                    {
-                      "id": "st-601320328",
-                      "name": "KT",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f49b2b23ad",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69bfbb4270a6a_88642/index.m3u8?expire=1774777794&sign=025038656fba20f87349b236c1effeba",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv1.net/truc-tiep/atakas-hatayspor-vs-amedspor-1730-22-03-2026/601320328"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish First League",
-            "team_a": "Atakas Hatayspor",
-            "team_b": "Amedspor",
-            "logo_a": "https://cdn.rapid-api.icu/football/team/1fee4ece0adfb61b06264aa3e87e2a50.png",
-            "logo_b": "https://cdn.rapid-api.icu/football/team/52a8c01c49d76f1f74ad148b07ef83f9.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-372179286220.png?v=1774173611",
-            "thumb_key": "thumbs/kaytee-372179286220.webp"
-          }
-        }
-      ]
-    },
-    {
-      "id": "upcoming_cầu_lông",
-      "name": "⏳ Sắp Live 🏸 Cầu Lông",
+      "id": "live_cầu_lông",
+      "name": "🔴 Live 🏸 Cầu Lông",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -537,16 +562,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774173607",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774177112",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Sắp Live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -592,8 +617,86 @@
             "team_b": "LIN Chih-Chun /  YANG Chu Yun",
             "logo_a": "https://cdn-live.taoxanh.biz/live-dev/cms/06b9f07a2df87f6bfe6d5c8fbd13d515.png",
             "logo_b": "https://cdn-live.taoxanh.biz/live-dev/cms/584f4813b4ce8668fb28f5e00ceb668f.png",
-            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774173607",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-4436e5de9354.png?v=1774177112",
             "thumb_key": "thumbs/kaytee-4436e5de9354.webp"
+          }
+        }
+      ]
+    },
+    {
+      "id": "upcoming_bóng_đá",
+      "name": "⏳ Sắp Live ⚽ Bóng Đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-7c16286e2355",
+          "name": "⚽ SHB Da Nang vs Cong An Ha Noi FC | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c16286e2355.png?v=1774177115",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Sắp Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-601320472",
+              "name": "Bún Chả TV",
+              "contents": [
+                {
+                  "id": "ct-601320472",
+                  "name": "SHB Da Nang vs Cong An Ha Noi FC",
+                  "streams": [
+                    {
+                      "id": "st-601320472",
+                      "name": "KT",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d1c719e15",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://cdn-hls.taoxanh.biz/live/69bfc98e326da_103/index.m3u8?expire=1774781454&sign=b264417818363fd365cec476ca0e63f8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://bunchatv1.net/truc-tiep/shb-da-nang-vs-cong-an-ha-noi-fc-1800-22-03-2026/601320472"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam National Champion League",
+            "team_a": "SHB Da Nang",
+            "team_b": "Cong An Ha Noi FC",
+            "logo_a": "https://cdn.rapid-api.icu/football/team/46a4867487152e47c4dc61984d0c58aa.png",
+            "logo_b": "https://cdn.rapid-api.icu/football/team/f3dde7370cf875e4e657b4331b1b4a31.png",
+            "thumb": "https://raw.githubusercontent.com/DQT84/BC/main/thumbs/kaytee-7c16286e2355.png?v=1774177115",
+            "thumb_key": "thumbs/kaytee-7c16286e2355.webp"
           }
         }
       ]
